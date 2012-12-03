@@ -10,6 +10,6 @@ Features:
 	<li>Barebones -- no combat/magic system</li>
 	<li>Everything stored in a MySQL database</li>
 	<li>Objects are still in memory</li>
-	<li>OLC</li>
+	<li>OLC (On Line Creation)</li>
 </ul>
 
