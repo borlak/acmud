@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+                             Licence - Terms of Use
+-------------------------------------------------------------------------------
+
+You must do the following in order to use the source code of ACM:
+1) There must be a credits command which contains the ../help/credits.help 
+   information.
+2) Do not modify the headers within the source files.
+3) Do not modify the /doc directory or this file.
+
+That is all.

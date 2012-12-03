@@ -1,0 +1,1055 @@
+Area        Spawn   Doom
+
+
+Room        11000
+Name        A large room
+Description The door slams behind you.  All you see is darkness and walls that are splattered with bits of blood and gore.  A large green pool is in the center of the room, and you haven't the slightest idea what is inside. You just know you aren't in Kansas anymore. 
+Exit    north
+ToVnum  11001
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  902
+Door    0
+Key     0
+End
+End
+
+Object      11000
+Name        an assault shotgun
+LongDescr   A large caliber shotgun lies on the floor here.
+Description 
+End
+
+Creature    11000
+Name        A zombified soldier
+LongDescr   A zombified soldier stands here, scanning the area for food.
+Description He glares back into your eyes. 
+End
+
+Room        11001
+Name        Above the large green pool
+Description You are swimming on top of the green pool, which is so thick you cannot see anything more than one foot under its surface. 
+Exit    north
+ToVnum  11002
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11006
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11000
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11005
+Door    0
+Key     -1
+End
+Exit    down
+ToVnum  11015
+Door    0
+Key     -1
+End
+End
+
+Object      11001
+Name        a flying orb of flame
+LongDescr   A large flaming orb floats in the air in front of you.
+Description 
+End
+
+Creature    11001
+Name        An imp
+LongDescr   A large brown creature stands here, and begins fireing orbs of flame in your direction.
+Description  
+End
+
+Room        11002
+Name        A large room
+Description You are standing within a dark,blood splattered room. 
+Exit    east
+ToVnum  11004
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11001
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11003
+Door    0
+Key     -1
+End
+End
+
+Object      11002
+Name        a 9mm pistol
+LongDescr   A pistol lies on the floor here.
+Description 
+End
+
+Creature    11002
+Name        A bull looking creature
+LongDescr   A large bullish creature stands here and glances at you for only a second before he charges.
+Description  
+End
+
+Room        11003
+Name        A large room
+Description You are standing within a dark, blood splattered room. 
+Exit    east
+ToVnum  11002
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11005
+Door    0
+Key     -1
+End
+End
+
+Object      11003
+Name        a plasma rifle
+LongDescr   A large humming rifle lies on the ground here.
+Description 
+End
+
+Creature    11003
+Name        A large alligator
+LongDescr   A large creature swims around in a circle.
+Description  
+End
+
+Room        11004
+Name        A large room
+Description You are standing within a dark, blood splattered room. 
+Exit    north
+ToVnum  11017
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11006
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11002
+Door    0
+Key     -1
+End
+End
+
+Object      11004
+Name        a large chainsaw
+LongDescr   A giant vibrating saw lies here, burning fuel.
+Description 
+End
+
+Creature    11004
+Name        A zombified guard
+LongDescr   A large zombie stands before you, guarding his post.
+Description  
+End
+
+Room        11005
+Name        A large room
+Description This room is none better than the ones you have seen before, still grotesquely splattered with gore and blood, but to your west you see a lighter room, and there seem to be people within it. 
+Exit    north
+ToVnum  11003
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11001
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11008
+Door    0
+Key     -1
+End
+End
+
+Object      11005
+Name        a green beret
+LongDescr   A small green hat lies here.
+Description 
+End
+
+Creature    11005
+Name        The zombified commander of the guards
+LongDescr   A huge zombified guard stands before you, stopping your advance.
+Description  
+End
+
+Room        11006
+Name        A large room
+Description You are standing in the dank room, and out the windows to your east, you see a large arena, filled with what appear to be strange animals of some sort. 
+Exit    north
+ToVnum  11004
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11001
+Door    0
+Key     -1
+End
+End
+
+Object      11006
+Name        a green kevlar vest
+LongDescr   A small green kevlar vest lies here.
+Description 
+End
+
+Creature    11006
+Name        A space trooper
+LongDescr   A space trooper stands here, apparently on a mission to clear out this foul place.
+Description  
+End
+
+Object      11007
+Name        a protective blue helmet
+LongDescr   A blue helmet lies on the ground.
+Description 
+End
+
+Creature    11007
+Name        A space marine
+LongDescr   A space marine stands before you, shooting at demons and looking impressive.
+Description  
+End
+
+Room        11008
+Name        A small passageway
+Description As you get closer to the figures you saw before you see that they are in fact not human, at least  not anymore, and they appear to have one thought on their mind.  Lunch. 
+Exit    east
+ToVnum  11005
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11009
+Door    0
+Key     -1
+End
+End
+
+Object      11008
+Name        an armored blue chestplate
+LongDescr   A large piece of blue armor lies here.
+Description 
+End
+
+Creature    11008
+Name        The space marine commander
+LongDescr   The commander of the space marines stands here upon a pile of corpses.
+Description  
+End
+
+Room        11009
+Name        A small room
+Description There is a large set of stairs to your west, leading up to what appears to be an observation platform of some sort, and the hungry looking zombies around you appear to be trying to keep you from finding out what they are observing. 
+Exit    north
+ToVnum  11011
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11008
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11010
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11012
+Door    0
+Key     -1
+End
+End
+
+Object      11009
+Name        a gleaming red commando helmet
+LongDescr   A huge red helmet lies here.
+Description 
+End
+
+Creature    11009
+Name        A horrific mutated creature
+LongDescr   A horrificly mutated creature stumbles toward you and attacks!
+Description  
+End
+
+Room        11010
+Name        A small room
+Description More of the disgusting zombies are here, trying to get a bit of food. 
+Exit    north
+ToVnum  11009
+Door    0
+Key     -1
+End
+End
+
+Object      11010
+Name        a suit of stunning red armor
+LongDescr   A giant piece of red armor lies on the floor here.
+Description 
+End
+
+Creature    11010
+Name        A large spiderlike android
+LongDescr   A large spider looking android is standing before you, firing his minigun.
+Description  
+End
+
+Room        11011
+Name        A small room
+Description More of the disgusting zombies are here, trying to get a bit of food. 
+Exit    south
+ToVnum  11009
+Door    0
+Key     -1
+End
+End
+
+Object      11011
+Name        a piece of toxic material
+LongDescr   A large hunk of glowing green material lies here.
+Description 
+End
+
+Creature    11011
+Name        A small spiderlike android
+LongDescr   A smaller replica of the larger spiders stands before you.
+Description  
+End
+
+Room        11012
+Name        The start of the stairs
+Description You are standing at the foor of the stairs, and even more creatures are trying to block your further access. 
+Exit    east
+ToVnum  11009
+Door    0
+Key     -1
+End
+Exit    up
+ToVnum  11013
+Door    0
+Key     -1
+End
+End
+
+Object      11012
+Name        a barrel of toxic liquid
+LongDescr   A large barrel filled with a toxic substance lies here.
+Description 
+End
+
+Room        11013
+Name        The top of the stairs
+Description After your short run up the stairs, you are being greeted by what appear to be imps of some foul demon. 
+Exit    west
+ToVnum  11014
+Door    0
+Key     -1
+End
+Exit    down
+ToVnum  11012
+Door    0
+Key     -1
+End
+End
+
+Object      11013
+Name        a red keycard
+LongDescr   A small piece of red plastic lies on the floor.
+Description 
+End
+
+Room        11014
+Name        A large observation platform
+Description You are standing within a large, windowed room, which shows the outside of the facility, and appears to be here for security purposes.  There is a large container on the floor, which appears to be holding some kevlar body armor to be used by the "guards". 
+Exit    east
+ToVnum  11013
+Door    0
+Key     -1
+End
+End
+
+Object      11014
+Name        a green keycard
+LongDescr   A small piece of green plastic lies on the floor.
+Description 
+End
+
+Room        11015
+Name        Within the muck
+Description You are swimming inside the oozing green muck, and even though it is a bit easier to see here, you still cannot see clearly.  But you do see a few shapes swirling about you, and you believe you have a pretty good idea of what they might be. 
+Exit    up
+ToVnum  11001
+Door    0
+Key     -1
+End
+End
+
+Object      11015
+Name        a blue keycard
+LongDescr   A small piece of blue plastic lies on the floor here.
+Description 
+End
+
+Room        11017
+Name        A small hallway
+Description You are inside a hallway that appears to be leading into the facility. 
+Exit    east
+ToVnum  11018
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11004
+Door    0
+Key     -1
+End
+End
+
+Room        11018
+Name        The guard post
+Description This room appears to be a guard post, or at least it was, before these zombies took it over. 
+Exit    north
+ToVnum  11019
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11017
+Door    0
+Key     -1
+End
+End
+
+Room        11019
+Name        The diagnostics lab
+Description This room is LINED with computer monitors and equipment, and appears to be used for data analysis of some sort, or, at least it used to be. 
+Exit    north
+ToVnum  11023
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11022
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11018
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11021
+Door    0
+Key     -1
+End
+End
+
+Room        11021
+Name        The diagnostics lab
+Description This room is LINED with computer monitors and equipment, and appears to be used for data analysis of some sort, or, at least it used to be. 
+Exit    north
+ToVnum  11025
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11019
+Door    0
+Key     -1
+End
+End
+
+Room        11022
+Name        The diagnostics lab
+Description This room is LINED with computer monitors and equipment, and appears to be used for data analysis of some sort, or, at least it used to be. 
+Exit    north
+ToVnum  11024
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11019
+Door    0
+Key     -1
+End
+End
+
+Room        11023
+Name        An examination lab
+Description A large table sits in the center of this room, and upon it is an almost amusing dismembered corpse.  After all you have seen here thus far, this lifeless body is a relief. 
+Exit    south
+ToVnum  11019
+Door    0
+Key     -1
+End
+End
+
+Room        11024
+Name        A small corridor
+Description This corridor seems to be used as a passageway to the rest of the facility. 
+Exit    north
+ToVnum  11028
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11022
+Door    0
+Key     -1
+End
+End
+
+Room        11025
+Name        A small corridor
+Description This corridor seems to be used as a passageway to the rest of the facility. 
+Exit    north
+ToVnum  11026
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11021
+Door    0
+Key     -1
+End
+End
+
+Room        11026
+Name        A small corridor
+Description This corridor seems to be used as a passageway to the rest of the facility. 
+Exit    east
+ToVnum  11027
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11025
+Door    0
+Key     -1
+End
+End
+
+Room        11027
+Name        A small corridor
+Description This corridor seems to be used as a passageway to the rest of the facility. 
+Exit    east
+ToVnum  11028
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11026
+Door    0
+Key     -1
+End
+End
+
+Room        11028
+Name        A small corridor
+Description This corridor seems to be used as a passageway to the rest of the facility. 
+Exit    north
+ToVnum  11029
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11024
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11027
+Door    0
+Key     -1
+End
+End
+
+Room        11029
+Name        A guard post
+Description You are standing at what appears to be yet another guard post.  It is very similar to the one you were at before, another set of guards, and another gate that appears to be locked by a passkey stand before your advance. 
+Exit    north
+ToVnum  11030
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11028
+Door    0
+Key     -1
+End
+End
+
+Room        11030
+Name        A long bridge
+Description This bridge appears to span the entire length of a nasty pool, which appears to be filled with a highly corrosive substance. 
+Exit    north
+ToVnum  11032
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11031
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11029
+Door    0
+Key     -1
+End
+End
+
+Room        11031
+Name        The pool of acid
+Description Sizzle, Pop, Sizzle, Pop. 
+End
+
+Room        11032
+Name        A long bridge
+Description This bridge appears to span the entire length of a nasty pool, which appears to be filled with a highly corrosive substance. 
+Exit    north
+ToVnum  11034
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11030
+Door    0
+Key     -1
+End
+End
+
+Room        11033
+Name        The pool of acid
+Description Sizzle, Pop, Sizzle, Pop. 
+End
+
+Room        11034
+Name        The end of the bridge
+Description You have reached the end of the bridge, and above  you is another guard post, and a small distance to the north is another security gateway. 
+Exit    north
+ToVnum  11036
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11032
+Door    0
+Key     -1
+End
+Exit    up
+ToVnum  11035
+Door    0
+Key     -1
+End
+End
+
+Room        11035
+Name        The lookout post
+Description This post appears to be a lookout for the next clearance gateway. 
+Exit    down
+ToVnum  11034
+Door    0
+Key     -1
+End
+End
+
+Room        11036
+Name        A long hallway
+Description You are standing directly south of the next security gateway, which appears to be even more heavily guarded than the last two you passed thru. 
+Exit    north
+ToVnum  11050
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11037
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11034
+Door    0
+Key     -1
+End
+End
+
+Room        11037
+Name        A hidden passage
+Description You are standing within a hidden passageway, which appears to lead to the large arena you saw thru the window earlier. 
+Exit    east
+ToVnum  11038
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11036
+Door    0
+Key     -1
+End
+End
+
+Room        11038
+Name        A hidden passage
+Description You are standing within a hidden passageway, which appears to lead to the large arena you saw thru the window earlier. 
+Exit    east
+ToVnum  11039
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11037
+Door    0
+Key     -1
+End
+End
+
+Room        11039
+Name        A hidden passage
+Description You are standing within a hidden passageway, which appears to lead to the large arena you saw thru the window earlier.  There are stairs leading up to the arena in this room. 
+Exit    west
+ToVnum  11038
+Door    0
+Key     -1
+End
+Exit    up
+ToVnum  11040
+Door    0
+Key     -1
+End
+End
+
+Room        11040
+Name        The entrence to the arena
+Description You are standing within the gateway to the arena, which appears to be filled with an assortment of zombified creatures and hellish demonic figures. 
+Exit    east
+ToVnum  11041
+Door    0
+Key     -1
+End
+Exit    down
+ToVnum  11039
+Door    0
+Key     -1
+End
+End
+
+Room        11041
+Name        The arena
+Description You are standing inside the large arena, and are slowly being surrounded by all creatures brave enough to attack you. 
+Exit    north
+ToVnum  11042
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11044
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11043
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11040
+Door    0
+Key     -1
+End
+End
+
+Room        11042
+Name        The arena
+Description You are standing inside the large arena, and are slowly being surrounded by all creatures brave enough to attack you. 
+Exit    east
+ToVnum  11045
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11041
+Door    0
+Key     -1
+End
+End
+
+Room        11043
+Name        The arena
+Description You are standing inside the large arena, and are slowly being surrounded by all creatures brave enough to attack you. 
+Exit    north
+ToVnum  11041
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11046
+Door    0
+Key     -1
+End
+End
+
+Room        11044
+Name        The center of the arena
+Description You have found the biggest, baddest space marine of them all.  He is standing here upon a pile of corpses, and is smirking at you the moment you enter the room.  He looks like he is happy to see you. 
+Exit    north
+ToVnum  11045
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11047
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11046
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11041
+Door    0
+Key     -1
+End
+End
+
+Room        11045
+Name        The arena
+Description You are standing inside the large arena, and are slowly being surrounded by all creatures brave enough to attack you. 
+Exit    east
+ToVnum  11048
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11044
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11042
+Door    0
+Key     -1
+End
+End
+
+Room        11046
+Name        The arena
+Description You are standing inside the large arena, and are slowly being surrounded by all creatures brave enough to attack you. 
+Exit    north
+ToVnum  11044
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11049
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11043
+Door    0
+Key     -1
+End
+End
+
+Room        11047
+Name        The arena
+Description You are standing inside the large arena, and are slowly being surrounded by all creatures brave enough to attack you. 
+Exit    north
+ToVnum  11048
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11049
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11044
+Door    0
+Key     -1
+End
+End
+
+Room        11048
+Name        The arena
+Description You are standing inside the large arena, and are slowly being surrounded by all creatures brave enough to attack you. 
+Exit    south
+ToVnum  11047
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11045
+Door    0
+Key     -1
+End
+End
+
+Room        11049
+Name        The arena
+Description You are standing inside the large arena, and are slowly being surrounded by all creatures brave enough to attack you. 
+Exit    north
+ToVnum  11047
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11046
+Door    0
+Key     -1
+End
+End
+
+Room        11050
+Name        The guard post
+Description An even more heavily guarded post stands before you, guarded by seemingly posessed creatures. 
+Exit    north
+ToVnum  11051
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11036
+Door    0
+Key     -1
+End
+End
+
+Room        11051
+Name        The containment area
+Description You are standing in a room lined by caged walls, which contain almost hideous replicas of human beings. 
+Exit    north
+ToVnum  11052
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11050
+Door    0
+Key     -1
+End
+End
+
+Room        11052
+Name        The containment area
+Description You are standing in a room lined by caged walls, which contain almost hideous replicas of human beings. 
+Exit    north
+ToVnum  11053
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11051
+Door    0
+Key     -1
+End
+End
+
+Room        11053
+Name        The end of the containment area
+Description You managed to walk past the cages without being attacked thru the cage fencing, but the guards you walked right up to may be a bit more hostile. 
+Exit    north
+ToVnum  11054
+Door    0
+Key     -1
+End
+Exit    east
+ToVnum  11057
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11052
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11055
+Door    0
+Key     -1
+End
+End
+
+Room        11054
+Name        A small room
+Description This room appears to be a closet of some sort, maybe an elevator even.  On the wall is a large switch, and above it some words are scribbled upon the wall. 
+Exit    south
+ToVnum  11053
+Door    0
+Key     -1
+End
+End
+
+Room        11055
+Name        The entrence to a cage
+Description To the south is the latched door which holds this mortifying creature within its confinement. 
+Exit    east
+ToVnum  11053
+Door    0
+Key     -1
+End
+Exit    south
+ToVnum  11056
+Door    0
+Key     -1
+End
+End
+
+Room        11056
+Name        A cage
+Description You are standing inside one of the large cages which only moments ago you were standing outside...  And right now outside seems like a great place to be. 
+Exit    north
+ToVnum  11055
+Door    0
+Key     -1
+End
+End
+
+Room        11057
+Name        The entrence to a cage
+Description To the south is the latched door which holds this mortifying creature within its confinement. 
+Exit    south
+ToVnum  11058
+Door    0
+Key     -1
+End
+Exit    west
+ToVnum  11053
+Door    0
+Key     -1
+End
+End
+
+
+
+End
+

@@ -1,0 +1,42 @@
+-------------------------------------------------------------------------------
+                               History of ACM
+-------------------------------------------------------------------------------
+-- August 30, 2001: Removed my own license and am putting the mud under the
+OGL, or Open Gaming License, created by Wizards of the Coast.  Also, I am
+basing the mud "systems" off of Wizard's System Reference Document.  See
+Bibliography for websites.
+
+-- August 29, 2001: Added signal handling.  Mud now has built-in check for
+infinite loop and will abort when one is detected.  Improved mud sleeping; it
+now does #loops/second and divides up the time evenly.  Added races, classes,
+skills in character structure.
+
+-- August 15, 2001: Removed room prototyping.
+
+-- August 9, 2001: Ported ACM to Windows.  Bibliography added in /doc.  os.h and
+os.c added.  Added non-blocking to sockets.
+
+-- July 21, 2001:  Randon number generator added.  Licence added.
+
+-- July 20, 2001:  Converting area function done.  Reading areas now possible.
+
+-- July 15, 2001:  Renamed the mud from minimud to ACM (A C Mud).
+
+-- July 14, 2001:  Added merc-area to minimud-area converter function
+(convert.c).
+
+-- July 2001:  I'm back to modifying this code.  I have fixed all known bugs,
+and am creating a more solid skeletal/barebones codebase to release to the
+public.
+
+-- April 2000:  This mud was entered into Erwin Andreasen's 16k mud competition
+(http://www.andreasen.org/16k.shtml), and got last place!  Kind of going off
+base, I decided to make a mud that would be good for the community.  Easy to
+modify, familiar design (MERC).  The goal of the contest was to make the most
+"fun" mud out of 16k.  I had a chat server :)  With bugs in fact!  I didn't find
+out until later, even after numerous thank-you emails, that I left in a
+terrible bug (also a harmless one).  I had not used ->prev and ->next pointers
+in linked lists (MERC just uses ->next), and I made the mistake of forgetting to
+initialize ->prev in my linked list macros.
+
+

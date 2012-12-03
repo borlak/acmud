@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+                                 Bibligrophy
+-------------------------------------------------------------------------------
+          Sources of code and general help used in making this mud.
+-------------------------------------------------------------------------------
+
+Sockets : http://www.sockets.com/winsock.htm#IOCTLSocket
+
+Unix Source : http://www.ajk.tele.fi/libc/code.html
+
+MSDN Library : http://msdn.microsoft.com/library/default.asp
+
+Google for various help : http://www.google.com
+
+Mud Connector for various help : http://www.mudconnect.com
+
+Snippets (RNG) : http://remus.rutgers.edu/~rhoads/Code/code.html
+
+Wizards of the Coast : http://www.wizards.com
+
+Open Gaming License (OGL) : http://www.wizards.com/D20/article.asp?x=dt20010417g
+
+System Reference Document (SRD) : http://www.wizards.com/D20/article.asp?x=srd
