@@ -1,0 +1,91 @@
+[ ] logs player in as default creature, when they quit, adds default creature to player
+    table.  got a screencap of logs that initiated this saved under defcrit.bug in /src
+    possibly related to when new characters login/save.
+[ ] writing a note...typed delete, got "deleted -1 from db" .. saw delete function
+    doesn't have notes in it.. tried 'note remove #' and it crashed mud
+[b] taking stuff from bags not working... (get all bag still doesn't work)
+--- bugs above this line found after 11/17/2007
+[ ] what's this silly cmdio.c file??!! combine it
+[ ] get rid of redundant string functions! I like pip's name better.. findinset
+[ ] make mud do a reset at startup
+[ ] deleting a reset caused crash
+[ ] resets don't show that you are editing them? i.e. pip edits shop[0]?
+[ ] resets use check_builder but don't have a check for resets?
+[b] wierd descriptor bug when rebooting while two instances of the mud are up 
+    (ie.builder/test port).. it will usurp players from the other mud
+    -- pip try and reproduce this, doesn't seem to work anymore
+
+// FIXED
+[B] duplicate equipment bug - logging in and out dupes worn/inventory?!? 
+    when did this happen?
+// SINCE 11/17/2007
+[PB] you can't @delete 1
+[B] using @before and putting in ansi doesn't work.. shows the actual "MUD" ansi codes
+    -- can't duplicate ?
+[B] user/socket and hostnames aren't done quite right yet
+[B] some bug with hotrebooting and kicking you off -- descriptors aren't loaded right?
+[BP] edit room__# <-- the extra space between room and number crashes it
+    -- couldn't reproduce.. must have been fixed with my last command overhaul
+// since the 3-18-2005 release
+[B] dude's corpse and dude in same room.. can tickle corpse, but tickle 2 dude won't
+    tickle the player.. this is because it goes thru find_obj and then find_player but
+    is looking for a second player named dude -- need to add up every obj/crit found..
+    and lets redo the way we count stuff, im not sure i like the way i did it!
+[P] @replace at end of sentence wont work.. and make it so it can replace multiple
+    words. (also made it so it doesn't loop continuosly trying to replace a word that
+    contains the same word  i.e. replacing h with hi)
+[B] not allowing negative numbers in macros.h ??
+[P] line paging kicking some people off - inulis gets kicked when he hits enter after
+    24 line page pause.. when it's set to -1, nothing happens.
+    -- this had to do with socket code not accepting "enter-only" input (i.e. ppl that
+    hit enter key) on clients that only send \n -... oops!
+[P] fix problem with java applet, will hang if you hit enter with no input.
+    -- was doing if recvlen <= 0 which got telnet defaults because they do \r\n
+    but was infinitely looping for java because it only sends \n
+[P] still crashing on forcing ld to do stuff with sockets.. i.e. force bor tit .
+    -- that's because we were NULLing the sockets out, and using flags instead of
+    connection status on linkdead.  moved everything to CON_LINKDEAD
+[B] system is losing time?? i had it set to nuclear time and i checked later and it's
+    5-6 minutes off.
+    -- thats like a linux or box prob so who cares
+[B] notes will show up in list instantly even before editing is complete.
+    -- now shows if someone is editing a note
+[B] kicked for spamming out of editor... how to handle. (doesn't save currently)
+    -- can't be kicked for spamming while in editor now
+[P] some clients (putty is a known one) will come up with invalid name for the first
+    attempt, but work after that... they must send extra characters the first time?
+    -- discovered this is a putty issue, the first time it connects everywhere instead
+    of the first letter it does some wierd stuff, here's a log for the name pip: [LOG] ARG: û û'ûip
+    does this on a number of different muds and mud bases.
+[B] in coin_string function, seems to hold "strings" in memory 
+    as well as the worth. i.e. if you call it twice it keeps the same
+    "worth" value and uses it again for the next function.
+    -- this problem is with sprintf and static chars.. work around it.
+[P] idle crash bug from jb/crys - this one was horrible, 6 month bug having to do
+    with the way we read sockets.. thanks to RobSeace, i3839, and Uzume on the Unix
+    Socket FAQ for helping me walk through our socket code.
+    the bug - http://www.developerweb.net/forum/viewtopic.php?t=748&postdays=0&postorder=asc&start=0
+	Unix Socket FAQ - www.developerweb.net/forum
+[P] @after #(no other input) .. crashes it.
+[P] You say 'you should allow spaces at the beginning of a string in editor'
+[P] make prompt have more options and make options work: %r (room number) %R (room desc) etc.
+    -- already had this functionality, but borlak didn't use all_args
+[B] tar in database backup doesn't like .. in "member" names. use a variable for their directory?
+[B] fix time so it creates a new record each boot up
+[P] fix telnet so it works with windows telnet and zMud
+[P] allow two word keywords in help?
+[P] fix create_host: bind: address already in use
+[P] on convert... sometimes crashes on update_resets on door resets because of invalid rooms
+[B] if (editing) then cancel if link dropped.
+[B] what flags do mobs have when created? all of them? i notice you remove player flag..
+    -- i remove player flag because of memory recycling, silly!
+[P] fix wear code to allow for 2 spots with the same name, ie "held held" or "finger finger".. you can hold 2 things
+[B] backups mysteriously stopped working!
+[B] fix the bug with players not saving.
+[P] fix page line pausing (first time doesn't pause and reprompts for every enter pushed)
+[B] give a cpl more tries to reconnect attempts b4 making them wait
+[P] check randneg, don't think it's working right!
+[P] crash on .$n $N $s $S $x $X borlak
+[B] edit object, edit <etc> should all work
+[B] check into making trans work with coins (combining etc) <-- nah, implemented Combine command
+

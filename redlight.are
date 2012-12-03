@@ -1,0 +1,7696 @@
+#AREA *Mab    Redlight District~
+
+
+#MOBILES
+#21500
+water slimy sprite~
+A slimy water sprite~
+A piece of slime floats on top of the surface.
+~
+The slimy sprite has laid in wait for unwary travelers for years and has taken many victims. A thick stench emits from the corrosive slime on her body.
+~
+4|32|64 8|32768 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21501
+dirty sailor~
+A dirty sailor~
+A dirty-looking sailor stealthily unloads his cargo.
+~
+The sailor notices your gaze and quickly moves away into the shadows.
+~
+4|64 32768 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21502
+drunk dockmaster~
+The drunk dockmaster~
+The dockmaster leans against his desk taking deep swigs from his bottle.
+~
+The dockmaster seems likely to die from alcohol poisoning at any time. His long, weather-stained beard is soaked with his brew. You wonder whether you should offer to buy him another beer in exchange for allowing you to dock your boat, but quickly realize one more drink may kill the poor man.
+~
+2|4|64 0 1 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21503
+customs officer~
+The customs officer~
+The customs officer approaches you and asks to examine your baggage.
+~
+This man bends to no man and is a loyal servant to the Master of this realm. He prides himself on dutifully performing every task of his position to the letter. He seems intent on examining your baggage and demands to search you.
+~
+2|64 8|32 1 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21504
+sailor porter grungy frail~
+A grungy porter~
+A grungy, frail-looking porter carries his load on his back from the port to supply the realm.
+~
+The porter seems worn by time and his situation. For years he toiled as a sailor, but after growing weak with age, has become a land-lubber and now carries the ships loads through the realm on his back.
+~
+4 32768 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21505
+Dirty shopkeeper bartender~
+Dirty~
+Dirty offers you a taste of his famous Dirty brew.
+~
+>From what Dirty's brew is made is a mystery. However, it is known throughout the realm as the cheapest, most potent alcohol. He grins at you in a friendly manner and offer you a taste.
+~
+2|64 0 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21506
+drunk sailor~
+A drunk sailor~
+Seemingly unconscious, the sailor lies with his head on the table.
+~
+This sailor has had too much to drink.
+~
+2|64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21507
+singing sailor~
+A singing sailor~
+Singing at the top of his lungs, the sailor screams, 'Oh, ho, gimme some brew!'
+~
+This sailor needs a serious lesson in pitch and tone, but he probably would have forgotten it due to his state of intoxication.
+~
+2|4|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21508
+barmaid cute~
+A cute barmaid~
+A cute barmaid hussles to and fro bringing Dirty's brew to the racaus crowd.
+~
+Although a bit old, something about this barmaid makes her cute. It isn't her hazel eyes or her flabby body. Maybe it has something to with the beer goggles you have on?
+~
+2|64 0 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21509
+Karl shopkeeper~
+Karl~
+Karl sits in his empty shop with an odd look on his face.
+~
+Karl peers around the room and surveys your attire. After sizing you up for a bit, Karl whispers to you, 'For a few coins, I can arrange for free exportation of any illict goods."
+~
+2|4|64 8 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21510
+bag lady old dirty~
+A bag lady~
+An old, dirty-looking lady stumbles past you collecting odd pieces of trash.
+~
+The old lady carries huge bags full of trash she has collected from this walkway. You notice she seems to smell like the trash, too. Phew!
+~
+4|64 32768 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21511
+cart pushing man bum~
+A cart-pushing bum~
+A bum briskly walks by pushing a cart full of trash.
+~
+The bum's cart is full of assorted garbage picked up from the garbage pits and along the paths and streets of the realm. He grimly looks at you and asks if you have any trash or coins to spare.
+~
+4|64 32768 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21512
+old sage psychadelic~
+An old psychadelic sage~
+An old stage lies on his back staring at the clouds.
+~
+The psychadelic sage has probably taken one too many hits in town. He turns to look at you and says, 'Careful, my friend. The green joints are trippy and laced with something. I took only one and look at me.' His eyes can't seem to concentrate on any one object for more than a moment.
+~
+2|4|64 2|256 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21513
+pack rat filthy~
+A pack rat~
+A filthy pack rat glares at you, enraged by your intrusion.
+~
+This rat has spent years living in the garbage heaps belonging to the nearby city and has amassed a fortune. He doesn't seem to pleased by you invading his home.
+~
+2|4|32|64 8|65536 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21514
+rosalita shopkeeper bartender~
+Rosalita~
+Rosalita is prepared to offer you the finest ganga.
+~
+Rosalita is a big woman, but she has a kind heart. Her homey clothing and her bright smile instill faith in the fact she offers a high quality product.
+~
+2|64 8 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21515
+joseph dazed~
+Joseph~
+With a dazed look, Joseph fumbles dumbly past you.
+~
+Joseph should be at work right now, but instead he is wandering about the city after having a really bad trip. You remember being told that strung out people sometimes fight fairly hard if cornered, so be careful in your approach to him.
+~
+64 256|65536 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21516
+filthy man~
+A filthy man~
+A filthy man shivers in the corner of the room.
+~
+This man is tripped out on something and is hiding from some unseen creature which stalks his mind.
+~
+4|64 256|32768|65536 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21517
+woman~
+A filthy woman~
+A filthy woman lies still in the corner with her eyes closed.
+~
+This woman appears to be another victim of a bad drug experience.
+~
+4|64 256|32768|65536 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21518
+wayne shopkeeper bartender wacky~
+Wacky Wayne~
+Wacky Wayne seemingly stares past you while offering you some of his goods.
+~
+Wacky Wayne began his drug experiences years ago and has since become an owner of an acceptable establishment. Granted, it is acceptable only in this part of the world. Wayne will still deny he is here no matter how much you look at him.
+~
+2|64 8|256 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21519
+piano pianist Dutch~
+Dutch the pianist~
+Dutch hammers away at his piano creating soothing, bluesy tunes.
+~
+Dutch takes a break from his playing and turns to you. 'Can I play you a tune, stranger?' His breath carries the heavy smell of Wacky Wayne's product.
+~
+2|64 256 1 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21520
+Johnathan~
+Johnathan~
+Johnathan draws his sword and attacks you!
+~
+Johnathan is the somewhat proud owner of the crack house. He and his family areprepared to die to keep their business and their home.
+~
+2|32|64 65536 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21521
+Lucy~
+Lucy~
+Lucy springs from the corner of the room to defend her children!
+~
+Lucy has the look of a wild animal defending her pups. She heard her son's death cry earlier and now is prepared to wreak vengence on the murderer.
+~
+2|32|64 65536 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21522
+carol anne~
+Carol Anne~
+A small, pale child sits in the corner.
+~
+Wearing a dirty tee-shirt and pants that are too small, Carol Anne looks like a child that the child welfare services would take a keen interest in.
+~
+2|32|64 32768|65536 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21523
+nathan~
+Nathan~
+A skinny young man is here, sniffing and wiping his nose.
+~
+Jason looks at you and passes a dirty hand through his greasy hair.  "What the #%$$ do you want?" he asks.
+~
+2|32|64 0 0 S
+258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21524
+thug teenage~
+A teenage thug~
+A teenage thug is here, cutting white powder on a tiny mirror.
+~
+The thug looks like the kind of guy you would kill for dating your daughter.
+~
+2|32|64 256|32768 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21525
+dr boethe doctor~
+Doctor Boethe~
+A man in a dirty white labcoat is here, staring maniacly at the bubbling pots.
+~
+Doctor Boethe as a wild look in his eyes as he surveys the contents of the pots on the stove.
+~
+2|64 256 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21526
+rastafarian~
+A rastafarian~
+A dreadlocked man is here, rolling a joint.
+~
+The man winks as he brushes his dreadlocks out of his face and licks the edge of his rolling paper. "No problem, mon," he says, smiling as he lights up.
+~
+4|64 256|32768 -1 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21527
+marcos~
+Marcos~
+Marcos is here leaning against the wall and counting a stack of cash.
+~
+Marcos smirks as you look at him, pulling a toothpick from his mouth and wiping his lips on his hand.  'You want something, little man?' he asks.
+~
+4 8|256 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21528
+flatfoot policeman~
+A flatfoot policeman~
+A flatfoot policeman is here, looking at you with distrust.
+~
+The man in blue pauses to look at you, eyes passing over your inventory with a distasteful glare. He takes the safety undoes his weapon's guard, waits a moment, then waves you on.
+~
+0 8|32|512|8192|1048576 1 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21529
+bum~
+A filthy bum~
+A filthy, smelly bum is sitting here, licking the inside of a spaghetti can.
+~
+The bum scratches at his beard, making you wonder how many generations of lice have made their home on him.
+~
+2|64 256|32768|65536 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21530
+woman harlot smelly~
+A smelly harlot~
+A harlot inches toward you, her body stench sending you reeling.
+~
+The woman looks like she has spent plenty of time around casinos. However, the foul stench emitting from her suggests she probably bathes in the rotten river east of on the other side of the hill.
+~
+2|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21531
+dealer bloke~
+A bloke~
+A bloke stands here shuffling cards with one hand, eyeing the restless crowd.
+~
+"You want in, buddy? Or are you goin' to watch the real men play?" the bloke says with a evil glare in his eye. Obviously, the house does not loose too often.
+~
+2|64 0 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21532
+homeless man~
+A homeless man~
+A homeless man is here, picking through a garbage bin.
+~
+His clothes are torn and filthy.  By his smell, you guess he hasn't bathed since passover... the first passover.
+~
+64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21533
+bum filthy~
+The filthy bum~
+A large cardboard box is resting against the wall.
+~
+The bum looks at you with a wild gleam in his eye and screams "get out of my kitchen!".
+~
+4|32|64 32768 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21534
+child urchin street~
+A street urchin~
+A small dirty child is here, playing with a broken yo-yo.
+~
+The child seems more interested in digging for nose candy then fixing his yo-yo.
+~
+4|64 32768 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21535
+madame thenardiess~
+Madame Thenardiess~
+Madame Thenardiess is here, selling rotten fruit and old buttons.
+~
+She smiles at you, flashing her rotten yellow teeth.  "Would you like an apple, mon chere?".
+~
+4|64 8 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21536
+ned~
+Ned~
+Ned is here, blacking out morally offensive phrases from Dr. Seuss books.
+~
+Ned pulls a tattered book from the pocket of his sweater vest and pats it, smiling.  "If you've come to buy a book, I strongly recommend this one."
+~
+2|4|64 8 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21537
+dracul vlad tepes~
+Dracul~
+Dracul is here in the shadows, keeping a close eye on the inventory.
+~
+He licks his tongue slowly over his incisors and eyes you closely. "Have 
+you come to make a donation?" he asks, grinning.
+~
+2|4|64 2|8 -1 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21538
+Newsy~
+Newsy~
+Newsy is standing here, screaming out todays headlines.
+~
+Newsy was born to sell newspapers. He has a stack of papers under one arm and a checkered cap on his head.
+~
+2|4|64 8 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21539
+Rusty~
+Rusty~
+Rusty stands behind the bar, arms folded across his gut.
+~
+You can see exactly what Rusty has had to eat for the last week by looking at the food stains on his shirt. Ordering lunch here seems like a bad idea.
+~
+2|4|64 8 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21540
+harold~
+Harold~
+Harold is laughing loudly at his table, spilling his ale as he shakes.
+~
+His face is red from drinking too much and laughing too hard. His round belly shakes like jello, and you wonder if he's about to collapse from lack of air.
+~
+2|4|64 0 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21541
+etienne~
+Etienne~
+Etienne is face down at the bar, snoring loudly.
+~
+He looks like your high school french teacher. Only more drunk. And unconscious.
+~
+2|4|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21542
+edwina~
+Edwina~
+Edwina is swaying unsteadily next to the bar, looking confused.
+~
+She brushes some hair out of her eyes to look back at you, but her eyes seem to gaze right through you. "Buy me a drink?" she slurs.
+~
+2|4|64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21543
+woman sad~
+The sad looking woman~
+A sad looking woman is here, staring aimlessly at the ceiling.
+~
+You see a skinny middle aged woman, with long ratty hair and sad eyes. You'd probably care about her situation more if you weren't so busy finding that damn equipment.
+~
+2|4|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21544
+man tired old~
+The tired old man~
+A tired old man is here, shuffling slowly across the room and muttering.
+~
+His skin is pale and seems to hang loosly on his face. He walks slowly, seemingly oblivious to everyone around him.
+~
+2|4|64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21545
+angelique~
+Angelique~
+Angelique is here, comforting a homeless man.
+~
+She has an expression of real concern on her face. "Are you here to volunteer?" she asks.
+~
+2|4|64 128|8192 1 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21546
+rebecca~
+Rebecca~
+Rebecca stands behind a counter, serving mashed potatos to people.
+~
+She wipes a glob of potatos on her dirty apron and sneers at the people in line. She glares at you and repeats, "Next!"
+~
+2|4|64 128|8192 1 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21547
+lady scrub~
+The scrub lady~
+A scrub lady is on her knees, cleaning the grout between the tiles.
+~
+Her hair is put up in a bun on top of her head, but a strand keeps falling lose into her eyes. By the look on her face, you would guess she doesn't like her job very much.
+~
+2|4|64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21548
+fannie~
+Fannie~
+Fannie sits among the flies, slicing some swiss cheese.
+~
+Fannie smiles at you and waves her knife. "Slice yer meat?" she asks.
+~
+2|4|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21549
+drunk~
+A drunk~
+A staggering, cursing drunk is here.
+~
+The drunk seems pretty pissed off about being in the tank.
+~
+2|4|32|64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21550
+lush~
+A lush~
+A semi-conscious lush is slumped against the wall.
+~
+The lush doesn't seem to be aware of her surroundings.  Don't get any ideas.
+~
+2|4|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21551
+watchman~
+The watchman~
+A police watchman is yelling at the drunks to be quiet.
+~
+He looks like he'd rather be fishing.
+~
+2|4|64 8192 1 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21552
+collector litter~
+A litter collector~
+A litter collector is stabbing at papers on the ground with a big stick.
+~
+He mutter something about litterbugs and sneers at you.
+~
+4 8192 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21553
+bodyguard~
+A dirty bodyguard~
+A dirty bodyguard is here protecting Seeley.
+~
+His best weapon seems to be his stench.
+~
+2|4|32|64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21554
+gardener~
+Seeley's Gardener~
+A quiet gardener is here tending to Seeley's rose bushes.
+~
+The gardener smiles and tips her cap, humming under her breath.
+~
+2|4|64 32 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21555
+Seeley~
+Seeley~
+Seeley is standing here, overlooking his garden through a window.
+~
+He glances at you quickly, frowns, then turns back to his garden and smiles.
+~
+2|4|64 8|32|32768 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21556
+sugar~
+Sugar~
+Sugar is here, stopping traffic with her legs.
+~
+Got a sweet tooth? Perv.
+~
+64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21557
+spice~
+Spice~
+Spice is here, showing her wares to a possible client.
+~
+She looks so sassy!
+~
+64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21558
+cherri~
+Cherri~
+Cherri is hidden in the shadows, earning a gold piece.
+~
+She looks too classy for you to afford her.
+~
+64 2 0 S
+1367 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21559
+mick~
+Mick~
+Mick is behind the counter trying on his products.
+~
+You see a slimey looking guy with slicked-back hair. You probably should avoid asking for a product demonstration.
+~
+2|64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21560
+officer~
+An officer~
+An officer of the law is walking around, oblivious to everything.
+~
+He doesn't look very trustworthy.  Especially since he's counting a wad of hush money.
+~
+64 8|32|8192 1 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21561
+captain~
+The police captain~
+The police captain is here filling out the daily roster.
+~
+He glances up at you and snarls. He looks like he's been on-duty for a few hours too many.
+~
+64 8|32|8192 1 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21562
+jezabel~
+Jezabel~
+Jezabel is here.
+~
+You see nothing special about her.
+~
+2|64 8 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21563
+mitch~
+Mitch~
+Mith is here, feeding sraps to a stray dog.
+~
+You see a young man with a tired face. He looks like he has been on the streets for quite a while.
+~
+2|4|64 32768 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21564
+billie~
+Billie~
+Billie is playing solitare in the corner.
+~
+He is surrounded by boxes and bags that seem to contain his entire life.
+~
+2|4|64 32768 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21565
+patsy~
+Patsy~
+Patsy is here, rummaging through a backpack.
+~
+She looks around the room, eyes wild with fear.
+~
+2|4|64 8|32768 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21566
+elaine~
+Elaine~
+Elaine, the shelter coordinator is here.
+~
+You see an eldery lady with grey curley hair. Her smiles seems to make the people in the room be at ease.
+~
+2|64 32|128|8192 1 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21567
+patrick~
+Patrick~
+Patrick is here counseling at a sobbing teenager.
+~
+His dark hair is slightly greying at the temples, and his glases have slid down his nose.
+~
+2|64 32|128|8192 1 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21568
+sticky~
+Sticky~
+Sticky is standing beside a stack of books, reading.
+~
+His eyes roll quickly from side to side as he speed reads his book.
+~
+2|64 8 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21569
+candi~
+Candi~
+Candi is here, adjusting her fishnet stockings.
+~
+She licks her lips and smiles. "Wanna try a real woman baby?" she asks.
+~
+2|64 8 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21570
+francoise~
+Francoise~
+Francoise is standing in front of his mirror trying on wigs.
+~
+You see shapely lags and a generous bosom. Too bad he's a guy.
+~
+2|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21571
+stable hand~
+The stable hand~
+A stable hand is here tending to the horses.
+~
+He tips his hat at you and smiles, holding his hand out for a gold piece.
+~
+2|64 512|32768 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21572
+naked man~
+The naked man~
+A naked man is here playing tag.
+~
+Whoa. He's huge. Fear that.
+~
+2|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21573
+woman naked~
+The naked woman~
+A naked woman is here, squealing with delight and running around the room.
+~
+Stop drooling and go kill someone.  Horny flap.
+~
+2|64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21574
+happy~
+Happy, the hotelier~
+Happy is here, smiling about something.
+~
+He sure looks happy.
+~
+2|64 128|8192 1 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21575
+sailor~
+The sailor~
+A drunk sailor is here, looking for a date.
+~
+A look of crazed lust fills his eyes, and he seems desparate for some companionship... any companionship.
+~
+2|32|64 512|32768|65536 -1 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#21576
+silver~
+Silver~
+Silver is dancing on stage.
+~
+He is wearing nothing but a very brief pair of briefs.  His chest is really slick with sweat.  Ooo... he looks so hot.
+~
+64 0 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21577
+paige~
+Paige~
+Paige is dancing on a table.
+~
+She shakes her booty like there's no tomorrow.
+~
+64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21578
+chicki~
+Chicki~
+Chicki is rubbing up against a pole.
+~
+Don't ya wish you were that pole?
+~
+64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21579
+trish~
+Trish~
+Trish is giving someone a lapdance.
+~
+Lapdance.  *Moan*
+~
+64 0 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21580
+ted~
+Ted~
+Ted is here, dressed head to toe in leather.
+~
+You find it hard to believe someone could wear that much leather at once.
+~
+64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21581
+bartender jd~
+JD~
+JD inattentively stares past you towards the writhing girls.
+~
+Don't you wish you had a job like his?
+~
+2|64 8 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21582
+deputy Roscoe~
+Deputy Roscoe~
+Deputy Roscoe sits here looking confused.
+~
+Roscoe can't distinguish his keys from his billy club.
+~
+2|64 8192 1 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21583
+deputy Simon~
+Deputy Simon~
+Deputy Simon seems to competently sift through paperwork.
+~
+Somehow this putz managed to win the "Officer of the Year" trophy three times. Go figure.
+~
+2|64 8192 1 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21584
+Neil~
+Neil~
+Chained to the wall, Neil stares towards you in misery.
+~
+He came from a broken family, lost his wife, lost his dog, and committed the ultimate sin in this land: the sale of illegal drugs without the King Pin's permission. Doesn't he deserve this?
+~
+2|4|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21585
+junkie~
+A junkie~
+A strung out junkie lies on the floor staring at the ceiling.
+~
+Bad trip, man.
+~
+2|64 256 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21586
+clerk~
+A clerk~
+A clerk sits here taking names of patients.
+~
+"What's your name?" she asks you.
+~
+2|64 8192 1 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21587
+smits~
+Smits~
+Smits writes some unintelligable scrawl on the board.
+~
+He obviously knows what he is talking about given that 1,000 foot stare he has.
+~
+2|64 256|8192 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21588
+junkie~
+A junkie~
+A junkie sits in his chair mindless staring.
+~
+You see a junkie who obvously hasn't learned a thing.
+~
+2|64 256 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21589
+junkie straight jacket jacketed~
+A straight jacketed junkie~
+A junkie writhes about on the padded floor, his arms in a straight jacket.
+~
+This is your brain on drugs.
+~
+2|64 256 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21590
+Sven~
+Sven~
+Sven half-heartedly arranges clothes on the racks.
+~
+Sven doesn't seem to interested in this business.
+~
+2|64 8 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21591
+guard~
+A guard~
+A guard jumps from the table and attacks you!
+~
+You see a guard who doesn't think you belong here.
+~
+2|32|64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21592
+dwarf dwarven~
+A dwarven pipemaker~
+A dwarf puts down his pipe and brandishes his whittling knife.
+~
+Though he is a master craftsman, this dwarf knows how to fight, too.
+~
+2|32|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21593
+dwarven glassblower glass~
+The dwarven glassblower~
+A dwarf stands near the furnace blowing glass.
+~
+To see a dwarf blowing glass destroys your racial stereotypes.
+~
+2|64 0 0 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21594
+worker dwarf dwarven~
+A dwarven worker~
+A dwarf packs boxes of syringes in the corner of the room.
+~
+Not all the jobs in the world can be glorious.
+~
+2|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21595
+dwarf dwarven bagger~
+A dwarven bagger~
+A dwarf quickly sorts bags on the floor.
+~
+You see another dwarf with a less than glamorous job.
+~
+2|64 0 0 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21596
+elite dwarf dwarven guard~
+An elite dwarven guard~
+A well armored dwarf lunges at you as you approach!
+~
+"What are you doing here? Get out of here!" the dwarf orders before attacking you.
+~
+2|32|64 0 0 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21597
+king pin~
+The King Pin~
+The King Pin lies on his back, taking long drags from a bong.
+~
+You see the gaudily dressed master of the drug realm. It is hard to believe someone so strung out could organize such an efficient production.
+~
+2|64 128 0 S
+9999 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#21598
+busy clerk~
+a busy clerk~
+A clerk sits here busily taking care of the waiting customers.
+~
+"Hello, straight or gay? Any special requests?" the clerk asks before glancing at a rate sheet.
+~
+2|64 8 -1 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21599
+Snookums call girl prostitute~
+Snookums~
+Snookums sits seductively in corner giving you a look-over.
+~
+She looks so innocent and so young. Why would you want to touch her, you bad person.
+~
+2|64 8 1 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#21600
+blue orb~
+a blue orb~
+A blue orb floats in front of you, dancing a strange jig.
+~
+You can't really tell what the blue orb is.
+~
+4|64 256|32768|524288 1 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#21601
+red orb~
+a red orb~
+A red orb floats in front of you watching your actions.
+~
+This orb seems suspicious of you.
+~
+4|64 256|32768|524288 1 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#21602
+green orb~
+a green orb~
+A green orb floats before you, eyeing your body.
+~
+This orb seems hungry.
+~
+4|64 256|32768|524288 1 S
+1147 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#21603
+yellow orb~
+a yellow orb~
+A yellow orb floats before you, cleaning the air.
+~
+You notice that the orb sucks in a bit of air and spits it back out in a multi-hued pattern.
+~
+64 256|32768|524288 1 S
+1258 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#21604
+ruling orb~
+The ruling orb~
+Hidden among the hues, the ruling orb floats before you.
+~
+This magnificent ruler reminds you that your trip may end anytime soon.
+~
+64 2|8192|32768|65536 1 S
+1369 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#21500
+archway stone~
+the stone archway~
+~
+~
+12 64 8192
+0 0 0 0 
+3000 0 0
+E
+archway stone~
+An old archway made of stone from a foreign land serves as the entrance to the underhill city. "Whoa, what a trip" is carved into the keystone.~
+#21501
+supply room key~
+the supply room key~
+The supply room key sits on the floor.~
+~
+18 0 1|4
+0 0 0 0 
+5 0 0
+#21502
+stove steel~
+a wood burning, steel stove~
+An old steel stove glows red as kettles and pots on its burners bubble and hiss.~
+~
+12 0 8192
+0 0 0 0 
+500 0 0
+#21503
+powdered key~
+a powdered key~
+A powdered key is here.~
+~
+18 2 1|4|8192
+0 0 0 0 
+1 0 0
+#21504
+drunk tank key~
+the drunk tank key~
+The key to the drunk tank is here.~
+~
+18 0 1|16384
+0 0 0 0 
+1 0 0
+#21505
+key odd~
+an odd key~
+An oddly shaped key sits here.~
+~
+18 1 1
+0 0 0 0 
+1 0 0
+#21506
+book thin~
+a thin book~
+A small, thin book.~
+~
+18 32 1
+0 0 0 0 
+5 0 0
+E
+book thin~
+As you attempt to examine the book, you realize the pages cannot be opened. Could there be a reason for this?~
+#21507
+ring keys~
+a ring of keys~
+A ring of unmarked keys sits here.~
+~
+18 0 1|2048
+0 0 0 0 
+1 0 0
+#21508
+chalkboard~
+a green chalkboard~
+A green chalkboard sits here on its squeaky wheels.~
+~
+12 0 8192
+0 0 0 0 
+200 0 0
+#21509
+chair electric~
+a heavy metal chair~
+A metal chair, strung with wires, sits in the center of the room.~
+~
+12 1|2 8192
+0 0 0 0 
+500 0 0
+#21510
+furnace~
+a huge metal furnace~
+A huge metal furnace glows with heat next to the wall.~
+~
+12 1 8192
+0 0 0 0 
+800 0 0
+#21511
+dwarven key~
+a dwarven key~
+A key that seems to be manufactured by dwarves sits here.~
+~
+18 64 1
+0 0 0 0 
+1 0 0
+A
+24 0
+#21512
+vest~
+a woolen vest~
+A poorly made woolen vest sits here.~
+~
+9 0 1|8
+4 0 0 0 
+5 0 0
+A
+18 0
+#21513
+porter pack~
+a porter pack~
+A pack made of tightly wooven hemp lies here.~
+~
+15 0 1|8
+100 0 -1 0 
+5 0 0
+A
+2 0
+#21514
+pipes copper~
+copper pipes~
+A set of copper pipes made for blowing sits here.~
+~
+3 2 1|16384
+12 1 1 58 
+5 0 0
+#21515
+medallion ornate golden~
+an ornate, golden medallion~
+A medallion ornately cast from gold sparkles here.~
+~
+8 1|32|64 1|4
+0 0 0 0 
+5 0 0
+A
+4 2
+A
+12 15
+#21516
+green baggie bag~
+a green baggie~
+A bag filled with a green leafy substance sits here.~
+~
+26 0 1|16384
+41 17 33 72 
+3 0 0
+#21517
+brown baggie bag~
+a brown baggie~
+A bag filled with a brown leafy substance sits here.~
+~
+26 0 1|16384
+41 56 77 72 
+4 0 0
+#21518
+green baggie bag~
+a green baggie~
+A bag filled with a green leafy substance sits here.~
+~
+26 0 1|16384
+41 27 10 72 
+3 0 0
+#21519
+brown baggie bag~
+a brown baggie~
+A brown baggie filled with a brown leafy substance sits here.~
+~
+26 0 1|16384
+41 10 72 17 
+3 0 0
+#21520
+rum Dirty~
+dirty Rum~
+A flask of dirty rum sits here.~
+~
+17 0 1
+2 2 18 1 
+10 0 0
+E
+flask~
+A label on the flask reads, "CAUTION: Do not attempt to operate vehicles while intoxicated."~
+#21521
+bottle clear~
+a clear bottle~
+The clear bottle looks normal.~
+~
+17 0 1
+1 1 22 0 
+10 0 0
+#21522
+menthe creme~
+creme de menthe~
+A bottle of creme de menthe sits here.~
+~
+17 128 1
+3 3 9 0 
+10 0 0
+#21523
+piano~
+a piano~
+An well used, out-of-tune piano rests against the wall.~
+~
+15 0 8192
+25 13 21524 0 
+300 0 0
+#21524
+piano key tuning~
+a piano tuning key~
+A key used for tuning pianos sits here.~
+~
+18 0 1|16384
+0 0 0 0 
+1 0 0
+#21525
+opiate bag~
+a bag of opiate~
+A bag of opiate rests between the piano's strings.~
+~
+26 32|128 1
+30 56 82 72 
+3 0 0
+#21526
+taboo perfume atomizer~
+an atomizer of Taboo~
+A perfume atomizer containing Taboo sits here.~
+~
+3 512 1|16384
+41 2 2 203 
+5 0 0
+A
+1 -2
+#21527
+porcelain replica statue~
+a porcelain replica of a statue~
+A gawdy porcelain replica sits here.~
+~
+13 0 1
+0 0 0 0 
+40 0 0
+E
+statue~
+The statue resembles a naked man.~
+#21528
+horse hair hat~
+a horse hair hat~
+A hat made of horse hair sits here.~
+~
+9 16 1|16
+8 0 0 0 
+10 0 0
+A
+17 4
+#21529
+scissors~
+a pair of scissors~
+A nasty pair of scissors sits here.~
+~
+5 0 1|8192
+0 2 6 2 
+15 0 0
+#21530
+letter opener~
+a letter opener~
+A letter opener made of silver and pearl rests here.~
+~
+5 0 1|8192
+0 3 3 11 
+10 0 0
+A
+19 1
+A
+18 -3
+#21531
+silver tea platter~
+a silver tea platter~
+A tea platter made of silver is here.~
+~
+9 0 1|512
+5 0 0 0 
+5 0 0
+A
+24 2
+#21532
+shard mirror~
+a shard of a mirror~
+A piece of broken glass rests here.~
+~
+5 0 1|8192
+0 3 3 3 
+15 0 0
+A
+19 2
+A
+18 -5
+#21533
+razor~
+a razor~
+A nasty looking razor sits here.~
+~
+5 0 1|8192
+0 4 2 1 
+15 0 0
+A
+18 -3
+A
+19 1
+#21534
+psychadelic robe colored~
+a psychadelic colored robe~
+A robe dyed with many colors is here.~
+~
+9 0 1|1024
+4 0 0 0 
+10 0 0
+A
+2 1
+A
+17 10
+A
+12 5
+#21535
+string beads~
+a string of beads~
+A string of beads is here.~
+~
+8 64 1|4
+0 0 0 0 
+2 0 0
+A
+12 20
+A
+3 2
+A
+13 -20
+#21536
+ladle wooden~
+a wooden ladle~
+A well used wooden ladle is here.~
+~
+5 0 1|8192
+0 3 2 9 
+10 0 0
+A
+18 -2
+#21537
+billy club~
+a billy club~
+A club made of wood with a leather wrist strap lies here.~
+~
+5 128|1024 1|8192|16384
+0 3 3 8 
+20 0 0
+A
+19 2
+A
+3 -5
+#21538
+badge~
+a leather badge~
+A leather badge branded with "POLICE" is here.~
+~
+9 2|128|1024 1|8
+2 0 0 0 
+5 0 0
+A
+24 2
+A
+13 10
+#21539
+book catecisms~
+a book of catecisms~
+A well read book of catecisms lies here.~
+~
+2 0 1
+0 33 17 0 
+5 0 0
+#21540
+tattered torah~
+a tattered Torah~
+A sword rests here.~
+~
+2 64|128|1024|2048 1
+21 3 59 74 
+5 0 0
+#21541
+book greek grammar~
+a book of Greek grammar~
+A sword rests here.~
+~
+2 0 1|16384
+21 58 -1 -1 
+10 0 0
+A
+18 20
+A
+19 10
+#21542
+book works josephus~
+the Works of Josephus~
+A partially burned copy of The Works of Josephus sits here.~
+~
+2 64|1024|2048 1
+21 5 6 65 
+10 0 0
+#21543
+heart~
+a fresh heart~
+A freshly collected heart is here.~
+~
+17 2 1
+1 1 13 1 
+5 0 0
+#21544
+fresh kidney~
+a fresh kidney~
+A fresh kidney sits here.~
+~
+17 0 1
+1 1 13 1 
+5 0 0
+#21545
+bottle specialty~
+a bottle of Rusty's Specialty~
+A bottle with a hand made lable sits here.~
+~
+17 1|128 1
+1 1 8 1 
+5 0 0
+#21546
+striped knickers pair~
+a pair of striped knickers~
+A pair of short pants with striped sits here.~
+~
+9 64 1|32
+8 0 0 0 
+9 0 0
+A
+24 -3
+#21547
+wand attraction~
+the wand of attraction~
+A slender golden stick enscribed with runes sits here.~
+~
+3 1 1|16384
+21 1 1 7 
+5 0 0
+A
+2 -2
+#21548
+mop~
+a mop~
+A grubby mop needng repair sits here.~
+~
+5 0 1|8192
+0 3 3 4 
+12 0 0
+A
+19 0
+#21549
+bucket~
+a bucket~
+A sword rests here.~
+~
+15 0 1|16384
+5 0 -1 0 
+15 0 0
+#21550
+apron worn~
+a worn apron~
+A soiled apron sits here.~
+~
+9 0 1|8
+4 0 0 0 
+8 0 0
+#21551
+talisman diamond~
+a diamond talisman~
+A talisman featuring a large diamond sits here.~
+~
+8 64 1|4
+0 0 0 0 
+3 0 0
+A
+23 2
+A
+4 1
+A
+1 10
+#21552
+broken bottle~
+a broken bottle~
+A broken bottle with sharp edges sits here.~
+~
+5 0 1|8192
+0 4 2 3 
+8 0 0
+A
+19 2
+A
+18 -2
+A
+4 -2
+#21553
+cubic zirconium ring~
+a cubic zirconium ring~
+A cheesy ring sits here.~
+~
+8 128|4096 1|2
+0 0 0 0 
+2 0 0
+A
+3 -2
+#21554
+salted bacon~
+salted bacon~
+A side of salted bacon sits here.~
+~
+19 0 1
+0 0 0 1 
+5 0 0
+#21555
+genoa salami~
+a genoa salami~
+A length of genoa salami sits here,~
+~
+19 0 1
+0 0 0 1 
+5 0 0
+#21556
+half grouse~
+a half of a grouse~
+One half of a grouse sits here.~
+~
+19 0 1
+0 0 0 1 
+4 0 0
+#21557
+wild turkey breast~
+a wild turkey breast~
+A whole breast of a wild turkey sits here.~
+~
+19 0 1
+0 0 0 1 
+7 0 0
+#21558
+javelin~
+a javelin~
+A javelin with a steel point and a wooden shaft sits here.~
+~
+5 0 1|8192
+0 2 3 2 
+15 0 0
+A
+18 1
+#21559
+fingerless gloves pair leather~
+a pair of fingerless leather gloves~
+A sword rests here.~
+~
+9 0 1|128
+4 0 0 0 
+7 0 0
+A
+2 1
+A
+1 -2
+#21560
+sack stones~
+a sack of stones~
+A small cloth sack holding stones is here.~
+~
+15 0 1|2048
+10 0 -1 0 
+5 0 0
+A
+2 1
+#21561
+sling~
+a sling~
+A sling made of a tree branch is here.~
+~
+5 2 1|8192
+0 3 3 4 
+9 0 0
+A
+18 -1
+#21562
+hoe sharp metal~
+a sharp metal hoe~
+A hoe with a sharp metal blade sits here.~
+~
+5 0 1|8192
+0 2 5 5 
+20 0 0
+A
+18 1
+A
+19 1
+A
+17 15
+#21563
+leather jack~
+a leather jack~
+A pile of leather lays here.~
+~
+9 64 1|8
+13 0 0 0 
+15 0 0
+A
+2 3
+A
+13 -30
+A
+1 -1
+#21564
+leather coif~
+a leather coif~
+A small leather coif sits here.~
+~
+9 64 1|16
+8 0 0 0 
+5 0 0
+A
+24 -3
+A
+3 -2
+A
+2 1
+#21565
+mink fur stole~
+a mink stole~
+A long mink stole sits here.~
+~
+9 64 1|4
+4 1 6 11 
+10 0 0
+A
+23 2
+A
+4 1
+A
+1 -3
+#21566
+mint wrap sure sures~
+a mint flavored Wrap Sure (tm)~
+A three pack of green Wrap Sures (tm) lies here.~
+~
+9 0 1|2048
+15 0 0 0 
+5 0 0
+A
+23 2
+A
+2 -15
+#21567
+strawberry wrap sure sures~
+a strawberry flavored Wrap Sure (tm)~
+A three pack of strawberry flavored Wrap Sures (tm) lies here.~
+~
+9 0 1|2048
+15 0 0 0 
+5 0 0
+A
+23 2
+A
+18 -15
+#21568
+glowing wrap sure sures~
+a glowing Wrap Sure (tm)~
+A glowing Wrap Sure (tm) sits here.~
+~
+9 1 1|2048
+-5 0 0 0 
+5 0 0
+A
+1 -2
+A
+3 -2
+A
+23 -2
+E
+condom~
+This condom looks like it has holes in it.~
+#21569
+rapier guard's~
+a guard's rapier~
+A guard's rapier~
+~
+5 1024 1|8192
+0 4 3 3 
+15 0 0
+A
+1 1
+A
+2 -2
+A
+24 -4
+#21570
+shield guard's~
+a guard's shield~
+A small steel shield sits here.~
+~
+9 0 1|512
+7 0 0 0 
+20 0 0
+#21571
+captain's guard's boots~
+the captain's boots~
+The captain's boots sit here.~
+~
+9 0 1|64
+7 0 0 0 
+20 0 0
+A
+1 1
+A
+12 -30
+A
+18 -2
+#21572
+sword wounding relic~
+the Sword of Wounding~
+A relic of the past, the Sword of Wounding, sits here.~
+~
+5 1|2|64|128|1024|2048|4096 1|8192
+0 15 40 1 
+30 0 0
+A
+19 30
+A
+18 30
+#21573
+blanket fuzzy warm~
+a fuzzy, warm blanket~
+A fuzzy, warm blanket sits here.~
+~
+9 1 1|1024
+4 1 6 11 
+15 0 0
+A
+23 1
+#21574
+glasses pair~
+a pair of glasses~
+A pair of glasses sits here.~
+~
+9 0 1|16
+1 0 0 0 
+5 0 0
+A
+18 2
+A
+17 -10
+#21575
+nudie pamplet~
+a nudie pamplet~
+A pamplet featuring nudity lies unfolded on the floor.~
+~
+2 16 1
+5 82 7 69 
+5 0 0
+#21576
+manual sensual arts~
+the Manual of Sensual Arts~
+The infamous Manual of Sensual Arts lies here.~
+~
+2 16 1
+5 3 56 58 
+15 0 0
+#21577
+dildo~
+a dildo~
+A dildo sits here, waiting...~
+~
+5 2|16|128|512 1|8192
+0 4 4 7 
+15 0 0
+A
+2 1
+A
+19 -2
+#21578
+panty hose pair~
+a pair of panty hose~
+A pair of fishnet panty hose lies in a cumpled heap here.~
+~
+9 0 1|32
+4 0 0 0 
+5 0 0
+#21579
+bridle leather~
+a leather bridle~
+A leather bridle sits here.~
+~
+9 128 1|4
+5 0 0 0 
+20 0 0
+#21580
+belt chastity~
+a chastity belt~
+A steel belt-like object sits here.~
+~
+9 128|4096 1|2048
+8 0 0 0 
+20 0 0
+A
+18 -8
+A
+12 15
+A
+23 3
+#21581
+encourager club~
+the Encourager~
+A relic, the Encourager, amazes you with its glory.~
+~
+5 1|2|16|64|128|512|2048 1|8192|16384
+0 7 2 8 
+25 0 0
+A
+3 -5
+A
+18 -4
+A
+19 1
+#21582
+chalk white piece~
+a piece of white chalk~
+A small piece of white chalk sits here.~
+~
+3 0 1|16384
+41 1 1 24 
+5 0 0
+A
+3 1
+#21583
+straight jacket~
+a straight jacket~
+A jacket with its arms sewn across its body sits here.~
+~
+9 128|4096 1|1024
+8 0 0 0 
+18 0 0
+A
+18 -5
+#21584
+military pick~
+a military pick~
+A pick redesigned for fighting sits here.~
+~
+5 0 1|8192
+0 2 5 11 
+20 0 0
+A
+13 -15
+#21585
+bow small~
+a small bow~
+A small bow strung with horse hair is here.~
+~
+5 0 1|8192
+0 5 2 4 
+15 0 0
+A
+18 -1
+#21586
+large hunting net~
+a large hunting net~
+A large net made for hunting lies in a heap on the floor.~
+~
+9 0 1|512
+1 0 0 0 
+10 0 0
+A
+18 1
+A
+2 1
+#21587
+pipe opium~
+an opium pipe~
+A small pipe meant for smoking is here.~
+~
+3 2 1|16384
+41 1 1 56 
+10 0 0
+#21588
+glass bong~
+a glass bong~
+A tall glass bong stands here ready for smoking.~
+~
+4 2 1|16384
+0 1 1 56 
+15 0 0
+#21589
+syringe~
+a syringe~
+A sharp syringe sits here.~
+~
+5 16|2048 1|8192
+0 5 3 11 
+10 0 0
+A
+18 -2
+#21590
+purple baggie~
+a purple baggie~
+A bag full of a purple leafy substance sits here.~
+~
+26 128 1
+0 56 17 1 
+5 0 0
+#21591
+dwarven war hammer~
+a dwarven war hammer~
+A large hammer made by the dwarfs sits here.~
+~
+5 64 1|8192
+0 3 4 8 
+25 0 0
+A
+1 1
+A
+24 -10
+A
+2 -2
+#21592
+dwarven cloak~
+a dwarven cloak~
+A dwarven cloak made of mithril glistens here.~
+~
+9 64 1|4
+10 0 0 0 
+30 0 0
+A
+2 -2
+A
+13 5
+#21593
+psychadelic arm bands~
+a pair of psychadelic colored arm bands~
+Two small strips of brightly colored clothing sits here.~
+~
+9 0 1|256
+5 0 0 0 
+15 0 0
+A
+2 3
+A
+13 -30
+#21594
+antique canon~
+an antique canon~
+A large antique canon sits here.~
+~
+5 1 1|8192
+0 4 4 6 
+25 0 0
+A
+18 -1
+A
+2 -2
+#21595
+book black~
+a black book~
+A black book sits here.~
+~
+13 0 1
+0 0 0 0 
+5 0 0
+E
+inside~
+The following names appear in the book:
+Terror
+Melkor
+Howler
+Mab
+Thoreau~
+#21596
+dark bag hues~
+a bag of dark hues~
+A bag of dark hues is here.~
+~
+26 16 1
+41 8 56 72 
+5 0 0
+#21597
+bag bright hues~
+a bag of bright hues~
+A bag of bright hues sits here.~
+~
+26 1|1024 1
+0 77 56 10 
+5 0 0
+#21598
+bag hues colorless~
+a bag of colorless hues~
+A bag of hues with no color sits here.~
+~
+26 2 1
+0 43 59 56 
+5 0 0
+#21599
+crystal ebon flame~
+the Crystal of the Ebon Flame~
+A relic, the Crystal of the Ebon Flame, glitters here.~
+~
+5 1|2|64|128|1024|2048|4096 1|8192|16384
+0 4 4 2 
+15 0 0
+A
+24 3
+A
+12 15
+A
+1 -3
+#21600
+codex infinite planes~
+the Codex of the Infinite Planes~
+A relic, the Codex of the Infinite Planes, lies silently here.~
+~
+2 1|2|16|64|128|512|2048 1|16384
+41 72 17 6 
+15 0 0
+#0
+
+
+#ROOMS
+#21500
+Nearing the shore.~
+The white caps of the Dragon Sea begin to subside as the shore approaches.  Floating bottles and other debris sit atop a murky film covering the ocean surface.
+~
+0 0 7
+D1
+~
+~
+0 -1 21503
+D2
+~
+~
+0 -1 21501
+D3
+~
+~
+0 -1 21502
+S
+#21501
+Nearing the harbor~
+The choppy waves of the Dragon Sea have subsided and the oily film and trash are more ubiquitous.  A nauseating stench rises off the water.
+~
+0 0 7
+D0
+~
+~
+0 -1 21500
+D2
+~
+~
+0 -1 21505
+S
+#21502
+Nearing the shore~
+The white caps of the Dragon Sea begin to subside as the shore approaches.  Floating bottles and other debris sit atop a murky film covering the ocean surface.
+~
+0 0 7
+D1
+~
+~
+0 -1 21500
+S
+#21503
+Nearing the shore~
+The white caps of the Dragon Sea begin to subside as the shore approaches.  Floating bottles and other debris sit atop a murky film covering the ocean surface.
+~
+0 0 7
+D0
+~
+~
+0 -1 21504
+D3
+~
+~
+0 -1 21500
+S
+#21504
+Nearing the shore~
+The white caps of the Dragon Sea begin to subside as the shore approaches.  Floating bottles and other debris sit atop a murky film covering the ocean surface.
+~
+0 0 7
+D2
+~
+~
+0 -1 21503
+S
+#21505
+A dirty harbor~
+A nauseating stench steams off the murky waters.  Old ships with tattered sails and rotting hulls rock gently in the harbor.  A mist seems to cling to the ocean surface.
+~
+0 0 7
+D0
+~
+~
+0 -1 21501
+D1
+~
+~
+0 -1 21506
+D2
+~
+~
+0 -1 21507
+S
+#21506
+A dirty harbor~
+A nauseating stench steams off the murky waters.  Old ships with tattered sails and rotting hulls rock gently in the harbor.  A mist seems to cling to the ocean surface.
+~
+0 0 7
+D3
+~
+~
+0 -1 21505
+S
+#21507
+A dirty harbor~
+A nauseating stench steams off the murky waters.  Old ships with tattered sails and rotting hulls rock gently in the harbor.  A mist seems to cling to the ocean surface.
+~
+0 0 7
+D0
+~
+~
+0 -1 21505
+D1
+~
+~
+0 -1 21509
+D2
+~
+~
+0 -1 21510
+D3
+~
+~
+0 -1 21508
+S
+#21508
+A dirty harbor~
+A nauseating stench steams off the murky waters.  Old ships with tattered sails and rotting hulls rock gently in the harbor.  A mist seems to cling to the ocean surface.
+~
+0 0 7
+D1
+~
+~
+0 -1 21507
+S
+#21509
+A dirty cove~
+The oily film laps against shore. Decaying seabirds covered with the greenish slime float atop the thick crust on the cove's top.  Tall, leaveless trees lean over the cove casting a deep shadow.  A small trail leads inland to the east.
+~
+0 0 1
+D1
+~
+~
+0 -1 21815
+D3
+~
+~
+0 -1 21507
+S
+#21510
+The dock beside the dirty harbor~
+A foul stench clings to this rotting dock. A mist hangs thick in the air.  Through the mist boxes on the dock are visible.  A number of sailors busy themselves stealthily unloading their cargo from small dingies. A dingy wooden hut is to the west and a cleaner, freshly painted building is set to the east. The town lies to the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 21507
+D1
+~
+~
+0 -1 21512
+D2
+~
+~
+0 -1 21514
+D3
+~
+~
+0 -1 21511
+S
+#21511
+The Dockmaster's office~
+The Dockmaster's office is sparsely decorated.  Paint peels off the walls in long strips. A plaque hangs on one wall.  A small, rotting desk lies beneath it.  A window looks over the harbor. The street lies to the east.
+~
+0 8 1
+D1
+~
+~
+0 -1 21510
+E
+plaque~
+Drunk of the Week Award~
+S
+#21512
+Customs Office~
+This building stands as the Master's single attempt to restrict the rising illict drug and slave trade in this realm. Large, ornate texts of the Master's laws hang on the walls. Several unused tables sit against the walls. A door in the east wall leads into another room.
+~
+0 8 1
+D1
+~
+~
+0 -1 21513
+D3
+~
+~
+0 -1 21510
+S
+#21513
+Search Room~
+Although freshly painted, this room is covered with nude paintings of females. A set of well oiled shackles bolted to the wall testify to the frequency of searches the customs officers perform.
+~
+0 8 1
+D3
+~
+~
+0 -1 21512
+S
+#21514
+Road to the docks~
+A worn road leads through the costal town. Many cobblestones are missing making the road unsuitable for horse-drawn wagons. Instead, foreign looking slaves carry large packs from the docks to supply the realm. A noisy bar is to the west and a small shop sits to the east.
+~
+0 0 1
+D0
+~
+~
+0 -1 21510
+D1
+~
+~
+0 -1 21516
+D2
+~
+~
+0 -1 21517
+D3
+~
+~
+0 -1 21515
+S
+#21515
+The Dirty Brew~
+"Oh, ho, and a bottle of Dirty's Brew," sings the raucus crowd.  Dirty's Bar attracts the sailor crowd with strong stout and attractive barmaids.  Set in the wall behind the bar is a huge keg where Dirty brews his drought.
+~
+0 8 1
+D1
+~
+~
+0 -1 21514
+S
+#21516
+Karl's Duty Free Shop~
+Making the best of tightening restrictions on trade, Karl established this store to exploit loopholes in the Master's trade laws. Oddly, no goods are displayed in the store.
+~
+0 8 1
+D3
+~
+~
+0 -1 21514
+S
+#21517
+Road through a costal town~
+A worn road leads through the costal town. The road here is rougher than before and the traffic is thicker. The road continues away from the coast to the east
+~
+0 0 1
+D0
+~
+~
+0 -1 21514
+D1
+~
+~
+0 -1 21518
+S
+#21518
+Litter lined path~
+The cobblestone path has disappeared and been replaced by a rocky path. The edges of the path are strewn with garbage. Unmaintained hedges border the path.
+~
+0 0 1
+D1
+~
+~
+0 -1 21519
+D3
+~
+~
+0 -1 21517
+S
+#21519
+A litter lined path~
+The cobblestone path has disappeared and been replaced by a rocky path. The edges of the path are strewn with garbage. Unmaintained hedges border the path.
+~
+0 0 1
+D1
+~
+~
+0 -1 21520
+D3
+~
+~
+0 -1 21518
+S
+#21520
+A litter lined path~
+The cobblestone path has disappeared and been replaced by a rocky path. The edges of the path are strewn with garbage. Unmaintained hedges border the path.
+~
+0 0 1
+D2
+~
+~
+0 -1 21521
+D3
+~
+~
+0 -1 21519
+S
+#21521
+A litter lined path~
+The cobblestone path has disappeared and been replaced by a rocky path. The edges of the path are strewn with garbage. Unmaintained hedges border the path.
+~
+0 0 1
+D0
+~
+~
+0 -1 21520
+D1
+~
+~
+0 -1 21525
+D2
+~
+~
+0 -1 21522
+D3
+~
+~
+0 -1 21524
+S
+#21522
+A litter lined path~
+The cobblestone path has disappeared and been replaced by a rocky path. The edges of the path are strewn with garbage. Unmaintained hedges border the path.
+~
+0 0 1
+D0
+~
+~
+0 -1 21521
+D3
+~
+~
+0 -1 21523
+S
+#21523
+A litter lined path~
+The cobblestone path has disappeared and been replaced by a rocky path. The edges of the path are strewn with garbage. Unmaintained hedges border the path.
+~
+0 0 1
+D0
+~
+~
+0 -1 21524
+D1
+~
+~
+0 -1 21522
+S
+#21524
+A litter lined path~
+The cobblestone path has disappeared and been replaced by a rocky path. The edges of the path are strewn with garbage. Unmaintained hedges border the path.
+~
+0 0 1
+D1
+~
+~
+0 -1 21521
+D2
+~
+~
+0 -1 21523
+S
+#21525
+A littered path~
+The rocky path continues through the countryside. The wild hedges planted long ago to guide travelers no longer seem to lead in any particular direction.  Garbage still lines the path.
+~
+0 0 1
+D1
+~
+~
+0 -1 21526
+D3
+~
+~
+0 -1 21521
+S
+#21526
+A littered path~
+The rocky path continues through the countryside. The wild hedges planted long ago to guide travelers no longer seem to lead in any particular direction.  Garbage still lines the path.
+~
+0 0 1
+D0
+~
+~
+0 -1 21527
+D2
+~
+~
+0 -1 21528
+D3
+~
+~
+0 -1 21525
+S
+#21527
+A littered path~
+The rocky path continues through the countryside. The wild hedges planted long ago to guide travelers no longer seem to lead in any particular direction.  Garbage still lines the path.
+~
+0 0 1
+D2
+~
+~
+0 -1 21526
+S
+#21528
+A littered path~
+The rocky path continues through the countryside. The wild hedges planted long ago to guide travelers no longer seem to lead in any particular direction.  Garbage still lines the path.
+~
+0 0 1
+D0
+~
+~
+0 -1 21526
+D1
+~
+~
+0 -1 21530
+D3
+~
+~
+0 -1 21529
+S
+#21529
+A littered path~
+The rocky path continues through the countryside. The wild hedges planted long ago to guide travelers no longer seem to lead in any particular direction.  Garbage still lines the path.
+~
+0 0 1
+D1
+~
+~
+0 -1 21528
+S
+#21530
+A littered path~
+The rocky path steps away from the the hedges here. The sound of an ocean can be heard to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 21531
+D1
+~
+~
+0 -1 21532
+D3
+~
+~
+0 -1 21528
+S
+#21531
+Scenic View of the Harbor~
+This ledge stands high above the sea offering a supposedly scenic view of the harbor.  The view of the harbor is now obstructed by a greenish mist carrying a heavy, sickening stench.
+~
+0 0 1
+D2
+~
+~
+0 -1 21530
+D4
+~
+cloud~
+1 -1 21840
+S
+#21532
+A littered path~
+The rocky path continues through the countryside. The wild hedges planted long ago to guide travelers no longer seem to lead in any particular direction.  Garbage still lines the path.
+~
+0 0 1
+D0
+~
+~
+0 -1 21534
+D1
+~
+~
+0 -1 21533
+D3
+~
+~
+0 -1 21530
+S
+#21533
+Garbage pit~
+Since ancient times the realm has dumped their trash at this site. Now, scavengers of all sorts sift through piles of odorous garbage from the nearby town.
+~
+0 0 1
+D3
+~
+~
+0 -1 21532
+S
+#21534
+A littered path~
+The rocky path continues through the countryside. The wild hedges planted long ago to guide travelers no longer seem to lead in any particular direction.  Garbage still lines the path.
+~
+0 0 1
+D0
+~
+~
+0 -1 21535
+D2
+~
+~
+0 -1 21532
+S
+#21535
+A littered path~
+The rocky path continues through the countryside. The wild hedges planted long ago to guide travelers no longer seem to lead in any particular direction.  Garbage still lines the path.
+~
+0 0 1
+D0
+~
+~
+0 -1 21536
+D1
+~
+~
+0 -1 21538
+D2
+~
+~
+0 -1 21534
+S
+#21536
+New Garbage Pit~
+A pit sunk deep into the ground sits before you. When the old garbage pit filled, the Master was too lazy to build another site further from town, so he built this one close to town to save on disposal costs. The bottom of the pit seems obstructed from view by a greenish mist.
+~
+0 0 1
+D2
+~
+~
+0 -1 21535
+D5
+~
+~
+0 -1 21537
+S
+#21537
+In the garbage pit~
+Rank stench rises from the garbage and trash in the pit. Boxes, paper, bags, and rotting food remains litter the ground.
+~
+0 0 1
+D4
+~
+~
+0 -1 21536
+S
+#21538
+Before the archway~
+The misleading paths finally give way to an archway set into a hillside and signs of civilization (besides the garbage). The archway is built of a foreign stone and covered by a browning moss. Sounds of rushing water can be heard beyond the arch. A cool breeze comes from inside the hill.
+~
+0 0 1
+D1
+~
+~
+0 -1 21539
+D3
+~
+~
+0 -1 21535
+S
+#21539
+Bridge over a canal~
+A arched bridge made of heavy oak rises over a canal of swiftly moving water. Oil lamps line the edges of the bridge illinating the passage.
+~
+0 8 1
+D1
+~
+~
+0 -1 21540
+D3
+~
+~
+0 -1 21538
+D5
+~
+manhole~
+1 -1 21817
+S
+#21540
+Klamark Street~
+A seedy street leads through the heart of the hill. Oil lamps hang from the high ceiling illuminating the way. Throngs of people sift along the street moving from one shop into another in an unsettling silence. The road contines to the south and a bridge lies to the west A strange scent drifts from a cafe set into the east wall.
+~
+0 8 1
+D1
+~
+~
+0 -1 21541
+D2
+~
+~
+0 -1 21542
+D3
+~
+~
+0 -1 21539
+S
+#21541
+Rosalita's Ganga Shop~
+A heavy scent and thick smoke fill this small cafe.  Pink, off-white, and blue hues of paint splattered against the stone walls give the ambience a sense of enlightened happiness. The heavily smoking patrons of the cafe sit around small wooden tables talking quietly among themselves.
+~
+0 8 1
+D3
+~
+~
+0 -1 21540
+S
+#21542
+Klamark Street~
+The quiet street continues through the heart of the hill. Fewer oil lamps spaced further apart cast deep shadows on the street. The Bowling Green Terrace tenement housing sits in the eastern wall. Klamark street continues to the north and south.
+~
+0 8 1
+D0
+~
+~
+0 -1 21540
+D1
+~
+~
+0 -1 21548
+D2
+~
+~
+0 -1 21543
+S
+#21543
+Klamark Street~
+The flickering oil lamps along the high ceiling seem to be low on oil. Thankfully, Wayne's Wacky Weed Cafe in the eastern wall casts bright green and red lights out on the street to illuminate the street. A thick musty smell drifts out of the cafe.
+~
+0 8 1
+D0
+~
+~
+0 -1 21542
+D1
+~
+~
+0 -1 21544
+D2
+~
+~
+0 -1 21545
+S
+#21544
+Wayne's Wacky Weed Cafe~
+Bright red and green lights swirl around Wayne's lively cafe. A man in the corner of the cafe bangs out bluesy jazz from a piano. The noisy crowd struggles to talk above the music.
+~
+0 8 1
+D3
+~
+~
+0 -1 21543
+S
+#21545
+Intersection of Klamark Street and Opiate Way~
+The intersection of the hill's main two passages is well illuminated. Shifty characters holding their heads between their knees sit on the curbs. Joseph's Supply store sits to the south.  Opiate way leads to the east and Klamark Street heads north into a dark passage.
+~
+0 8 1
+D0
+~
+~
+0 -1 21543
+D1
+~
+~
+0 -1 21565
+D2
+~
+~
+0 -1 21546
+S
+#21546
+Joseph's Supply Store~
+Joseph specializes in genuine replicas of drug paraphenalia. Shelves of supposed replicas of bongs, needles, and water pipes line the walls. A door is is set into the south wall.
+~
+0 8 1
+D0
+~
+~
+0 -1 21545
+D2
+~
+~
+1 21501 21547
+S
+#21547
+Joseph's Supply Room~
+Boxes of needles, bongs, and other paraphenalia lie neatly sorted along the walls.
+~
+0 1|8 1
+D0
+~
+~
+1 21501 21546
+S
+#21548
+Bowling Green Terrace Lobby~
+This decrepit lobby is littered with rotting tables and ripped couches. A small window in one wall is closed and a sign reading "No Vacancy" hangs over it. To the east is a stairwell and to the west traffic quietly runs along Klamark Street.
+~
+0 8 1
+D1
+~
+~
+0 -1 21549
+D3
+~
+~
+0 -1 21542
+S
+#21549
+Ground Floor Stairwell~
+A broken spiral staircase circles in the shaft above you. Many planks in the staire are missing. The Bowling Grreen lobby is to your east.
+~
+0 1|8 1
+D3
+~
+~
+0 -1 21548
+D4
+~
+~
+0 -1 21550
+S
+#21550
+First Floor Stairwell~
+Dark passages carved into the innards of the hill lead to the east and west. The hallway is not lit.
+~
+0 1|8 1
+D1
+~
+~
+0 -1 21553
+D3
+~
+~
+0 -1 21552
+D4
+~
+~
+0 -1 21551
+D5
+~
+~
+0 -1 21549
+S
+#21551
+Second Floor Stairwell~
+Dark passages carved into the innards of the hill lead to the east and west. The hallway is not lit.
+~
+0 1|8 1
+D1
+~
+~
+0 -1 21561
+D3
+~
+~
+0 -1 21558
+D5
+~
+~
+0 -1 21550
+S
+#21552
+First Floor Hallway~
+Peeling paint on the walls, scuttling cockroaches on the floor, and a stained, well-worn carpet on the floor indicate this tenement building is not well kept. There is no source of light. A bedroom lies to the north and a stinking bathroom lies to the south.
+~
+0 1|8 1
+D0
+~
+~
+1 -1 21556
+D1
+~
+~
+0 -1 21550
+D2
+~
+~
+1 -1 21557
+S
+#21553
+First Floor Hallway~
+Peeling paint on the walls, scuttling cockroaches on the floor, and a stained, well-worn carpet on the floor indicate this tenement building is not well kept. There is no source of light. Bedrooms lie to the north and south.
+~
+0 1|8 1
+D0
+~
+~
+1 -1 21554
+D2
+~
+~
+1 -1 21555
+D3
+~
+~
+0 -1 21550
+S
+#21554
+Filthy room~
+A torn matress sits on the rock floor. Rotting food and stained paper is piled high in the room's corners. A rank stench fills the room.
+~
+0 1|8 1
+D2
+~
+~
+1 -1 21553
+S
+#21555
+Filthy Bedroom~
+A torn matress sits on the rock floor. Rotting food and stained paper is piled high in the room's corners. A rank stench fills the room.
+~
+0 1|8 1
+D0
+~
+~
+1 -1 21553
+S
+#21556
+Filthy Bedroom~
+A torn matress sits on the rock floor. Rotting food and stained paper is piled high in the room's corners. A rank stench fills the room.
+~
+0 1|8 1
+D2
+~
+~
+1 -1 21552
+S
+#21557
+Filthy Bathroom~
+A small shaft  in the ceiling occassionally drops refuse into a funnel in the floor which leads into another small shaft. Unfortunately, the builder of this bathroom failed to align the shafts, so the excrement falling from the second floor fails to land in the floor's funnel. A huge pile of human waste site in a pile.
+~
+0 1|8 1
+D0
+~
+~
+1 -1 21552
+S
+#21558
+Second Floor Hallway~
+Peeling paint on the walls, scuttling cockroaches on the floor, and a stained, well-worn carpet on the floor indicate this tenement building is not well kept. There is no source of light. A bedroom lies to the north and a bathroom lies to the south.
+~
+0 1|8 1
+D0
+~
+~
+1 -1 21559
+D1
+~
+~
+0 -1 21551
+D2
+~
+~
+1 -1 21560
+S
+#21559
+A filthy bedroom~
+A torn matress sits on the rock floor. Rotting food and stained paper is piled high in the room's corners. A rank stench fills the room.
+~
+0 1|8 1
+D2
+~
+~
+1 -1 21558
+S
+#21560
+A filthy bathroom~
+A nasty smelling pit lies in the floor with human excrement lying all over the edges of the pit where some resident was too drunk to hit his or her mark...
+~
+0 1|8 1
+D0
+~
+~
+1 -1 21558
+S
+#21561
+Second Floor Hallway~
+Peeling paint on the walls, scuttling cockroaches on the floor, and a stained, well-worn carpet on the floor indicate this tenement building is not well kept. There is no source of light.
+~
+0 1|8 1
+D1
+~
+~
+0 -1 21562
+D3
+~
+~
+0 -1 21551
+S
+#21562
+Second Floor Hallway~
+The decrepit hallway ends here with a source of light coming from a door in the north wall. Another door lies to the south.
+~
+0 1|8 1
+D0
+~
+~
+1 -1 21564
+D2
+~
+~
+1 -1 21563
+D3
+~
+~
+0 -1 21561
+S
+#21563
+A filthy bedroom~
+A torn matress sits on the rock floor. Rotting food and stained paper is piled high in the room's corners. A rank stench fills the room.
+~
+0 1|8 1
+D0
+~
+~
+1 -1 21562
+S
+#21564
+Joseph's Bedroom~
+The filthiest of all the rooms in building, Joseph is the proud resident of this bedroom. A small lantern hanging from the ceiling flickers. A bed sits along one wall and a cabinet lies against another wall.
+~
+0 1|8 1
+D2
+~
+~
+1 -1 21562
+S
+#21565
+Opiate Way~
+Opiate is no better lit than Klamark street, but seems busier. This may have something to do with the large number of people quickly knocking on the door to the south and rapidly dispersing into the crowd on the street.
+~
+0 8 1
+D1
+~
+~
+0 -1 21566
+D2
+~
+~
+1 -1 21569
+D3
+~
+~
+0 -1 21545
+S
+#21566
+Opiate Way~
+The noisy passage gets busier here as residents of the area head west toward Klarmark Street. Here, Opiate Way makes an abrupt turn to the north as it enters Freebase Court. A number of people move are entering and leaving a the Golden Hour Inn to the east.
+~
+0 8 1
+D0
+~
+~
+0 -1 21567
+D1
+~
+~
+0 -1 21568
+D3
+~
+~
+0 -1 21565
+S
+#21567
+Freebase Court~
+The terraces of the surrounding buildings overhang the court. A number of locals wander in and out of the buildings. The sidewalks are littered with sleeping bums. Please don't wake them.
+~
+0 8 1
+D0
+~
+~
+0 -1 21586
+D1
+~
+~
+0 -1 21587
+D2
+~
+~
+0 -1 21566
+S
+#21568
+Golden Hour Inn~
+This was once a house of prostitution, but it was condemned when the drug lord forced the prostitutes to out. The lobby of this condemned building is the only safe place to walk. The stairway out of this room has long been sealed to either keep the drug pushers and rastafarian from escaping or from allowing the transients free housing.
+~
+0 8 1
+D3
+~
+~
+0 -1 21566
+S
+#21569
+Living Room~
+The base of operations, this room serves as a place of business for those who come seeking the Realm's most elicit drug. Frequent knocks are heard on the door leading into the street. Small boxes litter the sparsely furnshied room.
+~
+0 8 1
+D0
+~
+~
+1 -1 21565
+D1
+~
+~
+0 -1 21570
+D2
+~
+~
+0 -1 21573
+S
+#21570
+Dining Room~
+A wide oak table piled high with little paper bags stands in the center of the room. The chairs circling the table are stacked with small boxes similar to the ones in the living room, but these are full of baggies. Odd chemical fumes come from the south.
+~
+0 8 1
+D1
+~
+~
+1 -1 21571
+D2
+~
+~
+0 -1 21572
+D3
+~
+~
+0 -1 21569
+S
+#21571
+A small bathroom~
+A flush toilet rests against one wall and a sing against the other. Besides this, there is not much too special about this room.
+~
+0 8 1
+D3
+~
+~
+1 -1 21570
+S
+#21572
+Crack House kitchen~
+A small, round table stands in the middle of the room and several pots sit on a wood stove on another side of the room. A strong chemical smell waffes from the pots as greenish and bluish gases rise from them.
+~
+0 8 1
+D0
+~
+~
+0 -1 21570
+S
+#21573
+A hallway with stairs.~
+The normally stone floors have been replaced by wood and covered by a worn carpet. A few paintings hang from the walls. A set of stairs climb to the second floor.
+~
+0 8 1
+D0
+~
+~
+0 -1 21569
+D4
+~
+~
+0 -1 21579
+D5
+~
+carpet~
+1 -1 21574
+S
+#21574
+Bottom of staircase~
+The stone stairs climb toward the trapdoor above this dark room. A little white light emits from the door in the north wall.
+~
+0 1|8 1
+D0
+~
+~
+1 -1 21575
+D4
+~
+carpet~
+1 -1 21573
+S
+#21575
+Powdered-covered room~
+Large bags of white powder litter the room. Unfortunately some of the bags have broken and now the house's product covers the room with a thine white dust. A strange smell is carried in the dust.
+~
+0 8 1
+D2
+~
+~
+1 -1 21574
+D3
+~
+~
+0 -1 21576
+S
+#21576
+Funny smelling room~
+Some of the white powder from the other room has floated into this room. Large bundles of wood lie stacked against the walls.
+~
+0 8 1
+D1
+~
+~
+0 -1 21575
+D2
+~
+~
+1 21503 21577
+S
+#21577
+Weaponry Room~
+The residents of the house store their weapons here. A large cabinet sits against the south wall and another door leads to the west.
+~
+0 8 1
+D0
+~
+~
+1 21503 21576
+D3
+~
+~
+0 -1 21578
+S
+#21578
+Storeroom~
+Piles of assorted junk lie in a heap on the floor. Corroded pots useless for cooking now lie in a stack against the wall. A little of the white dust also sits in this room.
+~
+0 1|8 1
+D1
+~
+~
+0 -1 21577
+S
+#21579
+Top of the stairs~
+A hallway leads east. A set of stairs lead to the ground floor of the crack house.
+~
+0 8 1
+D1
+~
+~
+0 -1 21580
+D5
+~
+~
+0 -1 21573
+S
+#21580
+Crack house hallway~
+Simple paintings hang from the walls here. Whoever lives here must be a conesseur of art. The hallway leads east to a bathroom and continues to the south.
+~
+0 8 1
+D1
+~
+~
+0 -1 21581
+D2
+~
+~
+0 -1 21582
+D3
+~
+~
+0 -1 21579
+S
+#21581
+Second floor bathroom~
+This is a fairly simple bathroom, but an elaborate painting sitting against the wall facing the toilet again professes to the the owner's fine taste in art.
+~
+0 8 1
+D3
+~
+~
+0 -1 21580
+E
+painting elaborate~
+A beautifully serene pasture streches out before a snow-capped mountain range. A wandering river flows from the distant mountains, through the pasture, and off the edge of the painting.~
+S
+#21582
+Crack house hallway~
+Simple paintings hang from the walls here. Whoever lives here must be a conesseur of art. Three doors are set into the walls.
+~
+0 8 1
+D0
+~
+~
+0 -1 21580
+D1
+~
+~
+1 -1 21584
+D2
+~
+closet~
+1 -1 21583
+D3
+~
+~
+1 -1 21585
+S
+#21583
+Walkin closet~
+A jumble of clothing hangs from post braced against the walls. Shoes line the floor. Another piece of art hangs on the wall.
+~
+0 8 1
+D0
+~
+closet~
+1 -1 21582
+S
+#21584
+Crack house bedroom~
+Simply furnished, this bedroom is quite neat.
+~
+0 8 1
+D3
+~
+~
+1 -1 21582
+S
+#21585
+Master Bedroom~
+Having heard you fight the guards on the first floor, the occupants of the house have hidden in this room. However, as you enter this room, Johnathan orders his family to attack you!
+~
+0 8 1
+D1
+~
+~
+1 -1 21582
+S
+#21586
+Booze and Wine~
+Serving the public since the King Pin forced the Master to permit 100 percent alcohol drinks, Boyd has catered to the destitute seeking a quit buzz. Barrels of liquor distilled from a mix rotting vegetables and trash scavenged from the street are stacked behind the counter.
+~
+0 8 1
+D2
+~
+~
+0 -1 21567
+S
+#21587
+Opiate Way~
+The busy street continues to delve further inside the street. Considerable foot traffic enters and exits the Queens 'R Wild Casino to the north.
+~
+0 8 1
+D0
+~
+~
+0 -1 21589
+D1
+~
+~
+0 -1 21588
+D3
+~
+~
+0 -1 21567
+S
+#21588
+Intersection of Opiate Way and VIncent Boulevard~
+Here the major thorough-fare hits a smaller passage that leads out of the hill. Vincent Boulevard heads north where some sunlight can be seen. Opiate Way leads west. A small, quiet store plastered with *Sale* signs sits to the south.
+~
+0 8 1
+D0
+~
+~
+0 -1 21591
+D2
+~
+~
+0 -1 21590
+D3
+~
+~
+0 -1 21587
+S
+#21589
+Queens 'R Wild Casino~
+Hordes of the destitute needing quick money for a fix swarm around blackjack tables. Others throw dice against the wall as the mobs make side bets. Every once and a while, a bouncer grabs a patron who is unwilling to pay, drags him or her outside for a stiff pounding.
+~
+0 8 1
+D2
+~
+~
+0 -1 21587
+S
+#21590
+Born Again Used Christian Book Store~
+After seeing the light, Meredith decided to collect used Christian books and sell them to the destitute of the city. Unfortunately, of fortunately (depending on your position) the drug lord heard about Meredith's intentions and doubled the addictive additive in his drugs to keep his buyers from changing their habits. Since then, Meredith has struggled to keep her store open. The huge piles of used books indicate that even steep cuts in price can fail to create demand.
+~
+0 8 1
+D0
+~
+~
+0 -1 21588
+S
+#21591
+Vincent Boulevard~
+This small passage is well lit by oil lamps hanging from the low ceiling. Few people seem to come this way as most of the citizens seem to find all they need in the other parts of the city.
+~
+0 8 1
+D0
+~
+~
+0 -1 21592
+D2
+~
+~
+0 -1 21588
+S
+#21592
+Vincent Boulevard~
+The small passage way continues north and south. A drug rehabilitation center lies to the west and a jail sits in the east wall.
+~
+0 8 1
+D0
+~
+~
+0 -1 21593
+D1
+~
+~
+0 -1 21596
+D2
+~
+~
+0 -1 21591
+D3
+~
+~
+0 -1 21595
+S
+#21593
+Vincent Boulevard~
+Vincent Boulevard comes to an end to the north, but heads toward the center of the city to the south. An non-descript clothing store sits to the east.
+~
+0 8 1
+D0
+~
+~
+0 -1 21594
+D1
+~
+~
+1 -1 21605
+D2
+~
+~
+0 -1 21592
+S
+#21594
+End of Vincent Boulevard~
+Finally, a break from the ganga-stench of the King Pin's underground town! A shrub-lined path leads north from the edge of the stone passage and into a square that can been far away
+~
+0 8 1
+D0
+~
+~
+0 -1 21627
+D2
+~
+~
+0 -1 21593
+S
+#21595
+Drug Rehabilitation Clinic~
+The Clinic is the one source of purity in the drug distric of the Realm. Long tables line the blinding white walls. Several people sit at the tables filling out forms to get the Clinic's free treatments. Once finished, they are lead through the door in the west wall.
+~
+0 8 1
+D1
+~
+~
+0 -1 21592
+D3
+~
+~
+1 -1 21597
+S
+#21596
+Underworld Jail~
+A long bar table stretches from one side of the room to the other with a narrow gap on the north side. A number of deputies stand on one side hustling about and filling out paper work. A door is set in the east wall.
+~
+0 8 1
+D1
+~
+~
+1 21507 21601
+D3
+~
+~
+0 -1 21592
+S
+#21597
+Education room~
+This room is used by the clinic to educate its patients between treatments. There is a green chalkboard in the center of the room surrounded by several chairs.
+~
+0 8 1
+D0
+~
+~
+1 -1 21599
+D1
+~
+~
+1 -1 21595
+D2
+~
+~
+1 -1 21600
+D3
+~
+~
+1 -1 21598
+S
+#21598
+Decontamination room~
+The padded walls have been well pounded by the hundreds of patients receiving treatment in this room. A number of shackles lie bolted to the floor to restrain those who may hurt themselves.
+~
+0 8 1
+D1
+~
+~
+1 -1 21597
+S
+#21599
+Search and Clean Room~
+This room is used to strip and search the patients for all drugs which may be hidden in clothing and other body orfices. A pit too small to enter lies in the floor. It is used to dispose of the drugs found on patients.
+~
+0 8 1
+D2
+~
+~
+1 -1 21597
+S
+#21600
+Idea Reformation room~
+This is the Clinic's final treatment room. In the center of the room is an odd metal chair. From the top of the chair's back hangs a steel helmet connected to the chair. Flexible metal arm restraints and chest restraints are also welded to the chair. A thick wire leads from the base of the chair to a drum lined lined with copper wires. At one side of the drum a handle is attached and meant to be turned quickly.
+~
+0 8 1
+D0
+~
+~
+1 -1 21597
+S
+#21601
+Jail's back room~
+Three heavy steel doors lie in the north, east, and south walls. Each door is soundly bolted shut and the sounds of screams can be heard beyond them.
+~
+0 8 1
+D0
+~
+~
+1 21507 21602
+D1
+~
+~
+1 21507 21603
+D2
+~
+~
+1 21507 21604
+D3
+~
+~
+1 21507 21596
+S
+#21602
+Holding Cell~
+A thick stench hangs in the air. A number of small wooden bunks are stacked along the walls. A small wall in the back wall is used as a toilet. There appears to be no source of fresh water in the room.
+~
+0 8 1
+D2
+~
+~
+1 21507 21601
+S
+#21603
+Holding Cell~
+A thick stench hangs in the air. A number of small wooden bunks are stacked along the walls. A small wall in the back wall is used as a toilet. There appears to be no source of fresh water in the room.
+~
+0 8 1
+D3
+~
+~
+1 21507 21601
+S
+#21604
+Holding Cell~
+A thick stench hangs in the air. A number of small wooden bunks are stacked along the walls. A small wall in the back wall is used as a toilet. There appears to be no source of fresh water in the room.
+~
+0 8 1
+D0
+~
+~
+1 21507 21601
+S
+#21605
+Sven's Clothing Store~
+Seeming out of place in a drug ridden town, Sven has molded a substantial niche for himself in the community. Several brands of cloaks and other garments hang from wooden pegs in the walls. Most seem to cater to the poor. Three doors lead to the changing rooms.
+~
+0 8 1
+D0
+~
+~
+1 -1 21607
+D1
+~
+~
+1 -1 21606
+D2
+~
+~
+1 -1 21608
+D3
+~
+~
+1 -1 21593
+S
+#21606
+Changing room~
+A metal mirror hangs from the wall and is the only furnishing in this simple room.
+~
+0 8 1
+D3
+~
+~
+1 -1 21605
+S
+#21607
+Changing Room~
+A metal mirror hangs from the wall and is the only furnishing in this simple room.
+~
+0 8 1
+D2
+~
+~
+1 -1 21605
+S
+#21608
+Changing Room~
+A metal mirror hangs from the wall and is the only furnishing in this simple room.
+~
+0 8 1
+D0
+~
+~
+1 -1 21605
+D3
+~
+mirror~
+1 -1 21609
+S
+#21609
+Hidden Stairwell~
+Behind the mirror a hidden stair well leads down into Sven's storage room.
+~
+0 8 1
+D1
+~
+mirror~
+1 -1 21608
+D5
+~
+~
+0 -1 21610
+S
+#21610
+Storage Cavern~
+Several racks of out-of-date clothing hangs stand in the room. Several moths feasting on the old clothing flutter around as you enter the room. A set of stairs leads up into Sven's store.
+~
+0 1|8 1
+D2
+~
+~
+0 -1 21611
+D4
+~
+~
+0 -1 21609
+S
+#21611
+Storage Cavern~
+More racks of old clothing stand around the room. The moths seem thicker here and flutter chaotically toward any source of light. A closet sits in the east wall.
+~
+0 1|8 1
+D0
+~
+~
+0 -1 21610
+D1
+~
+~
+1 -1 21612
+S
+#21612
+Svens Closet~
+This is an empty closet save for several mirrors stored against the back wall.
+~
+0 1|8 1
+D1
+~
+mirror~
+1 -1 21613
+D3
+~
+~
+1 -1 21611
+S
+#21613
+Guard Post~
+The clean white walls and flickering lanterns indicate people are here often. As you enter this room, you realize you are clearly not supposed to be here. A group of guards leap savagely toward you.
+~
+0 8 1
+D1
+~
+~
+0 -1 21614
+D3
+~
+mirror~
+1 -1 21612
+S
+#21614
+A clean, well-lit corridor~
+Several wood torches illuminate the white walls of the corridor. The corridor is immaculately clean.
+~
+0 8 1
+D1
+~
+~
+0 -1 21615
+D3
+~
+~
+0 -1 21613
+S
+#21615
+A clean, well-lit corridor~
+Several wood torches illuminate the white walls of the corridor. The corridor is immaculately clean. A pair of doors lead off to the north and south.
+~
+0 8 1
+D0
+~
+~
+1 -1 21619
+D1
+~
+~
+0 -1 21616
+D2
+~
+~
+1 -1 21620
+D3
+~
+~
+0 -1 21614
+S
+#21616
+A clean, well-lit corridor~
+Several wood torches illuminate the white walls of the corridor. The corridor is immaculately clean. A pair of doors lead off to the north and south. To the east you can see a guard post.
+~
+0 8 1
+D0
+~
+~
+1 -1 21617
+D1
+~
+~
+0 -1 21621
+D2
+~
+~
+1 -1 21618
+D3
+~
+~
+0 -1 21615
+S
+#21617
+Syringe Manufacturing~
+A small assembly of machinery rests in the center of the room. Every few seconds a syringe rolls out of the machine into a collection tray. A pile of new syringes lie in an organized pile in a cardboard box on the floor. Several other boxes are stacked against the walls.
+~
+0 8 1
+D2
+~
+~
+1 -1 21616
+S
+#21618
+Bagging Room~
+Several boxes are stacked against the wall. Each is labeled as "Brown Paper Bags". A number of sealed bags lie about the room in separate piles indicating different contents.
+~
+0 8 1
+D0
+~
+~
+1 -1 21616
+S
+#21619
+Pipe Manufacturing~
+A small group of dwarves sit around a table whittling pipes from hardened maple and oak. As you enter, they turn to face you!
+~
+0 8 1
+D2
+~
+~
+1 -1 21615
+S
+#21620
+Bong Manufacturing~
+A superheated furance is built into the west wall. A huge set of bellows mechanically blows air into the furance casting sparks into the room. A pile of glass bongs sit on a table aside a bucket of water.
+~
+0 8 1
+D0
+~
+~
+1 -1 21615
+S
+#21621
+Elite guard room~
+Several racks of weapons rest against the walls. A fireplace burns against one wall with a skewered chicken cooking above it. A small table covered with playing cards stands in the center of the room.
+~
+0 8 1
+D1
+~
+~
+1 21511 21622
+D3
+~
+~
+0 -1 21616
+S
+#21622
+Ante room~
+This is a simple room with several hooks attached to the wall. A sigh above the hooks reads, "Please hang your coats here".
+~
+0 8 1
+D1
+~
+~
+0 -1 21623
+D3
+~
+~
+1 21511 21621
+S
+#21623
+The King Pin's Meeting Room~
+Gaudy does not begin to describe the King Pin's meeting room. Flourescent curtains hang from the walls, strings of red and bluebeads hang over the doors. Leopard skin rugs cover the stone floor. A heavy musty scent fills the room.
+~
+0 8 1
+D0
+~
+curtain door~
+1 -1 21626
+D1
+~
+curtain door~
+1 -1 21624
+D2
+~
+~
+0 -1 21625
+D3
+~
+~
+0 -1 21622
+S
+#21624
+King Pin's bathroom~
+A relatively simple bathroom, but necessary.
+~
+0 8 1
+D3
+~
+~
+1 -1 21623
+S
+#21625
+Servants' Chambers~
+As you enter the room, the term "servants" seems out of place. Groupies is a better word because several hippie-looking rastafarians lounge about the room smoking large cigarettes. A thick scent lingers in the room
+~
+0 8 1
+D0
+~
+~
+0 -1 21623
+S
+#21626
+King Pin's Bedroom~
+This room is elaborately decorated with leopard skin rugs and pastel curtains.  The psychadelic swirling colors on the walls seem to draw you into a trance. A heavy musty scent lingers in the room.
+~
+0 8 1
+D2
+~
+~
+1 -1 21623
+D4
+~
+~
+1 -1 21605
+S
+#21627
+Shrub-lined path outside town~
+Green, poorly maintained shrubs line this dirt path. A hill can be seen to the south and a town square to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 21628
+D2
+~
+~
+0 -1 21594
+S
+#21628
+Shrub-lined path outside of town~
+Green, poorly maintained shrubs line this dirt path. A hill can be seen to the south and a town square to the north.
+~
+0 0 1
+D0
+~
+~
+0 -1 21629
+D2
+~
+~
+0 -1 21627
+S
+#21629
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 21632
+D1
+~
+~
+0 -1 21631
+D2
+~
+~
+0 -1 21628
+D3
+~
+~
+0 -1 21630
+S
+#21630
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 21636
+D1
+~
+~
+0 -1 21629
+D2
+~
+~
+0 -1 21642
+D3
+~
+~
+0 -1 21643
+S
+#21631
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 21634
+D1
+~
+~
+0 -1 21644
+D2
+~
+~
+0 -1 21645
+D3
+~
+~
+0 -1 21629
+S
+#21632
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 21633
+D1
+~
+~
+0 -1 21634
+D2
+~
+~
+0 -1 21629
+D3
+~
+~
+0 -1 21636
+S
+#21633
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D1
+~
+~
+0 -1 21635
+D2
+~
+~
+0 -1 21632
+D3
+~
+~
+0 -1 21637
+S
+#21634
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 21635
+D1
+~
+~
+0 -1 21658
+D2
+~
+~
+0 -1 21631
+D3
+~
+~
+0 -1 21632
+S
+#21635
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 21646
+D1
+~
+~
+0 -1 21647
+D2
+~
+~
+0 -1 21634
+D3
+~
+~
+0 -1 21633
+S
+#21636
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 21637
+D1
+~
+~
+0 -1 21632
+D2
+~
+~
+0 -1 21630
+D3
+~
+~
+0 -1 21639
+S
+#21637
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D0
+~
+~
+0 -1 21648
+D1
+~
+~
+0 -1 21633
+D2
+~
+~
+0 -1 21636
+D3
+~
+~
+0 -1 21638
+S
+#21638
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D1
+~
+~
+0 -1 21637
+S
+#21639
+Tent City~
+What seemed like a town square is actually a shanty and tent town. Hundreds of tents and people swarm about busily scavenging and stealing. Small fires burn inside the tents to keep the residents warm. Barrels set afire keep other residents of Tent City warm. Trash litters the ground and make-shift walkways change daily.
+~
+0 0 1
+D1
+~
+~
+0 -1 21636
+D3
+~
+~
+0 -1 21640
+S
+#21640
+Drunk Tank~
+Poorly decorated and rotting wooden walls indicate officials spend little of the residents' tax money on the upkeep of this hovel. That probably because there are so many drunks living in Tent City no amount of funding would make a difference. A thick oak door is set in the west wall.
+~
+0 8 1
+D1
+~
+~
+0 -1 21639
+D3
+~
+drunk tank door~
+1 21504 21641
+S
+#21641
+Tank~
+Vomit and urine lie in pools all over the floor along with a multitude of drunks who are unlucky enough to be unable to stand. The smell is so bad the jailor hardly ever checks on the drunks.
+~
+0 8|8192 1
+D1
+~
+drunk tank door~
+1 21504 21640
+S
+#21642
+Fannie's Deli~
+Several wooden crates assembled around larger wooden crates serve as make-shift chairs and tables of this Jewish deli. Flies swarm around a few buckets holding the food Fannie has scavenged from Tent City.
+~
+0 8 1
+D0
+~
+~
+0 -1 21630
+S
+#21643
+Public Washroom~
+Huge piles of human excremit mix with pools of vomit on the floor around the few doorless toilet stalls. The doors on the stalls were stolen long ago for tent doors. The toilets backed up spewing the excrement all over the floor and out the door. Huge swarms of flies infest the dung piles now ridden with maggots.
+~
+0 8 1
+D1
+~
+~
+0 -1 21630
+D5
+~
+drain~
+1 -1 21818
+S
+#21644
+Dracul's Blood Bank~
+For the poor of Tent City, the only source of money is in exchange for blood donations brought to New Thalos and Migaard to treat the ignorant wealthy. Several small cots lie scattered around the dirty room. Several patches of dried blood cover the floor where Dracul drew too much blood or the residents of Tent City fell dead after donating their last pint in exchange for a few coins.
+~
+0 8|8192 1
+D3
+~
+~
+0 -1 21631
+S
+#21645
+City Apothecary~
+The remenants of a once state-of-the-art store catering to the poor lie scattered about the floor. The apothecary is no longer in business, but Paula has moved into the hut and she does not appreciate your intrusion.
+~
+0 8 1
+D0
+~
+~
+0 -1 21631
+S
+#21646
+Rusty Tap~
+Rusty's bar is the only source of alcohol for the poor of Tent City. He caters to their needs by offering low quality, high alcohol content drinks on the cheap. At the bar sit Rusty's three most loyal patrons with their heads resting on the table top.
+~
+0 8 1
+D2
+~
+~
+0 -1 21635
+S
+#21647
+New's Papers~
+Even the poor need to remain educated, but New does not sell books and papers for the illiterate poor to read. Instead the stacks of old newspapers and worn books are used for warmth as either paper blankets or fuel for fires.
+~
+0 8 1
+D3
+~
+~
+0 -1 21635
+S
+#21648
+Centre for the Homeless~
+Oddly located, as most of the residents of Tent City have better furnished hovels than this lowly building, the Centre provides a dry (but unsanitary) bed for free to residents of Tent City. A few homeless families have arranged their beds in the corners of the Centre. Piles of dirty linen are scattered across the room. A backdoor exits to the west.
+~
+0 0 1
+D2
+~
+~
+0 -1 21637
+D3
+~
+backdoor~
+1 -1 21649
+S
+#21649
+Small Shanty~
+This is the ritzy area of Tent City. Less trash lies on the floor, the buildings are made of scrapwood rather than cardboard, and the rooms are simply furnished.
+~
+0 8 1
+D1
+~
+backdoor~
+1 -1 21648
+D3
+~
+~
+0 -1 21650
+S
+#21650
+Shanty garden~
+The sun shines magnificently on this small garden. Organized rows of carrots, turnips, and potatoes seem ripe for the picking. A small peach tree in the center of the garden blossoms fragrantly as bees noisily buzz.
+~
+0 0 1
+D0
+~
+~
+0 -1 21651
+D1
+~
+~
+0 -1 21649
+D2
+~
+~
+0 -1 21652
+D3
+~
+~
+0 -1 21653
+S
+#21651
+Small shanty~
+This is the ritzy area of Tent City. Less trash lies on the floor, the buildings are made of scrapwood rather than cardboard, and the rooms are simply furnished.
+~
+0 8 1
+D2
+~
+~
+0 -1 21650
+S
+#21652
+Small shanty~
+This is the ritzy area of Tent City. Less trash lies on the floor, the buildings are made of scrapwood rather than cardboard, and the rooms are simply furnished.
+~
+0 8 1
+D0
+~
+~
+0 -1 21650
+S
+#21653
+Shanty guard post~
+A group of grubby guards sit around a table sorting through bags of trash looted from the city. A rare fireplace crackles heating and illuminating the room. Someone important must be purchasing the guards allegience. A heavy wood door leads to the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 21654
+D1
+~
+~
+0 -1 21650
+D2
+~
+heavy wood door~
+1 21505 21655
+S
+#21654
+Grubby guards' baracks~
+A tremendous amount of garbage creaps from beneath the grubby guards' beds. Several nudie calendars hang from the walls as do sketch drawings of the guards' recent foray into the King Pin's city.
+~
+0 8 1
+D2
+~
+~
+0 -1 21653
+S
+#21655
+Flowery path~
+Back outside again, the path leads south to an elaborately decorated shanty belonging to Seeley. Blossoming plants grow from the roof of Seeley's shanty and hanging flowers drape over the walls. The path you are on now is carefully manicured and small flower pots dot the sides of the path.
+~
+0 0 1
+D0
+~
+heavy wood door~
+1 21505 21653
+D2
+~
+~
+0 -1 21656
+S
+#21656
+Seeley's living quarters~
+Flowers and ferns of all sorts hang from the ceiling and every wall of the room. A bookcase in the west wall includes gardening books. An old mossy stump serves as a table in the center of the room. Thatch chairs encirle it.
+~
+0 8 1
+D0
+~
+~
+0 -1 21655
+D3
+~
+bookcase~
+1 21506 21657
+S
+#21657
+Selley's hidden bedroom~
+Behind the bookcase lies a serenely decorated room. Large holes in the ceiling permit the sun's rays to illuminate the room. Moss covers the walls and creeping vines crawl in through the sunroofs. A large bed rests against one wall.
+~
+0 8|8192 1
+D1
+~
+bookcase~
+1 21506 21656
+S
+#21658
+Edge of a well-worn path~
+The cacophonic noise of tent city seems distant as you walk along this well-worn path. In fact, the path seems extremely well-traveled with deep ruts leading east to some unknown, but obviously popular place.
+~
+0 0 1
+D1
+~
+~
+0 -1 21659
+D3
+~
+~
+0 -1 21634
+S
+#21659
+Well-worn path~
+Deep wagon-wheel ruts and hundreds of footprints cover this trail. Trees encouragingly whistle as you passby. This must be a popular route.
+~
+0 0 1
+D1
+~
+~
+0 -1 21660
+D3
+~
+~
+0 -1 21658
+S
+#21660
+A well-worn path~
+Deep wagon-wheel ruts and hundreds of footprints cover this trail. Trees encouragingly whistle as you passby. This must be a popular route.
+~
+0 0 1
+D0
+~
+~
+0 -1 21661
+D3
+~
+~
+0 -1 21659
+S
+#21661
+Warning post~
+Before you stands another hillside and an archway leading into the hill. An elaborately colored sign stands smack in the middle of the path and demands the attention of newcomers to this land. You realize you should probably read the sign before entering.
+~
+0 0 1
+D0
+~
+~
+0 -1 21662
+D2
+~
+~
+0 -1 21660
+E
+sign post signpost~
+Warning: Regardless of what you may have heard, prostitution is illegal. Anyone considering deals with women of this nature should also keep in mind the swiftness of the Master's justice.~
+S
+#21662
+Chastity Drive~
+A number of gas lights with red-tinted shades illuminate this underground road. Residents of the city casually stroll along the street admiring the goods for sale in the shop windows. A police post lies to the west and an oddly named store is to the east.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21665
+D1
+~
+~
+0 -1 21663
+D2
+~
+~
+0 -1 21661
+D3
+~
+~
+0 -1 21664
+S
+#21663
+Wrap Sure~
+Mick opened this store after Sleazy Eddie offered tax incentives to keep sexually transmitted diseases from spreading (diseases hurt business). Barrels lies around the room, each full of small sheepskin sacks. Each barrel is labeled with a color, size, and flavor.
+~
+0 8|8192 1
+D3
+~
+~
+0 -1 21662
+S
+#21664
+Police Post~
+There is not much to this simple police station. In fact, there are not any police here either. A small paper sign sits on a desk as you walk into the room.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 21662
+S
+#21665
+Chastity Drive~
+A number of gas lights with red-tinted shades illuminate this underground road. Residents of the city casually stroll along the street admiring the goods for sale in the shop windows. Long strands of beads to the east lead into a sex shop.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21666
+D1
+~
+~
+0 -1 21667
+D2
+~
+~
+0 -1 21662
+S
+#21666
+Intersection of Chastity Drive and Virgin Terrace~
+Chastity Drive and Virgin Terrace intersect in an explotion of foot traffic. Hundreds of people wander along the roads propositioning each other for a so-called "Good time". Tempting as it may be, a number of stores still attract your attention.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 21670
+D2
+~
+~
+0 -1 21665
+D3
+~
+~
+0 -1 21668
+S
+#21667
+Jezabel's Naughty Toys~
+Beads swish behind you as you enter this naughty store. Tight leather goods are prominently displayed on several manquins. The shelves display an odd collection of whips, instruction books, dirty magazines, and love creams.
+~
+0 8|8192 1
+D3
+~
+~
+0 -1 21665
+S
+#21668
+Virgin Terrace~
+Oil lamps illuminate this part of Virgin terrace. A tremendous amount of traffic flows westward toward some stores. To the east, several intersections can be seen. A runaway shelter humbly sits to the south. A dark alleyway leads north.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21675
+D1
+~
+~
+0 -1 21666
+D2
+~
+~
+0 -1 21674
+D3
+~
+~
+0 -1 21669
+S
+#21669
+Virgin Terrace~
+Throngs of people walk quickly by the windows of Virgin Terrace, peering into them. Women behind the windows beckon the people and animals on the street to purchase their services. Candi's Corner, to the west, seems particularly busy. To the north, Sticky's Pages sells exotic literature. A seedy building is set to the south.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21676
+D1
+~
+~
+0 -1 21668
+D2
+~
+~
+0 -1 21678
+D3
+~
+~
+0 -1 21677
+S
+#21670
+Intersection of Virgin Terrace and Abstinence Crescent~
+Many people hustle to the north and the west from here. A pair of oil lamps illuminate a billboard standing in the center of the intersection. A smaller passage leads east.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 21671
+D3
+~
+~
+0 -1 21666
+S
+#21671
+Virgin Terrace~
+This end of Virgin Terrace is far less busy than the west end. A large hotel to the north breaks the silence of this otherwise lonely street.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21673
+D1
+~
+~
+0 -1 21672
+D3
+~
+~
+0 -1 21670
+S
+#21672
+Virgin Terrace~
+Virgin Terrace ends here where it hits some form of stone the builders could not tunnel through. Small dark cracks in the north wall are too small to fit through, but some shuffling can be heard beyond them.
+~
+0 8|8192 1
+D3
+~
+~
+0 -1 21671
+S
+#21673
+Happy Quarter Hour Hotel Front Yard~
+You are standing in Happy's front yard. The sound of horses comes from the livery to the north. The lobby appears to be to the east.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21683
+D1
+~
+~
+0 -1 21684
+D2
+~
+~
+0 -1 21671
+S
+#21674
+Runaway Shelter~
+Many cots are pushed into the corners of the room. Upon them rest the lost runaways seeking shelter from the sinful Redlight District. Young and old women, many lost travelers, and a few wild animals huddle amongst each other seeking peace in this otherwise horrid city.
+~
+0 8 1
+D0
+~
+~
+0 -1 21668
+S
+#21675
+Redlight District Alley~
+Ahead of you is a confusing maze of alleys in the Redlight District. There is no source of light. Oily water drips from the stone ceilings and the slippery, moss-covered floor offers little traction. You seem to hear footsteps in the distance.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21700
+D2
+~
+~
+0 -1 21668
+S
+#21676
+Sticky's Pages~
+Racks and racks of picture magazines fill the store. Each rack is clearly labeled with a type of fetish. Cheesy music plays in the background and sparkling sphere rotates in the center of the room flashing bits of light on the walls.
+~
+0 8|8192 1
+D2
+~
+~
+0 -1 21669
+S
+#21677
+Candi's Corner~
+This store is split in two by curtain which is now open. A small chair sits by the store's front window with bright lights shining down. Beyond the curtain is a well-worn matress lying on the floor. The musky stench of cigarettes and alcohol fills your nostrils.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 21669
+S
+#21678
+Trash-strewn lobby~
+This seedy apartment building houses the dregs of the Redlight District. Huge piles of small sheepskin bags lie on the floor and the lobby's furniture seems well used by visitors who do not pay rent. A musky smell permeates the room. To the south there is an unsafe stairwell.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21669
+D2
+~
+~
+0 -1 21679
+S
+#21679
+Unsafe stairwell~
+With no handrails, the slippery stone steps trecherously climb up to the second floor of the apartment building.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21678
+D4
+~
+~
+0 -1 21680
+S
+#21680
+Top of the unsafe stairwell~
+As you reach the top of the stairwell, you turn to look down the steps and realize you cannot return the way you have come. A pair of doors sit in the north and south walls. The door to the north has a list of rates per 15 minute period.
+~
+0 1|8|8192 1
+D0
+~
+~
+1 -1 21682
+D2
+~
+~
+1 -1 21681
+S
+#21681
+Dirty bedroom~
+More sheepskin bags lie strewn around the room. A low buring candle fails to illuminate the room enough for you to see all the details. However, there seems to be some animal noises coming from under the sheets of a well-used bed.
+~
+0 1|8|8192 1
+D0
+~
+~
+1 -1 21680
+S
+#21682
+Landlord's apartment~
+Furnished in a style consistent with the cheesy Redlight District, the leopard skin blankets and green, blue, and red tints on the lantern lenses mark this room as the cheese king's apartment. On a cabinet sits a few manequin heads upon which rest a variety of cheasy horse-hair wigs.
+~
+0 1|8|8192 1
+D2
+~
+~
+1 -1 21680
+S
+#21683
+Happy Quarter Hour Hotel Livery~
+Braying horses and barking dogs are tied to a number of posts sunk deep into the ground. The smell of animal dung hangs heavy in the air.
+~
+0 1|8|8192 1
+D2
+~
+~
+0 -1 21673
+S
+#21684
+Happy Quarter Hour Hotel Lobby~
+Large paintings of smiling people dominate the room. A particularly odd one portrays a woman hugging a dog with a ecstatic smile on her face. The dog seems relaxed. Rates are prominantly posted above a window in the north wall. The sound of animals is heard to the west.
+~
+0 8|8192 1
+D2
+~
+~
+0 -1 21685
+D3
+~
+~
+0 -1 21673
+S
+#21685
+Happy's staircase~
+A brilliant yellow set of stairs climbs to the second floor of Happy's Hotel. The sound of people can be heard above.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21684
+D4
+~
+~
+0 -1 21686
+S
+#21686
+Happy's Staircase on the First floor~
+The bright yellow stairs continue down and up from here. A dazzling red corridor is to the east. The sound of people can be heard above and in the corridor.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 21694
+D4
+~
+~
+0 -1 21687
+D5
+~
+~
+0 -1 21685
+S
+#21687
+Happy's Staircase on the Second floor~
+The bright yellow stairs go steeply down from here. A vibrant green corridor is to the east. The sound of people can be heard in the corridor and below you.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 21688
+D5
+~
+~
+0 -1 21686
+S
+#21688
+Happy's Second floor hallway~
+The bright green hallway nearly blinds your senses. The sound of people can be heard to the north and the south. They seem quite busy.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21689
+D1
+~
+~
+0 -1 21691
+D2
+~
+~
+1 -1 21690
+D3
+~
+~
+0 -1 21687
+S
+#21689
+A Happy Bedroom~
+Bright decor continues inside the Happy(tm) Bedrooms. Brilliant shades of yellow, fiery red, and sky blue clash in a spectacle of prismatic ecstacy.
+~
+0 8|8192 1
+D2
+~
+~
+1 -1 21688
+S
+#21690
+A Happy Bedroom~
+Bright decor continues inside the Happy(tm) Bedrooms. Brilliant shades of yellow, fiery red, and sky blue clash in a spectacle of prismatic ecstacy.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21688
+S
+#21691
+Happy's Second floor hallway~
+The bright green hallway nearly blinds your senses. The sound of people can be heard to the north and the south. They seem quite busy.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21692
+D2
+~
+~
+1 -1 21693
+D3
+~
+~
+0 -1 21688
+S
+#21692
+A Happy Lounge~
+As you step into the room, you immediate notice the cushioned red floor. The same color scheme applies to this room as the others: bright yellows, sky blues, and fiery reds clash giving you a pounding headache. Several lounge chairs big enough for three are situated in the room.
+~
+0 8|8192 1
+D2
+~
+~
+1 -1 21691
+S
+#21693
+Happy's Room~
+You enter the room and instantly understand that Happy is not the happy person he seemed to be. A pedestal with a slottered goat lies in the middle of the room surrounded by flickering black candles. Books on cults line the walls and instruments of demon worship lie bloodied on the floor near the unmade bed.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21691
+S
+#21694
+Happy's First floor hallway~
+The blinding red walls stun you. What tasteless fool would have bought this color? The sound of people can be heard to the north and the south.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21698
+D1
+~
+~
+0 -1 21695
+D2
+~
+~
+1 -1 21699
+D3
+~
+~
+0 -1 21686
+S
+#21695
+Happy's First floor hallway~
+The blinding red walls stun you. What tasteless fool would have bought this color? The sound of people can be heard to the north and the south.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21696
+D2
+~
+~
+1 -1 21697
+D3
+~
+~
+0 -1 21694
+S
+#21696
+A Happy Bedroom~
+Bright decor continues inside the Happy(tm) Bedrooms. Brilliant shades of yellow, fiery red, and sky blue clash in a spectacle of prismatic ecstacy.
+~
+0 8|8192 1
+D2
+~
+~
+1 -1 21695
+S
+#21697
+A Happy Bedroom~
+Bright decor continues inside the Happy(tm) Bedrooms. Brilliant shades of yellow, fiery red, and sky blue clash in a spectacle of prismatic ecstacy.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21695
+S
+#21698
+A Happy Bedroom~
+Bright decor continues inside the Happy(tm) Bedrooms. Brilliant shades of yellow, fiery red, and sky blue clash in a spectacle of prismatic ecstacy.
+~
+0 8|8192 1
+D2
+~
+~
+1 -1 21694
+S
+#21699
+A Happy Playroom~
+An incrible array of whips, chains, and other bondage equipment are neatly hung on the wall. Several set of shackles hang from the ceiling or sit, bolted, to the floor. An open closet contains a variety of shiny black, red, and yellow leather goods.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21694
+S
+#21700
+Lost in a Redlight District alley~
+You are lost in the Redlight District's complex alley system. Oily water oozes from the ceiling and insects slither through the deep pools of water.
+~
+0 1|8|8192 1
+D2
+~
+~
+0 -1 21675
+D3
+~
+~
+0 -1 21701
+S
+#21701
+Somewhere in a Redlight District alley~
+You have not bettered your situation by coming this far into the alley. With every echoing step, you seem more confident you will never find your way out. Greasy water drips onto your clothing.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21706
+D1
+~
+~
+0 -1 21700
+D3
+~
+~
+0 -1 21702
+S
+#21702
+An alley in the Redlight District~
+You are definitely lost in a place you should not have entered. The darkness and the oily water soaking into your clothing is putting you in a foul frame of mind. Strange insects scuttle between pools of water on the floor. Scratches on the wall indicate there are other things lost in this hellish maze.
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21701
+D2
+~
+~
+0 -1 21703
+S
+#21703
+Lost in a Redlight District alley~
+You are exceeding lost in the dreaded Redlight District maze of alleys. Oily water seeps from cracks in the ceiling forming moderately deep, black pools in the ground.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21702
+D3
+~
+~
+0 -1 21704
+S
+#21704
+Lost in a Redlight District alley~
+Duck! Low pipes in this treacherous alley make wandering through the Redlight District's alley system while lost extremely hazardous. The pipes seem warm to the touch.  Where do they lead to?
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21705
+D1
+~
+~
+0 -1 21703
+S
+#21705
+Exceeding lost in the Redlight District~
+Duck! Low pipes in this treacherous alley make wandering through the Redlight District's alley system while lost extremely hazardous. The pipes seem warm to the touch.  Where do they lead to?
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21706
+D2
+~
+~
+0 -1 21704
+S
+#21706
+Lost in a Redlight District alley~
+Your greasy clothing and poor frame of mind force you to reconsider your decision to enter this maze. Why would you wander in here without knowing what is at the end of this maze?
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21707
+D2
+~
+~
+0 -1 21701
+D3
+~
+~
+0 -1 21706
+S
+#21707
+An intersection in a Redlight District alley~
+The main passageway leads east from here while a narrow crack in the north wall probably leads further into this hellish maze. A deep pool in the center of the walkway crawls with slimy insects.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21708
+D1
+~
+~
+0 -1 21715
+D3
+~
+~
+0 -1 21706
+S
+#21708
+Why did you come here?~
+That is the question you should be asking yourself as you slip and slide through this crack. The brownish slime rubs off into your clothing as you slide against the walls. An occassional stream of water trickles down the walls soaking your clothing.
+~
+0 1|8|8192 1
+D2
+~
+~
+0 -1 21707
+D3
+~
+~
+0 -1 21709
+S
+#21709
+A crack in the Redlight District~
+More oozing moss rubs off the walls as you squeeze through this narrow crack. There is no sign of life besides the slimy insects crawling into your boots. You are certainly lost.
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21708
+D3
+~
+~
+0 -1 21710
+S
+#21710
+Lost in a Redlight District alley~
+You are lost in the Redlight District's complex alley system. Oily water oozes from the ceiling and insects slither through the deep pools of water.
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21709
+D2
+~
+~
+0 -1 21711
+S
+#21711
+Exceedingly lost in a Redlight District alley~
+Duck! Low pipes in this treacherous alley make wandering through the Redlight District's alley system while lost extremely hazardous. The pipes seem warm to the touch.  Where do they lead to?
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21710
+D3
+~
+~
+0 -1 21712
+S
+#21712
+Lost in a Redlight District alley~
+Your greasy clothing and poor frame of mind force you to reconsider your decision to enter this maze. Why would you wander in here without knowing what is at the end of this maze?
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21711
+D3
+~
+~
+0 -1 21713
+S
+#21713
+Somewhere in a Redlight District alley~
+You have not bettered your situation by coming this far into the alley. With every echoing step, you seem more confident you will never find your way out. Greasy water drips onto your clothing.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21713
+D1
+~
+~
+0 -1 21712
+D2
+~
+~
+0 -1 21714
+D3
+~
+~
+0 -1 21713
+S
+#21714
+An alley in the Redlight District~
+You are definitely lost in a place you should not have entered. The darkness and the oily water soaking into your clothing is putting you in a foul frame of mind. Strange insects scuttle between pools of water on the floor. Scratches on the wall indicate there are other things lost in this hellish maze.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21713
+D2
+~
+~
+0 -1 21733
+S
+#21715
+An intersection in a Redlight District alley~
+The main passageway leads east from here while a narrow crack in the north wall probably leads further into this hellish maze. A deep pool in the center of the walkway crawls with slimy insects.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21716
+D1
+~
+~
+0 -1 21715
+D3
+~
+~
+0 -1 21707
+S
+#21716
+Lost deep in the Redlight District maze~
+You are lost in the Redlight district and certainly not enjoying it. Creeping spiders and slithering snakes crawl around oily pools formed by brownish water dripping from the ceiling.
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21717
+D2
+~
+~
+0 -1 21715
+S
+#21717
+Lost deep in the Redlight District maze~
+Have you asked yourself why you entered the Redlight District? Surely, this is not a time to ask that question as you are lost deep in a unknow area of this world.
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21718
+D2
+~
+~
+0 -1 21729
+D3
+~
+~
+0 -1 21716
+S
+#21718
+A pile of bones deep in the Redlight District~
+A pile of strange bones lies on the floor. It is uncertain who must have left them here, but the tooth marks on it clearly indicate someone or something in this alley is hungry.
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21719
+D3
+~
+~
+0 -1 21717
+S
+#21719
+Again, you are lost in the Redlight District~
+You heard the rumors long before coming here and you are now sure they were right - this is not a nice place. The oily water dripping on the ceiling and sliding down the mossy walls collects in pools on the floor. A plethora of insects and other unknown creatures live within these pools.
+~
+0 1|8|8192 1
+D2
+~
+~
+0 -1 21720
+D3
+~
+~
+0 -1 21718
+S
+#21720
+Lost deep in the Redlight District maze~
+Duck! Low pipes in this treacherous alley make wandering through the Redlight District's alley system while lost extremely hazardous. The pipes seem warm to the touch.  Where do they lead to?
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21719
+D1
+~
+~
+0 -1 21721
+S
+#21721
+Lost in a Redlight District alley~
+You are exceeding lost in the dreaded Redlight District maze of alleys. Oily water seeps from cracks in the ceiling forming moderately deep, black pools in the ground.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21722
+D3
+~
+~
+0 -1 21720
+S
+#21722
+Lost deep in the Redlight District maze~
+You are lost in the Redlight District's complex alley system. Oily water oozes from the ceiling and insects slither through the deep pools of water.
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21723
+D2
+~
+~
+0 -1 21721
+S
+#21723
+Lost deep in the Redlight District maze~
+You are exceeding lost in the dreaded Redlight District maze of alleys. Oily water seeps from cracks in the ceiling forming moderately deep, black pools in the ground.
+~
+0 1|8|8192 1
+D2
+~
+~
+0 -1 21724
+D3
+~
+~
+0 -1 21722
+S
+#21724
+Somewhere deep in the Redlight District maze~
+You have not bettered your situation by coming this far into the alley. With every echoing step, you seem more confident you will never find your way out. Greasy water drips onto your clothing.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21723
+D2
+~
+~
+0 -1 21725
+S
+#21725
+Lost deep in the Redlight District~
+You are definitely lost in a place you should not have entered. The darkness and the oily water soaking into your clothing is putting you in a foul frame of mind. Strange insects scuttle between pools of water on the floor. Scratches on the wall indicate there are other things lost in this hellish maze.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21724
+D2
+~
+~
+0 -1 21726
+S
+#21726
+Why?~
+That is the question you should be asking yourself as you slip and slide through this crack. The brownish slime rubs off into your clothing as you slide against the walls. An occassional stream of water trickles down the walls soaking your clothing.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21725
+D3
+~
+~
+0 -1 21727
+S
+#21727
+Somewhere in the Redlight District alley~
+Your greasy clothing and poor frame of mind force you to reconsider your decision to enter this maze. Why would you wander in here without knowing what is at the end of this maze?
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21726
+D2
+~
+~
+0 -1 21728
+S
+#21728
+Whoosh!~
+Your feet slip out from beneath you sending you hurdling down through slim cracks to a busy street below you. Your eyes are blinded by the bright lights
+~
+0 1|8|8192 1
+D5
+~
+~
+0 -1 21672
+S
+#21729
+A serious predicament~
+The slimy things are getting more hungry and the greasy water is chilling you as it soaks your clothing. The Redlight District alleys are an aweful place to get lost.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21717
+D1
+~
+~
+0 -1 21730
+D2
+~
+~
+0 -1 21729
+S
+#21730
+Lost somewhere in the Redlight District~
+You are exceeding lost in the dreaded Redlight District maze of alleys. Oily water seeps from cracks in the ceiling forming moderately deep, black pools in the ground.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21730
+D2
+~
+~
+0 -1 21731
+D3
+~
+~
+0 -1 21729
+S
+#21731
+Somewhere in the Redlight District and Lost~
+This hellish place continues and you are getting colder as the chilling water continues to soak you. Maggots and other slimy creatures are climbing through your clothing. The moss on the walls is getting thicker and more plant like.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21730
+D1
+~
+~
+0 -1 21732
+D2
+~
+~
+0 -1 21731
+S
+#21732
+There is light!~
+To the south you see some light and you realize you may have finally escaped the Redlight District's fearful maze just in time as the maggots here are getting quite large and look hungry...
+~
+0 1|8|8192 1
+D2
+~
+~
+0 -1 21728
+D3
+~
+~
+0 -1 21731
+S
+#21733
+Less lost in the Redlight District~
+The dreadful maze seems to have come to an end - a small redish light can be seen to the west and you can here some distant music and laughter. You have survived the alleys.
+~
+0 1|8|8192 1
+D0
+~
+~
+0 -1 21714
+D3
+~
+~
+0 -1 21734
+S
+#21734
+Outside Sleezy Eddie's Night Club~
+Before you stands a large sign lit by flickering torches - "Welcome to Sleezy Eddie's Night Club - Minors permitted with ID". The sound of music can be heard inside.
+~
+0 1|8|8192 1
+D1
+~
+~
+0 -1 21733
+D3
+~
+~
+1 -1 21735
+S
+#21735
+Inside the nightclub~
+Dancing girls grind against poles and bare it all to a racaus crowd demanding lewd acts. The girls just sheeplessly smile and continue their dance. Small foot high tables are scattered around the room.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21736
+D1
+~
+~
+1 -1 21734
+D2
+~
+~
+0 -1 21737
+D3
+~
+~
+0 -1 21738
+S
+#21736
+A table with a view~
+Dancing girls grind against poles and bare it all to a racaus crowd demanding lewd acts. The girls just sheeplessly smile and continue their dance. Small foot high tables are scattered around the room.
+~
+0 8|8192 1
+D2
+~
+~
+0 -1 21735
+S
+#21737
+Sleezy Eddie's Bar~
+Topless barmaids rush to the bar and place orders for the Club's patrons which Wallace dutifully fills. An entire selection of the finest and crudest alcohols lie on a shelf behind the bar.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21735
+S
+#21738
+In front of the stage~
+Dancing girls grind against poles and bare it all to a racaus crowd demanding lewd acts. The girls just sheeplessly smile and continue their dance. Small foot high tables are scattered around the room.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 21735
+D3
+~
+~
+0 -1 21739
+S
+#21739
+A table with a view~
+You are standing by a table full of boisterous, drunk men and women screaming for the dancers to take off their clothing and dance. Topless barmaids hustle to and fro ensuring a continuous flow of alcohol.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21740
+D1
+~
+~
+0 -1 21738
+S
+#21740
+A table with a view~
+Showgirls dance and perform other cheesy acts on the stage to your east. The table rocks back and forth as other patrons slam their drinks against it encouraging the girls to dance. A ramp to the east leads to the stage.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 21741
+D2
+~
+~
+0 -1 21739
+S
+#21741
+On-Stage~
+You are on a stage with a beautiful woman doing a pole dance. The crowd goes wild as she dances around you, tantalizing you with her body as the music and cheers pound your ears
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21742
+D3
+~
+~
+0 -1 21740
+S
+#21742
+Backstage~
+The music and cheers from the patron seems less loud behind the stage. Show girls busily rush around preparing themselves for their next acts. Large closets of skimpy clothing rest against the walls
+~
+0 8|8192 1
+D2
+~
+~
+1 -1 21741
+D3
+~
+~
+0 -1 21743
+S
+#21743
+Backstage Hallway~
+You are in a a hallway where dancers and producers run among the rooms preparing for the shows. The lewd comments from the Night Club audience can be heard faintly.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21748
+D1
+~
+~
+0 -1 21742
+D2
+~
+~
+1 -1 21749
+D3
+~
+~
+0 -1 21744
+S
+#21744
+Backstage Hallway~
+You are in a a hallway where dancers and producers run among the rooms preparing for the shows. The lewd comments from the Night Club audience can be heard faintly.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21745
+D1
+~
+~
+0 -1 21743
+D2
+~
+~
+1 -1 21746
+S
+#21745
+Silver's Dressing Room~
+Small thongs of various colors hang neatly on wooden pegs on the far wall. A small mirror lit by a single torch sits on a small desk cluttered with coins
+~
+0 8|8192 1
+D2
+~
+~
+1 -1 21744
+S
+#21746
+Paige's Dressing Room~
+You enter a simply decorated room dominated by a full-length mirror on the west side of the room. A small cabinet full of stick-on tatoos and whips sits against the far wall.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21744
+D3
+~
+mirror~
+1 -1 21747
+S
+#21747
+Behind the mirror~
+As you step behind the mirror the sound of the crowd disappears and is replaced by the sound of voices in room above you. A set of stairs leads upwards.
+~
+0 8|8192 1
+D1
+~
+mirror~
+1 -1 21746
+D4
+~
+~
+0 -1 21750
+S
+#21748
+Chicki's Dressing Room~
+You are in a room full of an assortment of slinky red dresses and high heels. A small mirror lit by a pair of torches sits on a dressing cabinet. On top of the cabinet sits a variety of stimulation devices.
+~
+0 8|8192 1
+D2
+~
+~
+1 -1 21743
+S
+#21749
+Trishi's Dressing Room~
+Sultry black leather garments lie strewn about the room. A large mirror illuminated by a pair of torches sits before large piles of dark make-up.
+~
+0 8|8192 1
+D0
+~
+~
+1 -1 21743
+S
+#21750
+Call Girl Centrale~
+You are in a room with many phones ringing. A number of women busy themselves by trying to answer them all, but the ceaseless racket gives you a headache in just the first few moments. A hallway continues south.
+~
+0 8|8192 1
+D2
+~
+~
+0 -1 21751
+D5
+~
+~
+0 -1 21747
+S
+#21751
+Call Girl Hallway~
+You are standing in a narrow hallway lined by doors. Groans and moans can be heard from beyond the thin wooden doors. Occassionally, a man or woman slides a door open, and walks up the hall toward the office behind you and disappears.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21750
+D1
+~
+~
+1 -1 21760
+D2
+~
+~
+0 -1 21752
+D3
+~
+~
+1 -1 21759
+S
+#21752
+Call Girl Hallway~
+You are standing in a narrow hallway lined by doors. Groans and moans can be heard from beyond the thin wooden doors. Snookum's name is carved into a wooden plaque on the west door.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21751
+D1
+~
+~
+1 -1 21757
+D2
+~
+~
+0 -1 21753
+D3
+~
+~
+1 -1 21758
+S
+#21753
+Call Girl Hallway~
+You are standing in a narrow hallway lined by doors. Groans and moans can be heard from beyond the thin wooden doors. Ted's name is written on a piece of paper tacked to the western wall.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21752
+D1
+~
+~
+1 -1 21756
+D2
+~
+~
+0 -1 21754
+D3
+~
+~
+1 -1 21755
+S
+#21754
+End of Call Girl Hallway~
+You are at the end of the hallway. The sounds of moans and groans can be heard behind you in the rooms. There appears to be no exit here.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21753
+D5
+~
+trapdoor~
+1 -1 21761
+S
+#21755
+Ted's Bedroom~
+You are standing in a simply decorated room. The only furnishings in it are a short, wide bed, which looks well worn,
+and an old nightstand. Unlike the other rooms, this room has an empty trashcan, but has many small jars of oil and jelly on the nightstand.
+~
+0 8|8192 1
+D1
+~
+~
+1 -1 21753
+S
+#21756
+Call Girl's Bedroom~
+You are standing in a simply decorated room. The only furnishings in it are a short, wide bed, which looks well worn,
+and an old nightstand. A small trashcan sits in the corner of the room overflowing with sheepskin bags.
+~
+0 8|8192 1
+D3
+~
+~
+1 -1 21753
+S
+#21757
+Call Girl's Bedroom~
+You are standing in a simply decorated room. The only furnishings in it are a short, wide bed, which looks well worn,
+and an old nightstand. A small trashcan sits in the corner of the room overflowing with sheepskin bags.
+~
+0 8|8192 1
+D3
+~
+~
+1 -1 21752
+S
+#21758
+Snookum's Bedroom~
+You are in an elaborately decorated bedroom bursting with pink and white colors. The curtains on the wall glow pink with a magical intensity. The bed has an exotic shade above it with a translucent silk cloth dangling down from the shade. The nightstand is cluttered by an array of strange devices attached to belts.
+~
+0 8|8192 1
+D1
+~
+~
+1 -1 21752
+S
+#21759
+Call Girl's Bedroom~
+You are standing in a simply decorated room. The only furnishings in it are a short, wide bed, which looks well worn,
+and an old nightstand. A small trashcan sits in the corner of the room overflowing with sheepskin bags.
+~
+0 8|8192 1
+D1
+~
+~
+1 -1 21751
+S
+#21760
+Call Girl's Bedroom~
+You are standing in a simply decorated room. The only furnishings in it are a short, wide bed, which looks well worn,
+and an old nightstand. A small trashcan sits in the corner of the room overflowing with sheepskin bags.
+~
+0 8|8192 1
+D3
+~
+~
+1 -1 21751
+S
+#21761
+Near Sleezy Eddie~
+You stand below the hallway of call girls and their sounds seem muffled. To the north the sounds of men's voices can be faintly heard.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21762
+D4
+~
+trapdoor~
+1 -1 21754
+S
+#21762
+Sleezy Guard Post~
+You are in a room wallpapered with pictures of women with men, women, and animals. A shaky wooden table sits in the center of the room covered with obscene magazines. A shorter wooden table stands toward one side of the room.
+~
+0 8|8192 1
+D1
+~
+~
+1 -1 21763
+D2
+~
+~
+0 -1 21761
+S
+#21763
+Sleezy's Harem~
+As you enter this room, an overwhelming scent of roses and exotic perfumes burns your nostrils. Long lounge chairs and many beds lie in an unorganized fashion about the room. A number of bowls ladden with fresh fruits and vegetables sit upon a long table in the center of the room. Many long strands of beads hang over the doorway to the east.
+~
+0 8|8192 1
+D1
+~
+~
+0 -1 21764
+D3
+~
+~
+1 -1 21762
+S
+#21764
+Sleezy's Debauchary Centre~
+You are standing in an enormous cavern lit by fire sunk into a ring in the center of the room. This room is solely furnished by a large round bed which encircles the fireplace. A number of quilts lie piled on the bed and on the floor. Several small baskets contain empty bottles of liquor still chilling in ice. There are visible exits to the east, south, and west.
+~
+0 8|8192 1
+D0
+~
+secret door~
+1 -1 21767
+D1
+~
+~
+0 -1 21765
+D2
+~
+~
+0 -1 21766
+D3
+~
+~
+0 -1 21763
+S
+#21765
+Sleezy Eddie's Whore's bedroom~
+You are in a room plushly decorated with elaborate furniture. A large closet sits in one wall displaying a number of fine silk, fur, leather, and linen clothing. Most seem relatively skimpy. A bed rests against one wall.
+~
+0 8|8192 1
+D3
+~
+~
+0 -1 21764
+S
+#21766
+Sleezy Eddie's Mom's Bedroom~
+You are in a room decorated in a family style. Many paintings of Sleezy Eddie in his youth sit atop a mantle above a small stone fireplace. It is apparent Sleezy Eddie's mom cares about her son.
+~
+0 8|8192 1
+D0
+~
+~
+0 -1 21764
+S
+#21767
+Sleezy Eddie's Office~
+You are standing in an office with oak-paneled walls and large bookcases shelved with a variety of thick leather-bound books. Several framed certificates hang over a small closet door in the east wall.
+~
+0 8|8192 1
+D1
+~
+bookcase~
+1 -1 21768
+D2
+~
+secret door~
+1 -1 21764
+S
+#21768
+A secret exit~
+You are in a small room with a ladder that climbs downwards...
+~
+0 8|8192 1
+D3
+~
+bookcase~
+1 -1 21767
+D5
+~
+~
+0 -1 21819
+S
+#21769
+Story Room~
+Well, there isn't much to say here. Mab and Thoreau were contemplating building this zone for a long, long time for PK Mud. With the help of Rip and some other flaps, they worked their idea out one March week in Los Angeles. Over the next few months, using Make.Zones.Fast, the two wrote this zone.
+
+Probably the two most profound contributions of this zone are the interweaved canal system which runs throughout the zone and the cheesy "Pyschadelic" air part of the zone. The canal system allows players to zip around the zone and permits another easy connection to the main MUD. The air part is more complicated because it requires flying.
+
+Feel free to take snipets of this zone and implement them into your mud as you choose. Just, please, include this room as a tribute to Mab and Thoreau's generousity.
+
+Mabbie and Thoreau
+~
+0 512 1
+D5
+~
+~
+0 -1 21667
+S
+#21786
+A boring underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21814
+D2
+~
+~
+0 -1 21787
+S
+#21787
+A boring underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21786
+D2
+~
+~
+0 -1 21788
+S
+#21788
+A boring underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21787
+D2
+~
+~
+0 -1 21789
+S
+#21789
+A boring underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21788
+D2
+~
+~
+0 -1 21790
+S
+#21790
+A boring underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21789
+D2
+~
+~
+0 -1 21791
+S
+#21791
+A boring underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21790
+S
+#21796
+A really dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D2
+~
+~
+0 -1 21797
+S
+#21797
+A really dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21796
+D2
+~
+~
+0 -1 21798
+S
+#21798
+A really dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21797
+D2
+~
+~
+0 -1 21799
+S
+#21799
+A really dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21798
+D2
+~
+~
+0 -1 21800
+S
+#21800
+A really dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21799
+D2
+~
+~
+0 -1 21801
+S
+#21801
+A really dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D0
+~
+~
+0 -1 21800
+D2
+~
+~
+0 -1 21814
+S
+#21802
+An even more dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21803
+D3
+~
+~
+0 -1 21814
+S
+#21803
+An even more dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21804
+D3
+~
+~
+0 -1 21802
+S
+#21804
+An even more dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21805
+D3
+~
+~
+0 -1 21803
+S
+#21805
+An even more dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21806
+D3
+~
+~
+0 -1 21804
+S
+#21806
+An even more dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21807
+D3
+~
+~
+0 -1 21805
+S
+#21807
+An even more dull underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D3
+~
+~
+0 -1 21806
+S
+#21808
+A seriously unexciting underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21809
+S
+#21809
+A seriously unexciting underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21810
+D3
+~
+~
+0 -1 21808
+S
+#21810
+A seriously unexciting underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21811
+D3
+~
+~
+0 -1 21809
+S
+#21811
+A seriously unexciting underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21812
+D3
+~
+~
+0 -1 21810
+S
+#21812
+A seriously unexciting underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21813
+D3
+~
+~
+0 -1 21811
+S
+#21813
+A seriously unexciting underground canal~
+You are in a dark, swiftly moving canal.
+~
+0 1|8|8192 7
+D1
+~
+~
+0 -1 21814
+D3
+~
+~
+0 -1 21812
+S
+#21814
+A swirling whirlpool in the dark, boring canal.~
+You are sucked into a swirling whirlpool.
+~
+0 1|8|8192 7
+D5
+~
+~
+0 -1 21816
+S
+#21815
+A rushing river~
+A river rushes from a rock in the southern wall, barring your entry. The river flows north.
+~
+0 0 1
+D3
+~
+~
+0 -1 21509
+S
+#21816
+A rushing river~
+You are rushed along through a river.
+~
+0 1|8 7
+D0
+~
+~
+0 -1 21815
+S
+#21817
+In a dark, underground canal~
+You fall into a dark canal and are unsure about which direction to go from here.
+~
+0 1|8 7
+D0
+~
+~
+0 -1 21791
+S
+#21818
+In a dark canal beneath the washroom~
+You fall from the washroom above into a flowing canal. It is dark here.
+~
+0 1|8 7
+D3
+~
+~
+0 -1 21807
+S
+#21819
+Below the night club~
+As you step downwards, the ladder collapses and you fall into a dark, underground canal.
+~
+0 1|8 0
+D2
+~
+~
+0 -1 21796
+S
+#21820
+A waterfall of colors~
+You are surrounded by water of millions of colors. The psychadelic colors soon strain your brain and you fall further down the waterfall.
+~
+0 1 1
+D5
+~
+~
+0 -1 21821
+S
+#21821
+A waterfall of colors~
+You are surrounded by water of millions of colors. The psychadelic colors soon strain your brain and you fall further down the waterfall.
+~
+0 1 1
+D5
+~
+~
+0 -1 21822
+S
+#21822
+Beneath the waterfall of colors~
+Dazed from the waterfall of colors, you fall into the dark waters of the underground canal.
+~
+0 1 1
+D1
+~
+~
+0 -1 21808
+D4
+~
+~
+0 -1 21821
+S
+#21823
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D1
+~
+~
+0 -1 21830
+D2
+~
+~
+0 -1 21824
+D4
+~
+~
+0 -1 21841
+D5
+~
+~
+0 -1 21832
+S
+#21824
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21823
+D1
+~
+~
+0 -1 21831
+D2
+~
+~
+0 -1 21825
+D3
+~
+~
+0 -1 21820
+D4
+~
+~
+0 -1 21842
+D5
+~
+~
+0 -1 21833
+S
+#21825
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21824
+D1
+~
+~
+0 -1 21826
+D4
+~
+~
+0 -1 21843
+D5
+~
+~
+0 -1 21834
+S
+#21826
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21831
+D1
+~
+~
+0 -1 21827
+D2
+~
+~
+0 -1 21820
+D3
+~
+~
+0 -1 21825
+D4
+~
+~
+0 -1 21844
+D5
+~
+~
+0 -1 21835
+S
+#21827
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21828
+D3
+~
+~
+0 -1 21826
+D4
+~
+~
+0 -1 21845
+D5
+~
+~
+0 -1 21836
+S
+#21828
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21829
+D1
+~
+~
+0 -1 21820
+D2
+~
+~
+0 -1 21827
+D3
+~
+~
+0 -1 21831
+D4
+~
+~
+0 -1 21846
+D5
+~
+~
+0 -1 21837
+S
+#21829
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D2
+~
+~
+0 -1 21828
+D3
+~
+~
+0 -1 21830
+D4
+~
+~
+0 -1 21847
+D5
+~
+~
+0 -1 21838
+S
+#21830
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21820
+D1
+~
+~
+0 -1 21829
+D2
+~
+~
+0 -1 21831
+D3
+~
+~
+0 -1 21823
+D4
+~
+~
+0 -1 21848
+D5
+~
+~
+0 -1 21839
+S
+#21831
+The center of the Lights~
+You see a throne room full of multicolored orbs.
+~
+0 0 9
+D0
+~
+~
+0 -1 21830
+D1
+~
+~
+0 -1 21828
+D2
+~
+~
+0 -1 21826
+D3
+~
+~
+0 -1 21824
+D4
+~
+~
+0 -1 21849
+D5
+~
+~
+0 -1 21820
+S
+#21832
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D1
+~
+~
+0 -1 21839
+D2
+~
+~
+0 -1 21833
+D4
+~
+~
+0 -1 21823
+S
+#21833
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21832
+D1
+~
+~
+0 -1 21840
+D2
+~
+~
+0 -1 21834
+D4
+~
+~
+0 -1 21824
+S
+#21834
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21833
+D1
+~
+~
+0 -1 21835
+D4
+~
+~
+0 -1 21825
+S
+#21835
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21840
+D1
+~
+~
+0 -1 21836
+D3
+~
+~
+0 -1 21834
+D4
+~
+~
+0 -1 21826
+S
+#21836
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21837
+D3
+~
+~
+0 -1 21835
+D4
+~
+~
+0 -1 21827
+S
+#21837
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21838
+D2
+~
+~
+0 -1 21836
+D3
+~
+~
+0 -1 21840
+D4
+~
+~
+0 -1 21828
+S
+#21838
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D2
+~
+~
+0 -1 21837
+D3
+~
+~
+0 -1 21839
+D4
+~
+~
+0 -1 21829
+S
+#21839
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D1
+~
+~
+0 -1 21838
+D2
+~
+~
+0 -1 21840
+D3
+~
+~
+0 -1 21832
+D4
+~
+~
+0 -1 21830
+S
+#21840
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21839
+D1
+~
+~
+0 -1 21837
+D2
+~
+~
+0 -1 21835
+D3
+~
+~
+0 -1 21833
+D4
+~
+~
+0 -1 21831
+S
+#21841
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D1
+~
+~
+0 -1 21848
+D2
+~
+~
+0 -1 21842
+D5
+~
+~
+0 -1 21823
+S
+#21842
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21841
+D1
+~
+~
+0 -1 21849
+D2
+~
+~
+0 -1 21843
+D5
+~
+~
+0 -1 21824
+S
+#21843
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21842
+D1
+~
+~
+0 -1 21844
+D5
+~
+~
+0 -1 21825
+S
+#21844
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21849
+D1
+~
+~
+0 -1 21845
+D3
+~
+~
+0 -1 21843
+D5
+~
+~
+0 -1 21826
+S
+#21845
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21846
+D3
+~
+~
+0 -1 21844
+D5
+~
+~
+0 -1 21827
+S
+#21846
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21847
+D2
+~
+~
+0 -1 21845
+D3
+~
+~
+0 -1 21849
+D5
+~
+~
+0 -1 21828
+S
+#21847
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D2
+~
+~
+0 -1 21846
+D3
+~
+~
+0 -1 21848
+D5
+~
+~
+0 -1 21829
+S
+#21848
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D1
+~
+~
+0 -1 21847
+D2
+~
+~
+0 -1 21849
+D3
+~
+~
+0 -1 21841
+D5
+~
+~
+0 -1 21830
+S
+#21849
+A maze of lights~
+Multicolored lights dance around you.
+~
+0 0 9
+D0
+~
+~
+0 -1 21848
+D1
+~
+~
+0 -1 21846
+D2
+~
+~
+0 -1 21844
+D3
+~
+~
+0 -1 21842
+D5
+~
+~
+0 -1 21831
+S
+#0
+
+
+#RESETS
+R 1 21717 4			; Randomize Lost deep in the Redlight District maze
+R 1 21729 4			; Randomize A room
+R 1 21730 4			; Randomize A room
+R 1 21731 4			; Randomize Somewhere in the Redlight District and Lost
+*
+M 1 21515 1 21564			Joseph to Joseph's Bedroom
+E 1 21501 100 3
+D 1 21562 2 1			; Second Floor Hallway Close South
+D 1 21563 0 1			; A filthy bedroom Close North
+D 1 21562 0 1			; Second Floor Hallway Close North
+D 1 21564 2 1			; Joseph's Bedroom Close South
+D 1 21558 0 1			; Second Floor Hallway Close North
+D 1 21559 2 1			; A filthy bedroom Close South
+D 1 21558 2 1			; Second Floor Hallway Close South
+D 1 21560 0 1			; A filthy bathroom Close North
+D 1 21546 2 2			; Joseph's Supply Store Lock South
+D 1 21547 0 1			; Joseph's Supply Room Close North
+D 1 21565 2 1			; Opiate Way Close South
+D 1 21569 0 1			; Living Room Close North
+D 1 21570 1 1			; Dining Room Close East
+D 1 21571 3 1			; A small bathroom Close West
+D 1 21573 5 1			; A hallway with stairs. Close Down
+D 1 21574 4 1			; Bottom of staircase Close Up
+D 1 21574 0 1			; Bottom of staircase Close North
+D 1 21575 2 1			; Powdered-covered room Close South
+D 1 21576 2 2			; Funny smelling room Lock South
+D 1 21577 0 1			; Weaponry Room Close North
+D 1 21582 2 1			; Crack house hallway Close South
+D 1 21583 0 1			; Walkin closet Close North
+D 1 21585 1 1			; Master Bedroom Close East
+D 1 21582 3 1			; Crack house hallway Close West
+D 1 21641 1 1			; Tank Close East
+D 1 21640 3 2			; Drunk Tank Lock West
+D 1 21653 2 2			; Shanty guard post Lock South
+D 1 21655 0 1			; Flowery path Close North
+D 1 21656 3 2			; Seeley's living quarters Lock West
+D 1 21657 1 1			; Selley's hidden bedroom Close East
+D 1 21648 3 1			; Centre for the Homeless Close West
+D 1 21649 1 1			; Small Shanty Close East
+*
+M 1 21502 1 21511			The drunk dockmaster to The Dockmaster's office
+E 1 21512 100 5
+*
+M 1 21500 3 21500			A slimy water sprite to Nearing the shore.
+*
+M 1 21501 2 21510			A dirty sailor to The dock beside the dirty harbor
+*
+M 1 21500 1 21506			A slimy water sprite to A dirty harbor
+*
+M 1 21501 1 21514			A dirty sailor to Road to the docks
+*
+M 1 21501 1 21517			A dirty sailor to Road through a costal town
+*
+M 1 21501 1 21510			A dirty sailor to The dock beside the dirty harbor
+*
+M 1 21503 1 21512			The customs officer to Customs Office
+*
+M 1 21504 1 21510			A grungy porter to The dock beside the dirty harbor
+E 1 21513 100 5
+*
+M 1 21504 1 21515			A grungy porter to The Dirty Brew
+*
+M 1 21504 2 21510			A grungy porter to The dock beside the dirty harbor
+*
+M 1 21505 1 21515			Dirty to The Dirty Brew
+G 1 21520 100
+G 1 21521 100
+G 1 21522 100
+*
+M 1 21506 1 21515			A drunk sailor to The Dirty Brew
+*
+M 1 21507 2 21515			A singing sailor to The Dirty Brew
+E 1 21514 100 17
+*
+M 1 21508 1 21515			A cute barmaid to The Dirty Brew
+*
+M 1 21507 1 21515			A singing sailor to The Dirty Brew
+*
+M 1 21509 1 21516			Karl to Karl's Duty Free Shop
+G 1 21526 100
+G 1 21528 100
+G 1 21527 100
+*
+M 1 21510 2 21523			A bag lady to A litter lined path
+*
+M 1 21511 2 21528			A cart-pushing bum to A littered path
+*
+M 1 21512 1 21531			An old psychadelic sage to Scenic View of the Harbor
+E 1 21515 100 3
+*
+M 1 21513 3 21533			A pack rat to Garbage pit
+*
+M 1 21513 3 21533			A pack rat to Garbage pit
+*
+M 1 21513 1 21536			A pack rat to New Garbage Pit
+*
+M 1 21514 1 21541			Rosalita to Rosalita's Ganga Shop
+G 1 21516 100
+G 1 21517 100
+G 1 21518 100
+G 1 21519 100
+*
+M 1 21516 2 21556			A filthy man to Filthy Bedroom
+*
+M 1 21516 2 21563			A filthy man to A filthy bedroom
+*
+M 1 21517 2 21554			A filthy woman to Filthy room
+*
+M 1 21517 2 21560			A filthy woman to A filthy bathroom
+*
+M 1 21518 1 21544			Wacky Wayne to Wayne's Wacky Weed Cafe
+G 1 21516 100
+G 1 21517 100
+G 1 21518 100
+G 1 21519 100
+*
+M 1 21519 1 21544			Dutch the pianist to Wayne's Wacky Weed Cafe
+E 1 21524 100 17
+*
+M 1 21520 1 21585			Johnathan to Master Bedroom
+E 1 21531 100 11
+*
+M 1 21521 1 21585			Lucy to Master Bedroom
+E 1 21530 100 16
+*
+M 1 21522 1 21585			Carol Anne to Master Bedroom
+E 1 21529 100 16
+*
+M 1 21523 1 21569			Nathan to Living Room
+E 1 21533 100 16
+*
+M 1 21524 1 21570			A teenage thug to Dining Room
+*
+M 1 21524 1 21570			A teenage thug to Dining Room
+*
+M 1 21524 1 21569			A teenage thug to Living Room
+*
+M 1 21524 1 21569			A teenage thug to Living Room
+E 1 21532 100 16
+*
+M 1 21525 1 21572			Doctor Boethe to Crack House kitchen
+E 1 21535 100 3
+E 1 21534 100 12
+E 1 21536 100 16
+*
+M 1 21526 2 21566			A rastafarian to Opiate Way
+G 1 21516 100
+*
+M 1 21526 1 21545			A rastafarian to Intersection of Klamark Street and Opiate Way
+*
+M 1 21526 1 21542			A rastafarian to Klamark Street
+*
+M 1 21527 1 21586			Marcos to Booze and Wine
+*
+M 1 21528 1 21523			A flatfoot policeman to A litter lined path
+E 1 21538 100 5
+E 1 21537 100 16
+*
+M 1 21528 2 21543			A flatfoot policeman to Klamark Street
+E 1 21538 100 5
+E 1 21537 100 16
+*
+M 1 21528 1 21566			A flatfoot policeman to Opiate Way
+E 1 21538 100 5
+E 1 21537 100 16
+*
+M 1 21529 1 21567			A filthy bum to Freebase Court
+*
+M 1 21529 1 21567			A filthy bum to Freebase Court
+G 1 21519 100
+*
+M 1 21530 1 21589			A smelly harlot to Queens 'R Wild Casino
+*
+M 1 21530 1 21589			A smelly harlot to Queens 'R Wild Casino
+*
+M 1 21531 2 21589			A bloke to Queens 'R Wild Casino
+*
+M 1 21531 2 21589			A bloke to Queens 'R Wild Casino
+*
+M 1 21532 1 21592			A homeless man to Vincent Boulevard
+*
+M 1 21533 1 21627			The filthy bum to Shrub-lined path outside town
+*
+M 1 21533 1 21635			The filthy bum to Tent City
+*
+M 1 21533 3 21635			The filthy bum to Tent City
+*
+M 1 21533 1 21638			The filthy bum to Tent City
+*
+M 1 21533 1 21636			The filthy bum to Tent City
+*
+M 1 21533 1 21631			The filthy bum to Tent City
+*
+M 1 21534 2 21634			A street urchin to Tent City
+*
+M 1 21534 1 21636			A street urchin to Tent City
+*
+M 1 21535 1 21645			Madame Thenardiess to City Apothecary
+G 1 21520 100
+G 1 21517 100
+G 1 21518 100
+*
+M 1 21536 1 21590			Ned to Born Again Used Christian Book Store
+G 1 21542 100
+G 1 21541 100
+G 1 21540 100
+G 1 21539 100
+*
+M 1 21537 1 21644			Dracul to Dracul's Blood Bank
+G 1 21544 100
+G 1 21543 100
+*
+M 1 21538 1 21647			Newsy to New's Papers
+*
+M 1 21539 1 21646			Rusty to Rusty Tap
+G 1 21520 100
+G 1 21522 100
+G 1 21519 100
+G 1 21545 100
+*
+M 1 21540 1 21646			Harold to Rusty Tap
+E 1 21546 100 7
+*
+M 1 21541 1 21646			Etienne to Rusty Tap
+*
+M 1 21542 1 21646			Edwina to Rusty Tap
+E 1 21547 100 17
+*
+M 1 21543 1 21648			The sad looking woman to Centre for the Homeless
+*
+M 1 21544 1 21648			The tired old man to Centre for the Homeless
+*
+M 1 21545 1 21648			Angelique to Centre for the Homeless
+E 1 21551 100 3
+*
+M 1 21546 1 21649			Rebecca to Small Shanty
+*
+M 1 21547 1 21643			The scrub lady to Public Washroom
+E 1 21550 100 5
+E 1 21548 100 16
+E 1 21549 100 17
+*
+M 1 21548 1 21642			Fannie to Fannie's Deli
+G 1 21557 100
+G 1 21556 100
+G 1 21555 100
+G 1 21554 100
+*
+M 1 21549 1 21641			A drunk to Tank
+E 1 21552 100 16
+*
+M 1 21550 1 21641			A lush to Tank
+E 1 21553 100 1
+*
+M 1 21551 1 21640			The watchman to Drunk Tank
+E 1 21537 100 16
+E 1 21504 100 17
+*
+M 1 21552 2 21635			A litter collector to Tent City
+*
+M 1 21552 1 21637			A litter collector to Tent City
+*
+M 1 21553 1 21653			A dirty bodyguard to Shanty guard post
+E 1 21559 100 9
+E 1 21558 100 16
+*
+M 1 21553 1 21653			A dirty bodyguard to Shanty guard post
+E 1 21559 100 9
+E 1 21558 100 16
+*
+M 1 21553 1 21654			A dirty bodyguard to Grubby guards' baracks
+E 1 21560 100 13
+E 1 21561 100 16
+*
+M 1 21553 1 21654			A dirty bodyguard to Grubby guards' baracks
+E 1 21560 100 13
+E 1 21561 100 16
+*
+M 1 21554 1 21655			Seeley's Gardener to Flowery path
+E 1 21562 100 16
+*
+M 1 21555 1 21656			Seeley to Seeley's living quarters
+E 1 21563 100 5
+E 1 21564 100 6
+*
+M 1 21556 1 21669			Sugar to Virgin Terrace
+*
+M 1 21557 1 21672			Spice to Virgin Terrace
+*
+M 1 21558 1 21715			Cherri to An intersection in a Redlight District alley
+E 1 21565 100 4
+*
+M 1 21559 1 21663			Mick to Wrap Sure
+G 1 21566 100
+G 1 21567 100
+G 1 21568 100
+*
+M 1 21560 1 21668			An officer to Virgin Terrace
+E 1 21570 100 11
+E 1 21569 100 16
+*
+M 1 21560 1 21700			An officer to Lost in a Redlight District alley
+E 1 21570 100 11
+E 1 21569 100 16
+*
+M 1 21560 1 21665			An officer to Chastity Drive
+E 1 21570 100 11
+E 1 21569 100 16
+*
+M 1 21561 1 21664			The police captain to Police Post
+E 1 21571 100 8
+E 1 21572 100 16
+*
+M 1 21562 1 21667			Jezabel to Jezabel's Naughty Toys
+*
+M 1 21563 1 21674			Mitch to Runaway Shelter
+E 1 21573 100 12
+*
+M 1 21564 1 21674			Billie to Runaway Shelter
+E 1 21573 100 12
+*
+M 1 21565 1 21674			Patsy to Runaway Shelter
+E 1 21573 100 12
+*
+M 1 21566 1 21674			Elaine to Runaway Shelter
+*
+M 1 21567 1 21674			Patrick to Runaway Shelter
+E 1 21574 100 6
+*
+M 1 21568 1 21676			Sticky to Sticky's Pages
+G 1 21539 100
+G 1 21575 100
+G 1 21576 100
+*
+M 1 21569 1 21677			Candi to Candi's Corner
+E 1 21577 100 16
+*
+M 1 21570 1 21682			Francoise to Landlord's apartment
+E 1 21578 100 7
+*
+M 1 21571 1 21683			The stable hand to Happy Quarter Hour Hotel Livery
+G 1 21579 100
+*
+M 1 21572 1 21692			The naked man to A Happy Lounge
+*
+M 1 21573 1 21692			The naked woman to A Happy Lounge
+*
+M 1 21574 1 21693			Happy, the hotelier. to Happy's Room
+E 1 21580 100 13
+*
+M 1 21575 1 21713			The sailor to Somewhere in a Redlight District alley
+*
+M 1 21575 1 21703			The sailor to Lost in a Redlight District alley
+*
+M 1 21575 1 21700			The sailor to Lost in a Redlight District alley
+*
+M 1 21575 1 21723			The sailor to Lost deep in the Redlight District maze
+*
+M 1 21575 1 21718			The sailor to A pile of bones deep in the Redlight District
+*
+M 1 21575 1 21723			The sailor to Lost deep in the Redlight District maze
+*
+M 1 21576 1 21741			Silver to On-Stage
+*
+M 1 21577 1 21738			Paige to In front of the stage
+*
+M 1 21578 1 21739			Chicki to A table with a view
+*
+M 1 21579 1 21744			Trish to Backstage Hallway
+*
+M 1 21580 1 21755			Ted to Ted's Bedroom
+*
+M 1 21581 1 21737			JD to Sleezy Eddie's Bar
+*
+M 1 21582 1 21596			Deputy Roscoe to Underworld Jail
+E 1 21507 100 13
+E 1 21537 100 16
+*
+M 1 21583 1 21596			Deputy Simon to Underworld Jail
+E 1 21581 100 16
+*
+M 1 21584 1 21604			Neil to Holding Cell
+D 1 21596 1 2			; Underworld Jail Lock East
+D 1 21601 0 2			; Jail's back room Lock North
+D 1 21601 1 2			; Jail's back room Lock East
+D 1 21601 2 2			; Jail's back room Lock South
+D 1 21601 3 1			; Jail's back room Close West
+D 1 21604 0 1			; Holding Cell Close North
+D 1 21602 2 1			; Holding Cell Close South
+D 1 21603 3 1			; Holding Cell Close West
+*
+M 1 21586 1 21595			A clerk to Drug Rehabilitation Clinic
+*
+M 1 21585 1 21595			A junkie to Drug Rehabilitation Clinic
+*
+M 1 21585 1 21595			A junkie to Drug Rehabilitation Clinic
+*
+M 1 21588 1 21597			A junkie to Education room
+*
+M 1 21588 1 21597			A junkie to Education room
+*
+M 1 21587 1 21597			Smits to Education room
+E 1 21582 100 17
+O 1 21508 100 21597			A green chalkboard to Education room
+*
+M 1 21589 1 21598			A straight jacketed junkie to Decontamination room
+E 1 21583 100 12
+O 1 21509 100 21600			A heavy metal chair to Idea Reformation room
+*
+M 1 21590 1 21605			Sven to Sven's Clothing Store
+D 1 21605 0 1			; Sven's Clothing Store Close North
+D 1 21607 2 1			; Changing Room Close South
+D 1 21606 3 1			; Changing room Close West
+D 1 21605 1 1			; Sven's Clothing Store Close East
+D 1 21605 2 1			; Sven's Clothing Store Close South
+D 1 21608 0 1			; Changing Room Close North
+D 1 21609 1 1			; Hidden Stairwell Close East
+D 1 21611 1 1			; Storage Cavern Close East
+D 1 21612 3 1			; Svens Closet Close West
+D 1 21612 1 1			; Svens Closet Close East
+D 1 21613 3 1			; Guard Post Close West
+*
+M 1 21591 1 21613			A guard to Guard Post
+E 1 21584 100 16
+*
+M 1 21591 1 21613			A guard to Guard Post
+E 1 21584 100 16
+*
+M 1 21591 1 21613			A guard to Guard Post
+E 1 21586 100 11
+E 1 21585 100 16
+*
+M 1 21592 1 21619			A dwarven pipemaker to Pipe Manufacturing
+E 1 21587 100 17
+*
+M 1 21592 1 21619			A dwarven pipemaker to Pipe Manufacturing
+*
+M 1 21592 1 21619			A dwarven pipemaker to Pipe Manufacturing
+D 1 21615 0 1			; A clean, well-lit corridor Close North
+D 1 21619 2 1			; Pipe Manufacturing Close South
+D 1 21615 2 1			; A clean, well-lit corridor Close South
+D 1 21620 0 1			; Bong Manufacturing Close North
+*
+M 1 21593 1 21620			The dwarven glassblower to Bong Manufacturing
+G 1 21588 100
+O 1 21510 100 21620			A huge metal furnace to Bong Manufacturing
+D 1 21617 2 1			; Syringe Manufacturing Close South
+D 1 21616 2 1			; A clean, well-lit corridor Close South
+D 1 21618 0 1			; Bagging Room Close North
+D 1 21616 0 1			; A clean, well-lit corridor Close North
+*
+M 1 21594 1 21617			A dwarven worker to Syringe Manufacturing
+E 1 21589 100 16
+*
+M 1 21595 1 21618			A dwarven bagger to Bagging Room
+G 1 21517 100
+*
+M 1 21595 1 21618			A dwarven bagger to Bagging Room
+G 1 21590 100
+*
+M 1 21596 1 21621			An elite dwarven guard to Elite guard room
+E 1 21592 100 3
+E 1 21591 100 16
+*
+M 1 21596 1 21621			An elite dwarven guard to Elite guard room
+E 1 21592 100 3
+E 1 21591 100 16
+*
+M 1 21596 1 21621			An elite dwarven guard to Elite guard room
+E 1 21592 100 4
+E 1 21591 100 16
+G 1 21511 100
+D 1 21621 1 2			; Elite guard room Lock East
+D 1 21622 3 1			; Ante room Close West
+D 1 21623 1 1			; The King Pin's Meeting Room Close East
+D 1 21624 3 1			; King Pin's bathroom Close West
+D 1 21626 4 1			; King Pin's Bedroom Close Up
+*
+M 1 21526 1 21625			A rastafarian to Servants' Chambers
+G 1 21516 100
+*
+M 1 21526 1 21625			A rastafarian to Servants' Chambers
+G 1 21518 100
+*
+M 1 21526 1 21623			A rastafarian to The King Pin's Meeting Room
+G 1 21517 100
+*
+M 1 21526 1 21623			A rastafarian to The King Pin's Meeting Room
+G 1 21519 100
+*
+M 1 21597 1 21626			The King Pin to King Pin's Bedroom
+E 1 21593 100 10
+E 1 21594 100 16
+O 1 21523 100 21544			A piano to Wayne's Wacky Weed Cafe
+D 1 21734 3 1			; Outside Sleezy Eddie's Night Club Close West
+D 1 21735 1 1			; Inside the nightclub Close East
+D 1 21743 0 1			; Backstage Hallway Close North
+D 1 21748 2 1			; Chicki's Dressing Room Close South
+D 1 21743 2 1			; Backstage Hallway Close South
+D 1 21749 0 1			; Trishi's Dressing Room Close North
+D 1 21744 0 1			; Backstage Hallway Close North
+D 1 21745 2 1			; Silver's Dressing Room Close South
+D 1 21744 2 1			; Backstage Hallway Close South
+D 1 21746 0 1			; Paige's Dressing Room Close North
+D 1 21746 3 1			; Paige's Dressing Room Close West
+D 1 21747 1 1			; Behind the mirror Close East
+D 1 21751 1 1			; Call Girl Hallway Close East
+D 1 21760 3 1			; Call Girl's Bedroom Close West
+D 1 21759 1 1			; Call Girl's Bedroom Close East
+D 1 21752 1 1			; Call Girl Hallway Close East
+D 1 21757 3 1			; Call Girl's Bedroom Close West
+D 1 21758 1 1			; Snookum's Bedroom Close East
+D 1 21752 3 1			; Call Girl Hallway Close West
+D 1 21753 1 1			; Call Girl Hallway Close East
+D 1 21756 3 1			; Call Girl's Bedroom Close West
+D 1 21755 1 1			; Ted's Bedroom Close East
+D 1 21753 3 1			; Call Girl Hallway Close West
+D 1 21754 5 1			; End of Call Girl Hallway Close Down
+D 1 21761 4 1			; Near Sleezy Eddie Close Up
+D 1 21763 3 1			; Sleezy's Harem Close West
+D 1 21762 1 1			; Sleezy Guard Post Close East
+D 1 21764 0 1			; Sleezy's Debauchary Centre Close North
+D 1 21767 1 1			; Sleezy Eddie's Office Close East
+*
+M 1 21598 1 21750			a busy clerk to Call Girl Centrale
+G 1 21595 100
+*
+M 1 21599 1 21758			Snookums to Snookum's Bedroom
+D 1 21539 5 1			; Bridge over a canal Close Down
+D 1 21643 5 1			; Public Washroom Close Down
+R 1 21831 6			; Randomize The center of the Lights
+*
+M 1 21600 2 21834			a blue orb to A maze of lights
+G 1 21596 100
+*
+M 1 21600 2 21847			a blue orb to A maze of lights
+G 1 21597 100
+*
+M 1 21602 2 21827			a green orb to A maze of lights
+G 1 21598 100
+*
+M 1 21602 2 21842			a green orb to A maze of lights
+G 1 21597 100
+*
+M 1 21601 2 21830			a red orb to A maze of lights
+G 1 21596 100
+*
+M 1 21601 2 21843			a red orb to A maze of lights
+G 1 21597 100
+*
+M 1 21603 2 21832			a yellow orb to A maze of lights
+G 1 21598 100
+*
+M 1 21603 2 21828			a yellow orb to A maze of lights
+G 1 21597 100
+*
+M 1 21604 1 21831			The ruling orb to The center of the Lights
+E 1 21599 100 17
+G 1 21596 100
+G 1 21597 100
+G 1 21598 100
+G 1 21600 100
+D 1 21531 4 1			; Scenic View of the Harbor Close Up
+S
+
+
+#SHOPS
+21505 17 8 0 0 0 150 90 0 23
+21509 2 3 8 12 1 150 90 0 23
+21514 8 19 0 0 0 150 90 0 23
+21518 19 17 8 0 0 130 80 0 23			Wacky Wayne
+21527 8 5 0 0 0 150 95 0 23			Marcos
+21535 0 0 0 0 0 120 95 0 23			(mobile is from another zone)
+21536 2 13 0 0 0 150 95 0 23			(mobile is from another zone)
+21537 0 17 0 0 0 150 95 0 23			(mobile is from another zone)
+21538 2 0 0 0 0 150 95 0 23			(mobile is from another zone)
+21539 5 13 0 0 0 150 95 0 23			(mobile is from another zone)
+21548 19 0 0 0 0 150 95 0 23			(mobile is from another zone)
+21559 13 15 0 0 0 120 95 0 23			(mobile is from another zone)
+21562 1 2 0 0 0 140 95 0 23			(mobile is from another zone)
+21568 2 5 0 0 0 150 98 0 23			(mobile is from another zone)
+21581 9 0 0 0 0 150 98 0 23			(mobile is from another zone)
+21590 0 0 0 0 0 150 95 0 23			(mobile is from another zone)
+0
+
+
+#$

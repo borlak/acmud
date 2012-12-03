@@ -1,0 +1,120 @@
+ACM to-do list.
+Please put a 'B' (if you're Borlak) or a 'P' (if you're Pip) in the boxes below
+when finished with that task.
+
+[ ] update the "press enter to continue" to show how many lines there are to go, and have
+    extra options like pressing "q" for quit or "b" for back.  that code in process_output
+    looks messy as crap.. take a close look at it
+[ ] finish shops -- new money thing i added
+[b] check out resets .. do we REALLY need subresets? maybe just put them underneath main resets
+[p] banks - a place to store all objects actually
+[bp] wizard commands.. set, stat, goto, invis, etc. etc.
+[b] updaters....timers...
+[b] put in all the help files for OLC .. name ? etc
+
+[B] updating player states (unconscious, sitting -- and corresponding commands)
+[B] add a bugs and suggest command - just text dump to a bugs.player and suggest.player list?
+[B] sort 'standard' exits in a specific way.  north,east,south,west,up,down always in that order
+    make sure there are no 'N' exits, should always say "north".. think this is done already
+    -- done with a dynamic order by statement in fread_exits.. so a reboot may be required before
+       a room shows "correct" exits.  shouldn't be a problem most for "open" areas :)
+[B] why are there 'north' 'south' commands etc.  should go through the exit list and use a
+    generic move_char type function -- guess its been too long, this is already the case, I
+    guess we had the "commands" so "n" would come before any other command, but it should
+    already be searching room exits FIRST in the interpreter.. so I commented it out for now
+[B] made 'config' borders dynamic.. hehe!
+// Since 11-17-2007
+[B] change all functions to use xobj and xcrit instead of obj and xcrit.. 
+[B] look at coins again , not sure I like how they are done..
+[B] nested containers - container in a container in a container..update them dynamically with trans
+// Since 3-18-2005 release
+[P] show exact matches in help first, then if other matches based on prefix, 
+    tell them how many matches, and then allow them to do help all [keyword]
+[PB] add some search function, to find the fastest route to a person/object (with dynamic exits)
+[P] add a system to index help files by topic
+[P] player configurable time zones
+[P] add more time options to time.  add real time, time since last startup, time of last shutdown/crash
+[P] shop editor
+[P] startup script
+[P] mounts
+[B] players give and drop (objects)
+[P] opening/closing doors
+[P] unlock/locking doors
+[B] save command
+[B] messaging - to room, to just 1 player, to everyone but 1....
+[B] object types.
+[B] inventory/
+[B] mob/obj/door resets.. convert and save
+[B] delete function.. area/room/reset/etc
+[P] equipment commands  .. wear, remove, equipment
+[B] gold/silver/coins etc.. as objects
+[B] infinite bits/flags
+[P] shops! load shops from areas as well.. - attached to creature/shopkeeper
+[P] add shop commands, list, buy, sell.
+[P] add online field to creature struct (for players), for PHP online web view
+[B] player attributes
+    str, dex, int -> other stats added to structs.
+[B] make sure all of this converts from merc area
+    and all of this is saved with mysql.  same for
+    object attributes and room attributes.
+[P] do a note list.
+[P] --add a note editor
+[P] channels
+[B] color
+[P] straighten up mysql code
+    mysql_add(buf,"name",ch->name);
+	should append name='Borlak'
+[B] socials
+[B] string editor
+[P] move help system to mysql -- need string editor
+[B] OLC
+[B] fix typedefs and crap so it's not so confusing.. DO_FUNC, cmd, ...
+[B] time?           - saves across system shutdowns.    global seconds... divide time however we want it.
+[B] create a thread to get hostnames -- changed how this works!  no threads
+[B] hotreboot
+[B] block control codes
+[B] if X lines of text are shown, pause and put 'press enter to continue'.. not in editors
+[B] add !
+[B] fix prompt / make customizable
+[BP] fix notes/helps
+[B] save/load objects for players
+[P] add "ALL" to the "get" command so I can type get "all" you crazy mofo.
+[B] keywords for objects/crits
+[B] do olc for flags - tables
+[B] OLC security
+[B] deleting a player.. removes objects from obj table
+[B] remove hanging connections/sockets
+[B] kill spammers
+[B] allow 1 login attempt every 30 seconds
+[B] banning
+[B] logging of specific commands, logging of players, log all...
+[B] daily backups -> mysqldump -hshinji -uborlak -p acm > #DATE -- then tar czhf
+[B] reset->loaded decremented when a mob is killed
+[B] slay/killing mobs, creating corpses
+[B] non-immortals can only save every 30 seconds
+[B] login and exit messages
+[B] making areas alive/dead when players enter/leave them
+[B] update time->last when you reboot/shutdown
+[B] modify stat world -- ill modify it in future to add total # players, total # objects on players.. mysql queries
+[B] fix resets when you delete objects and mobs
+[B] turning off and on channels
+[B] brief 
+
+ -- Docs!
+[ ] MySQL, show the manual commands, how to get to it, how to install it, etc.. 
+[ ] Codebase 'flow'
+[ ] Give examples of things people may want to do - such as pip's players personal shops!
+                                                  - layers on equipment
+
+ -- Stuff new coders will want to do
+[ ] Combat
+[ ] scripting language
+[ ] affects
+[ ] auction
+[ ] weather system. - persistant
+[ ] user definable colors for chats, tells..
+[ ] run the DB saving(mysql) on a separate process (or program?).. repeat 10000 save will lag the mud
+[ ] switch to iodbc/postgre - no mysql -- free yourself from GPL
+[ ] maybe an easier/more fluid way to do connection states/character creation
+
+
