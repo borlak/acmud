@@ -1,0 +1,102 @@
+#! /bin/sh
+
+#########################################################
+# A C Mud                                               #
+# Startup script                                        #
+#                                                       #
+#    This script keeps the mud continuously running.    #
+#    It also controls the log files.                    #
+#                                                       #
+#                         - Pip. / Jason Wallace        # 
+#                                                       #
+#########################################################
+
+###############
+## variables ##
+###############
+
+defport=6666 			## set your default port here
+deflog="$HOME/acm/log" 		## set your default log directory here
+defsrc="$HOME/acm/src"		## set your default src directory here
+defexec="mud"			## set your default executable name here
+defamount=100			## set the amount of logs you want before compressing
+				## can set to 0 for no compression.
+
+echo "Running ACM startup script..."
+
+######################################
+###         get the port           ###
+######################################
+if [ -z $1 ]  
+        then port="$defport"
+else
+        port=$1
+fi
+
+# port must be greater than 1024 and less than 20000
+while [ \( "$port" -le 1024 \) -o \( "$port" -gt 20000 \) ]; do
+	echo "Port must be greater than 1024 and less than 20000"
+        echo -n "Invalid port number.  Please select a new one:  "
+        read port
+done
+######################################
+###        check the logs          ###
+######################################
+## determine new log 
+############################################################################## change this ...
+## go thru directory and find largest log and increment?
+## or just do like merc and start with 1k and work around it?
+
+countlog=`ls -l $deflog/*.log 2> /dev/null | wc -l`
+counttgz=`ls -l $deflog/*.tgz 2> /dev/null | wc -l` 
+countlog=`expr $countlog + 1000`
+counttgz=`expr $counttgz + 1000`
+tgzfile="`date +%b.%e.%Y`-TGZ$counttgz.tgz"
+curdir=`echo $PWD`
+if [ "$defamount" -gt 0 ] 
+	then
+		if [ "$countlog" -ge "`expr $defamount + 1000`" ]
+			then 
+				cd $deflog
+				tar czhf "$tgzfile" *.log 
+				if [ -f "$tgzfile" ]
+					then rm -f *.log
+				fi
+				cd $curdir
+				set countlog = 0
+			else
+				echo "No compression needed yet."
+		fi
+fi
+######################################
+###       run the mud loop         ###
+######################################
+## only allow shutdown to stop script if script already running
+prevlog=0
+while [ 1 ]; do
+	if [ "$prevlog" -gt 0 ]
+		then
+			tail -1 $deflog/$prevlog.log > $deflog/tail.txt
+			if [ -n "`grep "Mud terminated normally." $deflog/tail.txt`" ]
+				then 
+					rm -f $deflog/tail.txt 2> /dev/null
+					echo "Mud shutdown normally... exiting startup script."
+					break;
+			elif [ -n "`grep "Address already in use" $deflog/tail.txt`" ]
+				then
+					rm -f $deflog/tail.txt 2> /dev/null
+					echo "Mud port is already in use... exiting startup script."
+					break;
+			fi
+			rm -f $deflog/tail.txt 2> /dev/null
+	fi
+	countlog=`expr $countlog + 1`
+	prevlog=$countlog
+	if [ ! -e $defsrc/$defexec ]
+		then
+			echo "You need to recompile there is no executable... exiting startup script."
+			break;
+	fi
+
+	$defsrc/$defexec $port > $deflog/$countlog.log 2>&1
+done
