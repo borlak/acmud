@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.5.24, for osx10.6 (i386)
 --
--- Host: ag2.armorgames.com    Database: acm
+-- Database: acm
 -- ------------------------------------------------------
 -- Server version	5.1.63-0+squeeze1
 
