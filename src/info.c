@@ -641,7 +641,7 @@ CMD(do_time)
 	minutes = (long) uptime / 60;
 	uptime -= 60 * minutes;        
 	seconds = (long) uptime;
-display_timestamp(18,crit->socket->hrs);
+
 	IsPlaying(crit) ? hrs = crit->socket->hrs : 0;
 
 	sendcrit(crit,"-----------------------------------------------");
