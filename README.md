@@ -14,4 +14,5 @@ Features:
 	<li>Objects are still in memory</li>
 	<li>OLC (On Line Creation)</li>
 </ul>
-
+<br>
+See the /doc directory for comments on how the source code works, more information on features, and thoughts for future development.
