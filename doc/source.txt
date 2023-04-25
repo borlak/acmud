@@ -1,0 +1,284 @@
+ACM - A C Mud
+-------------
+Documentation on the Source Code and how to use it's features.
+==============================================================
+
+This is my attempt to explain how to code new features, and use the current
+ones, of the mud.  Unfortunately, it has come to my attention that I am 
+terrible at explaining code.  If I start making no sense, just go check out the
+code for yourself and let it do the talking.  That is how I began ;)
+
+I hope we have created an easy to use base, with improvements on the old style
+of mud coding.
+
+==============
+Error Checking
+==============
+I do as little error checking as possible.  In MySQL, all fields are set to
+be default NULL (you can specify a field to be Not-NULL).  This makes sure
+you update the table correctly, or else you will crash when trying to atoi()
+or str_dup() from a MySQL row.  In the code, there are many 'implied valid
+pointers'.  You don't see me checking if(crit) if(obj) etc all over the code.
+I do this for a few reasons.  I believe if your code is clean, there should be
+no reason to double check everything.  The more 'checks' and 'fail-safes' you
+have in the code will only create more problems in the long run; it will be
+harder to debug when you crash, or you may end up with very strange behaviour
+in the mud that you are unable to pinpoint.  Of course, there are some 
+functions that use error checking, simply because it is part of their design.
+If I crash on a function because of a null passed variable, I go backwards
+and try to determine why it was null, and fix it that way; I do not simply
+check if it is null and then return the function.
+
+Similarly, there is a 'flow' in the code, that should be in the coder's mind
+when adding or changing any function.  As a new coder to this base, it will
+take some time to become familiar with this flow; but it will come.  You may
+notice that at points I call AddToList, or RemoveFromList, without checking
+if the object is even in a list first.  This is part of the error checking
+methodology; if the code is clean, and flows correctly, I should not have to
+check this.  If I make a mistake, it will crash, and I will see right where
+the problem is.  
+
+============
+Do Functions
+============
+Do functions are things like "get", "give", "who", "quit".  The format for
+calling a do function is:
+
+void do_func(CREATURE *crit, char **arguments, OBJECT *obj, CREATURE *xcrit);
+crit->The creature calling the function.
+**arguments->An ARRAY of arguments, ending with 0.  If the player did not type
+             any arguments, arguments[0] is 0.
+obj->If the function asks for or requires an object as an argument, it will be
+     passed here.
+xcrit->Same as obj, but a creature instead!
+
+In the code, you should not explicitly call a do_function, although there are
+times where you may want to.  You will need to call do functions using interpret:
+interpret(crit->socket, all_args(arguments,0));
+or interpret(crit->socket, "chat hello");
+
+What is all_args()?  Well, since I pass an array of arguments to do-functions,
+instead of passing the entire argument list (ala merc), we need a way to create
+the argument list again.  All_args does this for us.  Now to explain the format:
+
+char *all_args(char **arguments, int start);
+arguments->The array of arguments passed to the do function.
+start->The starting point of the arguments you want to stick together.  You may
+       want to skip the first argument (or more) in certain situations
+       (ie->tell borlak hey, what's up?).
+return->returns the static buf it wrote to
+
+Now, the last part I will talk about is the passing of objects and creatures
+automatically, which I mentioned above.  You may notice in command.h, in the
+command structure, the OBJ_REQUIRED, OBJ_POSSIBLE, etc. variables.  If you make
+a function OBJ_REQUIRED, it will go through the list of arguments the player has
+supplied and make sure one of them is an object.  If you specify OBJ_HELD or
+OBJ_GROUND, it makes sure said object is either in the player's inventory or on
+the ground.  You must specify one or the other.  Interpret uses the functions
+find_obj and find_crit, which you can use manually if you want; but the whole 
+idea is to limit repetitive code.  
+
+=========
+Messaging
+=========
+I have some documentation above the function, but I will repeat it here. 
+create_message() is used to message everyone in a room, and uses "triggers", so
+the output makes sense to everyone in the room.  First I will explain the
+message and it's arguments:
+
+void create_message(char *buf, void *actor, void *stage, void *extra, long world);
+buf->What message you want to display; complete with triggers.
+actor->The "doer" of the function.  Usually a creature, but can be an object or
+       room.
+stage->The receiver of the "message".  This is usually a creature.  If you 
+       specify a room, it will go to everyone in the room but the actor.
+extra->Anyone/anything else.  Extra can also be a string; so the function has
+       more functionality.
+world->Message everyone in the world(1)?  Send the message immediately?(2)
+
+An example message would be:
+message("$n hit$x $N with a $P!",crit,xcrit,obj);
+
+Anything with a "$" is a trigger.  In this case, the triggers mean:
+$n->The crit's(actor) name.  Anything lower case is related to the crit 
+    (for the most part)
+$N->The xcrit's(stage) name.  Same deal with actor, but capital letters refer to
+    the stage.
+$x->This adds a "s" or does not, depending on who gets the message. It would not
+    make sense for the actor to see "You hits..."
+$P->This is the "extra".  It can be $p or $P in this case, and as I mentioned
+    earlier, it could be a string.
+
+The messages that would be displayed are:
+(actor)You hit Pip with a stick!
+(stage)Borlak hits you with a stick!
+(extra)Borlak hits Pip with a stick!
+
+If you want to see the other triggers, check out the documentation above the
+function.  There are two macros for using create_message.  One is message() and
+the other is mesage_all().  I hope these are self explanatory :)  The purpose
+of the macros is to not force the coder to require the last 'world' argument,
+making some of the code a little confusing to read.  Search the code for
+message_all for examples.
+
+
+================
+String Functions
+================
+There are many string functions and argument manipulating functions in ACM.  I
+will list them here with an explanation of what they do.  most of these
+functions are in the form func(str1,str2).  If any of these are confusing,
+search for them in the code and see how they are used.
+
+strcmp     - unix strcmp.  compares str1 with str2 for an exact match
+strcasecmp - same as strcmp, but case does not matter
+strindex   - similar to strcasecmp, but allows abbreviation.  str1 and str2
+             will match if str1 is "bor" and str2 is "borlak"
+str_dup    - this is used to create memory space for str1 and copy the
+             contents of str2 to str1.  if str1 already has memory 
+             allocated, it will free it.  this way, you do not have to
+             check for memory and free it every time you wish to change
+             the string.  Usage: str_dup(&crit->name, "Borlak");
+noansi     - returns a static buffer with the same contents as str1, but
+             without any ansi codes.  '&+GHi&N' will return 'Hi'
+make_arguments - this takes a string seperated by spaces (ie.with multiple
+                 arguments) and creates an array of strings.
+                 "bor and pip" will become str[0] str[1] str[2]
+free_arguments - call this after you are done with the new argument array
+                 make_arguments created.
+all_args   - takes an array of arguments and returns a single static buffer
+             of the arguments combined.  so str[0](borlak) str[1](and) 
+             str[2](pip) will return "borlak and pip".  
+strlistcmp - compares two string lists to eachother.  will compare '1 2 3'
+             to '4 5 2', for example, and return a static buffer with '2', or
+             0 if no matches found.  words must match (strcasecmp)
+strargcmp  - find a word in a list of words.  'borlak' will be found in
+             'pip borlak durf sock'.  finds str2 in str1.  returns 0 on 
+             success, 1 if failure.
+strargindex - same as above, but abbreviations are allowed
+str_add    - This adds str2 onto str1 into a local static buffer and returns
+             it.  str1"borlak pip" str2"durf" = "borlak pip durf"
+str_minus  - Opposite of str_add!  str1"borlak pip durf" str2"durf" becomes
+             "borlak pip"
+strflags   - This does no string manipulation -- you supply it an object, 
+             creature, or room, and it returns what flags are set in a static
+             buffer.
+countlist  - This returns the number of times str2 shows up in str1.
+strstrl    - returns a long of the position of the first occurance of str1
+	     in str2. "012abc6" for "abc" will return a long value of 3. 
+findinset  - This searches str1 for str2, str1 is a set of strings seperated by a delim(str3)
+indexinset - same as above, but abbreviations are allowed.
+
+==============
+Wear Locations
+==============
+Wear locations are completely dynamic in ACM.  You can let a creature have all
+the default wear locations (such as body, legs, arms) or you can add new ones,
+such as ear, tattoo, tail, etc.  If you wish to add new ones, you need to
+modify the worn_table table in info.c.  This contains the keywords that
+builders must use on their objects.  They can put any keyword they want on
+players, but it will not work unless there is an object that matches it -- and
+it has to be in the code for them to be able to add that keyword to an object.
+Here are some of the possibilities:
+1) a full plate that takes up body, arms, and legs wear slots.
+2) two handed weapons that take up both held slots.
+3) a turtle who can only use it's "shell" as armor, but the shell may work as
+   a shield for players.
+One object takes up one wear slot.  Therefore, if you want players to be able
+to wear two rings, you need two "finger" wear slots (which they have by 
+default, currently).  If you want them to be able to wear 10 rings, you need
+to add 8 more "finger" wear slots to Default Creature (what players use as
+a template when they are created).  To determine what slots a keyword takes
+up (bodyarmslegs is the keyword builders use for an object that MUST be worn
+on body, arms, and legs), you need to modify the worn_table.  
+First field->keyword builders must use on objects (dont use these on creatures)
+Second field->what players will see when wearing/removing/looking at players
+Third field->Actual wear slots taken (what creatures should have as slots)
+Examples:
+     {"body",                "body",                 "body"                  },
+     {"bodyarmslegs",        "body, arms, and legs", "body arms legs"        },
+     {"twohanded",           "held in both hands",   "held held"             },
+
+=================
+Adding a Variable
+=================
+What if you want to make a new variable for creatures or objects?  It is 
+pretty simple to add a new variable, make it editable, and make it save
+and load from MySQL.  Here are the basic steps:
+1) Go into MySQL and add the variable to the table where you want it.  Also,
+   update the table for all the records of the new variable, so that it is
+   not NULL (update player set blah="";)
+2) Open io.h and add the appropriate variable at the appropriate spot on
+   the appropriate enum structure!
+3) Edit io.c functions ReadObjectMysql (or ReadCreatureMysql) and add the
+   variable to this in the appropriate fashion.  Do the same with 
+   WriteObjectMysql/WriteCreatureMysql.  If you are not adding a variable
+   to objects or creatures or resets, edit the fread_ and fwrite_ functions
+   directly.
+4) Edit editor.c and add a OlcInt (or OlcStr, etc), and then an ouput
+   line at the end of the appropriate function.
+5) Edit newdel.c, and depending on what you modified, initialize the variable
+   in it's appropriate function (new_object, new_creature).  For new player
+   variables (that should be stored in socket struct), modify reset_socket in
+   socket.c.
+6) Edit structs.h and add the variable to the appropriate structure.
+7) Full Recompile!
+
+
+================
+On Line Creation
+================
+The OLC of ACM is pretty robust.  It is a menu based system, with built in
+shortcuts.  For each object, you will see a menu item and a number next to it.
+You can either use the number, or the name of the menu item to
+reference/change/set it.  The code is done a lot with macros, to prevent a
+multitude of repetitive code.  Along with these macros, we have built in certain
+safeguards and features.  These would be:
+1) Referencing a menu item and putting ? (ie. 'name ?') will bring up a help
+   file that should help explain what that menu item is for.  The help file is
+   built depending on what type of object it is, and the menu item's name.
+   Therefore, if you add a new variable/menu item, you probably want to make a
+   help file for it.  It should give you the name of the help file when it is
+   not found.
+2) Most of the menu items have boundaries, set in the code.  You can force
+   builders to set the hitpoints of a creature from 1 to 10000, for example.
+3) The 'string lists' use the string functions str_add and str_minus, so you do
+   not have to re-type the whole line.  On wear locations,  for example, you can
+   just type 'wear ear' to add an ear slot.  To remove the ear slot, you must
+   type 'wear ear remove'. 
+4) There is a string editor you can use with any menu item, although it may not
+   make sense to use it with some (such as keywords).  To use this string
+   editor, you reference the menu item followed by a '@' (ie. name @).  The
+   string editor will come up and show the available commands.  The string
+   editor's purpose is so you can make multi-line strings.  This is useful for
+   descriptions, notes, help files...  
+5) Flags are done similar to the string lists, but you do not have to supply
+   the 'remove' argument to remove a flag.  To add and remove a flag, simply
+   reference the menu item and type the name of the flag.  
+6) You use the editor to edit the prototypes AND instances of the game.  There
+   is no 'set' 'mset' 'oset' command.  To edit an object in your inventory, you
+   would type 'edit object <object name>'.  To edit a prototype, you would type
+   'edit object <object vnum>'.  
+7) Both instances and prototypes have a 'Builders' field, which show who has
+   edited the object, if anyone.  This helps track down any possible cheating
+   imms, or helps find out who screwed up one of your objects ;)
+Example of an OLC Menu:
+[PLAYER] Builders[Borlak]
+    Vnum:           1
+ 1. Keywords:       dorkus
+ 2. Name:           Borlak
+ 3. Level:          3
+ 4. Description:    
+It looks default.
+ 5. Long Descr:     A Default Creature is here
+ 6. Wear Locations: held held body legs arms waist neck hands feet wrists finger finger
+ 7. Dexterity:      10
+ 8. Strength:       10
+ 9. Intelligence:   10
+10. Hp:             25
+11. Movement:       50
+12. Sex:            male
+13. Flags:          [Player Ansi Mount Notify]
+[Player Variables]
+14. Who_name        
+

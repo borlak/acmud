@@ -1,0 +1,31 @@
+-------------------------------------------------------------------------------
+
+                             Thoughts for A C Mud
+
+-------------------------------------------------------------------------------
+
+- This document contains ideas that you may want to implement, but we did not.
+
+*  Limited amounts of shop items.  You could use resets to control how often
+   shopkeepers have items... or you could do something unique for shops.
+   Currently shops have unlimited numbers of items.  Also, you can do the 
+   same thing for storage space for storage shops.  Limit the max weight a
+   storage spot can contain.
+
+*  You may also want to consider the possibility of player-owned shops.  
+   This could be done so anyone could walk up to someone and list their
+   wares, without bothering the player directly.  Also another idea on the
+   same line would be player owned shops that mobs can run.  You have the
+   same basic setup, with a variable owner on the shop struct also.  Also
+   a variable that keeps track of how much profit is made by the store.  
+   Then a player can walk into their store and "collect" the profits.  Good 
+   for roleplay, etc.  The list/buy/sell commands can be tweaked fairly 
+   easily to allow these possibilities.
+
+*  Another thing to do with our bank/storage shops:  You could base cost on
+   weight of object * days in storage.  More real.  We are only going to 
+   charge a one-time fee upon the original storage.
+
+*  Shops already have an interest variable -- you may want banks to charge
+   interest when player's withdraw money.  At 10% interest, when someone 
+   withdraws 50 copper, they get charged an additional 5.

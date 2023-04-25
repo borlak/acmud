@@ -1,0 +1,53 @@
+-------------------------------------------------------------------------------
+                             Features of A C Mud
+-------------------------------------------------------------------------------
+
+MySQL Database - Areas are all written to a MySQL Database, provided you have
+                 one set up.  The mud is a file-less system.  No saving or 
+                 reading from any files (except in the case of an area conversion).  
+                 All objects, creatures, rooms, are still loaded into memory, 
+                 MySQL is only used for saving data.
+
+Coins - Dynamic multi-coins.  You can add on, take away, or just have one coin
+        type and not have to change anything else in the code.
+
+OLC - Similar to many other Mud OLC's.  It is a menu based system, with a few
+      improvements.  Each menu item has a shortcut number--(ie. instead of
+      typing 'name horse' you can type '1 horse').  The object editor is set
+      up to make editing different object types much easier; you don't have to 
+      know what value0 and value1 mean for a light, weapon, or armor object.  
+      The reset code is very strong as well, giving you many possibilities on
+      how to control object/creature loading.
+
+Equipment - Dynamic wear locations.  How about a turtle that is wearing a
+            shell that only it can wear as armor; but players can hold to use
+            as a shield?  Or maybe a new race that has a tail wear slot, and
+            two extra arms?  This is easily done with the wear/equipment 
+            system we have set up, with no extra coding needed.
+
+Unlimited Exits - You are not limited by N/E/S/W or NE/NW/SE/SW.  You can make
+                  up any exit name you wish, or use the default ones.
+
+Infinite Flags - Used to only being able to set 32 flags?  ACM does not limit
+                 the number of flags you may have.
+
+Hotreboot - Reboot the mud without kicking off any players.
+
+Unbloated - The whole 'mud system' is very minimal, and ready for a coder to
+            create his mud.  We thought up what we thought were the essential
+            items to create a mud and added those.  This leaves combat, races,
+            classes, etc. to be decided upon by the Implementor.
+
+Ease of Use - The codebase is built for coders and builders.  The functions
+              provided are very powerful, and there should be little or no
+              repetitive code.  Some examples to look at are create_message(),
+              trans(), str_dup(), and the way MySQL, OLC, and prototyping are
+              done.
+
+Help System - A simple yet powerful help system organized by topics that allow
+	      players to find any help file without the need to link help 
+	      keywords in the help files themselves.  
+
+Time zones - The mud allows for player-configurable time zones.  Players just
+ 	     set how many hours from GMT they are, and ALL future times are
+	     shown to them in their time zone.  

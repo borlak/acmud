@@ -11,12 +11,15 @@
 [ ] deleting a reset caused crash
 [ ] resets don't show that you are editing them? i.e. pip edits shop[0]?
 [ ] resets use check_builder but don't have a check for resets?
-[b] wierd descriptor bug when rebooting while two instances of the mud are up 
+[b] wierd descriptor bug when rebooting while two instances of the mud are up
     (ie.builder/test port).. it will usurp players from the other mud
     -- pip try and reproduce this, doesn't seem to work anymore
+[ ] editor: weight doesn't seem to be implemented
+[ ] editor: adding an already-existing wear location should delete it, not add it again
+[ ] typo/bug/idea commands don't say thanks or anything, just blank
 
 // FIXED
-[B] duplicate equipment bug - logging in and out dupes worn/inventory?!? 
+[B] duplicate equipment bug - logging in and out dupes worn/inventory?!?
     when did this happen?
 // SINCE 11/17/2007
 [PB] you can't @delete 1
@@ -55,9 +58,9 @@
 [P] some clients (putty is a known one) will come up with invalid name for the first
     attempt, but work after that... they must send extra characters the first time?
     -- discovered this is a putty issue, the first time it connects everywhere instead
-    of the first letter it does some wierd stuff, here's a log for the name pip: [LOG] ARG: û û'ûip
+    of the first letter it does some wierd stuff, here's a log for the name pip: [LOG] ARG: ï¿½ ï¿½'ï¿½ip
     does this on a number of different muds and mud bases.
-[B] in coin_string function, seems to hold "strings" in memory 
+[B] in coin_string function, seems to hold "strings" in memory
     as well as the worth. i.e. if you call it twice it keeps the same
     "worth" value and uses it again for the next function.
     -- this problem is with sprintf and static chars.. work around it.
